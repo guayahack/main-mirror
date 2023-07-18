@@ -1,4 +1,3 @@
-
 ```{post} 2023-07-18
 :author: "@jdsalaro"
 :tags: newbie, backend, frontend, security, data, infrastructure
@@ -27,12 +26,16 @@ $ git clone git@gitlab.com:guayahack/main.git
 
 ### Creando tu Branch
 
-Lorem Ipsum
+```
+$ git checkout -b {BRANCH_NAME}
+```
 
 ### Realizando Cambios y Haciendo Push
-
-Lorem Ipsum
-
+```
+$ git add . # Agrega todos los archivos del directorio actual al stage 
+$ git commit -m "{COMMENT}" . # Agrega la descripción del commit al stage
+$ git push # Envía los datos al "origin" (la rama del repositorio REMOTO, aka Gitlab)
+```
 
 ### Abriendo un Merge/Pull Request
 
@@ -57,8 +60,10 @@ Lorem Ipsum
 ## Problemas Comunes
 
 ### Problema
-
-Lorem Ipsum
+En caso de que nos arroje un error de que no encuentra el origen, debemos agregar 
+```
+$ git push --set-upstream-to=origin/{BRANCH} # Envía los datos al "origin"/{BRANCH} 
+```
 
 #### Solución
 
