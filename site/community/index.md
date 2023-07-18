@@ -11,7 +11,7 @@
 
 ## Miembros
 
-Aunque GuayaHack es una iniciativa creada por @jdsalaro, es un esfuerzo colaborativo de tod@s para tod@s, éstos son sus miembros:
+Aunque GuayaHack es una iniciativa creada por {doc}`/community/member/jdsalaro`, es un esfuerzo colaborativo de tod@s para tod@s, éstos son sus miembros:
 
 ## Voluntarios
 
@@ -19,7 +19,7 @@ Aunque GuayaHack es una iniciativa creada por @jdsalaro, es un esfuerzo colabora
 
 Todos los moderadores son tutores.
 
-1. @jdsalaro
+1. {doc}`/community/member/jdsalaro`
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
