@@ -1,0 +1,11 @@
+.git
+*.pyc
+*.pickle
+*.lock
+*.ipynb_checkpoints
+.tox/
+*.swo
+_build
+tmp
+*.swp
+

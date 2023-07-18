@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sphinx-togglebutton = "*"
+sphinx-copybutton = "*"
+pyyaml = "*"
+myst-nb = "*"
+sphinx-design = "*"
+sphinxext-opengraph = "*"
+sphinxext-rediraffe = "*"
+pydata-sphinx-theme = "*"
+sphinx-sitemap = "*"
+black = {extras = ["jupyter"], version = "*"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
