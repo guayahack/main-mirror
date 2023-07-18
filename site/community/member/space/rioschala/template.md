@@ -1,9 +1,9 @@
 
 ```{post} 2023-07-18
-:author: "@guayahack"
+:author: "@rioschala"
 :tags: nota, tarea
 :category: miembros
-:language: Español
+:language: English
 :location: Colombia
 :excerpt: 1
 ```

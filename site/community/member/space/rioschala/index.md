@@ -18,11 +18,11 @@ Me gustan los videojuegos, especialmente Valorant main Fade.
 
 ## TODO
 
-```{figure} index.md-data/tux.png
+```{figure} index.md-data/valorant.png
 ---
-name: rioschala-tux
+name: rioschala-valorant
 ---
-Tux
+Valorant
 ```
 
 ```console
