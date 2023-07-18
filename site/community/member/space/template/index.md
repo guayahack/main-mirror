@@ -1,20 +1,16 @@
 
 ```{post} 2023-07-18
-:author: "@jdsalaro"
-:tags: fundador, moderador
+:author: "@guayahack"
+:tags: fundador, moderador, tutor, participante
 :category: espacios
 :language: Español
 :location: Colombia
 :excerpt: 1
 ```
 
-# @jdsalaro's Space
+# @guayahack's Space
 
-Hola soy `@jdsalaro`! 
-
-Me gustan los computadores, la música electrónica, los deportes y los idiomas. 
-
-Mi artista favorito es [Avicii](https://en.wikipedia.org/wiki/Avicii).
+Hola soy `@guayahack`! 
 
 Éste es mi espacio en GuayaHack.
 
@@ -22,7 +18,7 @@ Mi artista favorito es [Avicii](https://en.wikipedia.org/wiki/Avicii).
 
 ```{figure} index.md-data/tux.png
 ---
-name: tux
+name: guayahack-tux
 ---
 Tux
 ```
