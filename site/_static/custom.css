@@ -17,6 +17,7 @@ a {
 html {
     --pst-sidebar-font-size: 1.1em;
     --pst-font-family-heading: "Space Mono";
+    --pst-font-family-base: 'Ubuntu', var(--pst-font-family-base-system);
 }
 
 /* anything related to the light theme */
