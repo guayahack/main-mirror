@@ -1,4 +1,3 @@
-
 ```{post} 2023-07-18
 :author: "@isaiDev343"
 :tags: moderador, tutor
@@ -12,6 +11,6 @@
 
 ## Hola a todos
 
-Hola chicos soy `@isaiDev343"` , me gusta cualquier tema relacionado a la tecnologia, soy bueno con react y nodejs y bases de datos.
+Hola chicos soy `@isaiDev343"` , me gusta cualquier tema relacionado a la tecnologia, soy bueno con react, nodejs y bases de datos.
 Me gustan las películas sci fi y trillers, me gustan los videojuegos desde que tengo uso y razón.
 Rock, Pop y rap.
