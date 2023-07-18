@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Space+Mono');
 
 a {
+/*
     text-decoration: underline;
+*/
+    font-weight: bold;
+    font-family: "Space Mono";
 }
 
 html {
