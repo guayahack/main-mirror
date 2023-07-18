@@ -1,0 +1,4 @@
+
+# Manifesto
+
+%#todo:write

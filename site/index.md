@@ -8,7 +8,7 @@
 :hidden:
 community/index.md
 ```
-Puedes aprender más sobre GuayaHack y sus miembros en [Comunidad](community/index.md)
+Puedes aprender más sobre GuayaHack y sus miembros en [Comunidad](community/index.md) o leyendo las [Reglas](community/rules.md) y nuestro [Manifiesto](community/manifest.md)
 
 ## Guías, Materiales y Otros
 

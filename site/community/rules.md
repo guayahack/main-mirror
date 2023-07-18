@@ -1,0 +1,5 @@
+
+# Reglas
+
+%#todo:escribir
+
