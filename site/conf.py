@@ -32,8 +32,26 @@ language = "es"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'pydata_sphinx_theme'
+html_title = "main@GuayaHack"
+html_logo = "_static/logo.png"
+html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
+
 html_theme_options = {
-    "": "",
+    #    "": "",
 }
+
+html_context = {
+   "default_mode": "dark"
+}
+
+html_sidebars = {
+    "**": [
+        "navbar-logo.html",
+        "sbt-sidebar-nav.html",
+        "search-field.html",
+    ]
+}
+
+html_css_files = ["custom.css"]
+

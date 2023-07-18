@@ -1,6 +1,14 @@
 
 # Comunidad
 
+```{toctree}
+:maxdepth: 1
+:hidden:
+:glob:
+./*
+```
+
+
 ## Miembros
 
 Aunque GuayaHack es una iniciativa creada por @jdsalaro, es un esfuerzo colaborativo de tod@s para tod@s, éstos son sus miembros:
