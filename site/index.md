@@ -11,13 +11,13 @@ Bienvenid@s a GuayaHack, un grupo de estudio de Programación que surgió como i
 :hidden:
 :caption: "# GuayaHack"
 # Community <community/index.md>
-# WIKI <wiki/index.md>
+# Posts <posts/index.md>
 ```
 Puedes aprender más sobre GuayaHack y sus miembros en [Comunidad](community/index.md) o leyendo las [Reglas](community/rules.md) y nuestro [Manifiesto](community/manifest.md)
 
 ## Guías, Materiales y Otros
 
-Esa tal documentación no existe, por eso hay que crearla. Escriba primero, piense despues :), por ejemplo en la [WIKI](wiki/index.md)
+Esa tal documentación no existe, por eso hay que crearla. Escriba primero, piense despues :), por ejemplo en la [WIKI](https://guayahack.co/posts/category/wiki/)
 
 
 

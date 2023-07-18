@@ -75,7 +75,7 @@ html_sidebars = {
 
 blog_baseurl = "https://guayahack.co"
 blog_feed_archives = True
-blog_path = "wiki"
+blog_path = "posts"
 blog_title = "GuayaHack"
 blog_baseurl = "https://guayahack.co"
 blog_feed_subtitle = "@main"
