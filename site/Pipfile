@@ -16,6 +16,8 @@ sphinx-sitemap = "*"
 black = {extras = ["jupyter"], version = "*"}
 sphinx-book-theme = "*"
 cloud-sptheme = "*"
+ablog = "*"
+myst-parser = {extras = ["linkify"], version = "*"}
 
 [dev-packages]
 

@@ -17,15 +17,17 @@ Aunque GuayaHack es una iniciativa creada por @jdsalaro, es un esfuerzo colabora
 
 ### Moderadores
 
+Todos los moderadores son tutores.
+
 1. @jdsalaro
-1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 
 ### Tutores
 
-1. @jdsalaro
+Todos los tutores son participantes.
+
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
@@ -33,7 +35,6 @@ Aunque GuayaHack es una iniciativa creada por @jdsalaro, es un esfuerzo colabora
 
 ### Participantes
 
-1. @jdsalaro
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD

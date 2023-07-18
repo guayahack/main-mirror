@@ -8,6 +8,10 @@ a {
     font-family: "Space Mono";
 }
 
+.ablog__collection .ablog-post ul.ablog-archive {
+    font-size: 1em !important;
+}
+
 html {
     --pst-sidebar-font-size: 1.1em;
     --pst-font-family-heading: "Space Mono";
@@ -19,6 +23,7 @@ html[data-theme="light"] {
     /* whatever you want to change */
     --pst-color-muted: #35236c;
     --pst-color-link: #2373ad;
+    
     background: white;
 }
 
@@ -28,5 +33,7 @@ html[data-theme="dark"] {
     /* whatever you want to change */
     --pst-color-muted: #13cd3c;
     --pst-color-link: #ff71b8;
+    --pst-color-text-base: #e1e1e1;
+    
     background: black;
 }

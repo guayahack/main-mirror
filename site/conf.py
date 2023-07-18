@@ -14,9 +14,10 @@ author = "Jayson Salazar Rodriguez"
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    "ablog",
     "sphinx_togglebutton",
     "sphinx_copybutton",
-    "myst_nb",
+    "myst_parser",
     "sphinx_design",
     "sphinxext.rediraffe",
     "sphinxext.opengraph",
@@ -41,9 +42,7 @@ html_theme_options = {
     #    "": "",
 }
 
-html_context = {
-   "default_mode": "dark"
-}
+html_context = {"default_mode": "dark"}
 
 html_sidebars = {
     "**": [
@@ -55,3 +54,51 @@ html_sidebars = {
 
 html_css_files = ["custom.css"]
 
+html_sidebars = {
+    "**": [
+        "navbar-logo.html",
+        # "newsletter.html",
+        "icon-links.html",
+        "sbt-sidebar-nav.html",
+        "ablog/postcard.html",
+        "search-field.html",
+        "ablog/categories.html",
+        "ablog/tagcloud.html",
+        "ablog/archives.html",
+    ],
+}
+
+
+###############################################################################
+# ablog
+###############################################################################
+
+blog_baseurl = "https://guayahack.co"
+blog_feed_archives = True
+blog_path = "wiki"
+blog_title = "GuayaHack"
+blog_baseurl = "https://guayahack.co"
+blog_feed_subtitle = "@main"
+blog_feed_fulltext = False
+# blog_post_pattern = "blog/*/*"
+# post_redirect_refresh = 1
+# post_auto_image = 0
+# post_auto_excerpt = 0
+
+
+myst_enable_extensions = [
+    "amsmath",
+    #    "attrs_inline",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "linkify",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+]
