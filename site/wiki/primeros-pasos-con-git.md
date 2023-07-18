@@ -32,6 +32,39 @@ Nosotros usamos el grupo de GuayaHack en https://gitlab.com/guayahack para todos
 
 ### El Ciclo Normal de Git
 
+#### Con Permisos
+
+
+
+
+
+#### Sin Permisos
+
+- fork basicamente una copia del proyecto ( git clone ... guardas en algun lado)
+en la plataforma gitlab/github click en fork
+
+https://gitlab.com/jdsalaro/main-con-alejandro
+
+foto
+
+
+
+
+- dos opciones para hacer cambios
+
+- cambios locales en el compu (descargar / clonar)
+
+- cambios remotos si donde yo tengo el repo me lo permite (editor web gitlab)
+
+- si cambio local -> clonar
+
+- despues de clonar hace sus cambios -> push al repositorio
+
+
+- cambio remoto web ide
+
+
+
 ### Contribuyendo a un Repositorio
 
 #### Fork
