@@ -35,7 +35,7 @@ Todos los tutores son participantes.
 
 ### Participantes
 
-1. NOMBRE_DISCORD
+1. {doc}`/community/member/danteboe`
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
