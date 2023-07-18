@@ -14,7 +14,7 @@
 
 ## Objetivo
 
-Tú objetivo será `1` crear tu post de presentación similar a {doc}`/community/member/jdsalaro` y `2` agregar tu nombre a la lista de miembros en {doc}`/community/index` y enlazarlo con tu post de `1`. 
+Tú objetivo será `1` crear tu espacio en GuayaHack y tu `index.md` de presentación similar a {doc}`/community/member/space/jdsalaro/index` y `2` agregar tu nombre a la lista de miembros en {doc}`/community/index` enlazándolo con `1`. 
 
 
 ## Guía 

@@ -26,7 +26,7 @@ extensions = [
 ]
 
 templates_path = ["_templates"]
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**/template.md"]
 
 language = "es"
 
@@ -102,3 +102,5 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
+
+autosectionlabel_prefix_document = True
