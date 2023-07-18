@@ -15,7 +15,7 @@ Git es una poderosa herramienta que permite colaborar en equipo con otros desarr
 Nota: para esta solución, se supone que tienes VS Code instalado. En lo personal, me gusta la facilidad con la que se pueden guardar los cambios que realizas con tu repositorio en GitLab.
 `TODO`
 
-## 1. Fork del repositorio principal.
+## 1. Fork del repositorio principal
 
 `FORK` es el nombre que se le da al proceso mediante el cual tú creas una copia de determinado repositorio en tu propia cuenta. Esto significa que puedes hacer contribuciones a un repositorio incluso sin ser miembro del grupo de desarrollo. Los cambios que hagas no se guardarán en el repositorio original, a menos que hagas un `merge request.`
 
@@ -26,7 +26,7 @@ name: fork-button
 Usando el boton superior derecho, puedes hacer fork del repositorio.
 ```
 
-## 2. Clonar tu fork usando Git.
+## 2. Clonar tu fork usando Git
 Puedes seguir este tutorial para instalar [GitBash](https://www.educative.io/answers/how-to-install-git-bash-in-windows), que es la herramienta que personalmente uso.
 
 Primero, debes dirigirte al directorio en donde quieres clonar tu proyecto. (Si no tienes experiencia navegando usando una consola, [este artículo](https://www.computerhope.com/issues/ch000795.htm) te puede resultar útil).
@@ -44,7 +44,7 @@ Ingresa lo siguiente en la consola de Git Bash.
 ```console
 $ git clone <tu link>
 ```
-
+## 3. Crear tu introducción personal
 En el directorio (carpeta) que clonaste tu proyecto, deberían aparecerte los archivos del proyecto. 
 
 Primero, dirígete a `site\community\member\spaces\index.md`
@@ -65,6 +65,9 @@ name: template
 ---
 Acá podrás darte a conocer ante el mundo.
 ```
+
+## 4. Pull request - Sincronizar tus cambios con GitLab
+
 Cuando hayas acabado, es tiempo de hacer una `push request` con tu repositorio fork. Es decir, haremos que los cambios realizados aparezcan en GitLab.
 Usando VS Code, es tan fácil como dirigirte al ícono de `branch`, y dando click a `stage all changes` en la parte superior izquierda.
 
