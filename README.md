@@ -14,6 +14,10 @@ Bienvenid@ al proyecto principal de documentación de GuayaHack, un grupo de est
 
 ## Documentación 
 
+https://www.sphinx-doc.org/
+
+https://sphinx-themes.org/sample-sites/pydata-sphinx-theme/
+
 https://docs.gitlab.com/ee/user/project/pages/
 
 https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html

@@ -1,5 +1,5 @@
 
-License Copyright: Copyright (c) 2022 Jayson Salazar Rodriguez
+License Copyright: Copyright (c) 2023 Salazar Rodriguez
 License License: MIT
 License Contact: guayahack@gmail.com
 
