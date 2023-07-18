@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-# Presenándose y Entendiendo GGG (GuayaHack, Git, GitLab)
+# Presentándose y Entendiendo GGG (GuayaHack, Git, GitLab)
 
 Ésta es la primera tarea con la que todo newbie deberá comenzar. 
 
