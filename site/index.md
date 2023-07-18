@@ -17,7 +17,7 @@ Puedes aprender más sobre GuayaHack y sus miembros en [Comunidad](community/ind
 
 ## Guías, Materiales y Otros
 
-Esa tal documentación no existe, por eso hay que crearla. Escriba primero, piense despues :), por ejemplo en la [Wiki](wiki/index.md)
+Esa tal documentación no existe, por eso hay que crearla. Escriba primero, piense despues :), por ejemplo en la [WIKI](wiki/index.md)
 
 
 
