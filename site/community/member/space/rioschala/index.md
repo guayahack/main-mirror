@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@rioschala"
-:tags: idiomas, participante, tutor novato
+:tags: participante, tutor
 :category: espacios
 :language: English
 :location: Colombia
