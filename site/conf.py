@@ -8,7 +8,7 @@
 
 project = "GuayaHack"
 copyright = "2023, Jayson Salazar Rodriguez"
-author = "Jayson Salazar Rodriguez"
+author = "La comunidad GuayaHack"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
