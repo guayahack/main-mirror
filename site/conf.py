@@ -65,6 +65,11 @@ html_theme_options = {
             "icon": "fa-brands fa-instagram",
         },
         {
+            "name": "GitLab",
+            "url": "https://gitlab.com/guayahack",
+            "icon": "fa-brands fa-gitlab",
+        },
+        {
             "name": "Mastodon",
             "url": "https://mastodon.social/@guayahack",
             "icon": "fa-brands fa-mastodon",
@@ -74,11 +79,6 @@ html_theme_options = {
             "name": "Twitch",
             "url": "https://twitter.com/twitch",
             "icon": "fa-brands fa-twitch",
-        },
-        {
-            "name": "GitLab",
-            "url": "https://gitlab.com/guayahack",
-            "icon": "fa-brands fa-gitlab",
         },
         {
             "name": "Twitter",
@@ -94,7 +94,7 @@ html_theme_options = {
             "name": "Blog RSS feed",
             "url": "https://jdsalaro.com/blog/atom.xml",
             "icon": "fa-solid fa-rss",
-        },
+            },
     ],
 }
 
