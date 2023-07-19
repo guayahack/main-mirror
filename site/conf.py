@@ -55,6 +55,12 @@ html_theme_options = {
             "icon": "fa-brands fa-github",
         },
         {
+            "name": "Facebook",
+            "url": "https://facebook.com/guayahack",
+            "icon": "fa-brands fa-facebook",
+        },
+        {
+        {
             "name": "Instagram",
             "url": "https://instagram.com/guayahack",
             "icon": "fa-brands fa-instagram",
