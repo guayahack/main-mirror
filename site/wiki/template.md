@@ -1,6 +1,6 @@
 ```{post} 2023-06-30
 :author: GuayaHack
-:tags: mytag
+:tags: newbie, organización, incompleto
 :category: wiki
 :language: Español
 :excerpt: 1
@@ -8,7 +8,7 @@
 
 # Título
 
-Corta introducción
+#TODO:escribir
 
 ## H2
 

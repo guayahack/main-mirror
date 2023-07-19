@@ -8,7 +8,7 @@
 
 # Áreas, Niveles y Progreso en GuayaHack
 
-Corta introducción
+#TODO:escribir
 
 ## Áreas
 
