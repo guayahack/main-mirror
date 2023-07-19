@@ -38,5 +38,6 @@ Todos los tutores son participantes.
 1. {doc}`/community/member/space/danteboe/index`
 1. {doc}`/community/member/space/draccobandi/index` 
 1. {doc}`/community/member/space/rioschala/index`
+1. {doc}`/community/member/space/shavenbaboon/index`
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
