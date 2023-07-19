@@ -41,6 +41,8 @@ html_static_path = ["_static"]
 
 html_theme_options = {
     #    "": "",
+    "announcement": "Las últimas noticias y cambios en GuayaHack los encuentran en https://guayahack.co/noticias 🔔",
+
 }
 
 html_context = {"default_mode": "dark"}
@@ -105,3 +107,5 @@ myst_enable_extensions = [
 ]
 
 autosectionlabel_prefix_document = True
+
+
