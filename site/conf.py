@@ -26,7 +26,7 @@ extensions = [
 ]
 
 templates_path = ["_templates"]
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**/template.md"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**/template*"]
 
 language = "es"
 
@@ -41,6 +41,61 @@ html_static_path = ["_static"]
 
 html_theme_options = {
     #    "": "",
+    "announcement": "Las últimas noticias y cambios en GuayaHack los encuentran en #Noticias 🔔",
+    "analytics": {"google_analytics_id": "G-2VR9YCCEEM"},
+    "icon_links": [
+#        {
+#            "name": "LinkedIn",
+#            "url": "https://linkedin.com/in/guayahack",
+#            "icon": "fa-brands fa-linkedin",
+#        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/guayahack",
+            "icon": "fa-brands fa-github",
+        },
+        {
+            "name": "Facebook",
+            "url": "https://facebook.com/guayahack",
+            "icon": "fa-brands fa-facebook",
+        },
+        {
+            "name": "Instagram",
+            "url": "https://instagram.com/guayahack",
+            "icon": "fa-brands fa-instagram",
+        },
+        {
+            "name": "GitLab",
+            "url": "https://gitlab.com/guayahack",
+            "icon": "fa-brands fa-gitlab",
+        },
+        {
+            "name": "Mastodon",
+            "url": "https://mastodon.social/@guayahack",
+            "icon": "fa-brands fa-mastodon",
+            "attributes": {"rel": "me"},
+        },
+        {
+            "name": "Twitch",
+            "url": "https://twitter.com/twitch",
+            "icon": "fa-brands fa-twitch",
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/guayahack",
+            "icon": "fa-brands fa-twitter",
+        },
+#        {
+#            "name": "TikTok",
+#            "url": "https://tiktok.com/@guayahack",
+#            "icon": "fa-brands fa-tiktok",
+#        },
+        {
+            "name": "Blog RSS feed",
+            "url": "https://jdsalaro.com/blog/atom.xml",
+            "icon": "fa-solid fa-rss",
+            },
+    ],
 }
 
 html_context = {"default_mode": "dark"}
@@ -105,3 +160,5 @@ myst_enable_extensions = [
 ]
 
 autosectionlabel_prefix_document = True
+
+

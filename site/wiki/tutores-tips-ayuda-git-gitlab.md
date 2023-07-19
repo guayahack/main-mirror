@@ -1,12 +1,12 @@
 ```{post} 2023-06-30
 :author: GuayaHack
-:tags: newbie, organización, incompleto
+:tags: tutor, incompleto
 :category: wiki
 :language: Español
 :excerpt: 1
 ```
 
-# Título
+# Tips para Tutores en Git y GitLab
 
 #todo:escribir
 

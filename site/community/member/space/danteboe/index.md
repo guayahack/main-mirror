@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-# Espacio de @danteboe
+# @danteboe
 
 Hola soy `@danteboe` (@danteboe1 en Discord). Soy estudiante de Ingeniería de Sistemas en Colombia. Me gusta programar, aprender idiomas nuevos y el yoga. Éste es mi espacio.
 

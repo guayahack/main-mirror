@@ -1,14 +1,14 @@
 
 ```{post} 2023-07-18
-:author: "@danteboe"
+:author: "@rioschala"
 :tags: nota, tarea
-:category: progress
-:language: Español
+:category: miembros
+:language: English
 :location: Colombia
 :excerpt: 1
 ```
 
-# Como Resolví {doc}`/tarea/on-boarding-git-gitlab`
+# TITULO
 
 `TODO`
 

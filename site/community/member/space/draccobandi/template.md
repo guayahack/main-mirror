@@ -1,14 +1,14 @@
 
 ```{post} 2023-07-18
-:author: "@danteboe"
-:tags: nota, tarea
-:category: progress
+:author: "@draccobandi"
+:tags:  participantes
+:category: miembros
 :language: Español
 :location: Colombia
 :excerpt: 1
 ```
 
-# Como Resolví {doc}`/tarea/on-boarding-git-gitlab`
+# TITULO
 
 `TODO`
 
@@ -21,3 +21,4 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 ```
+  

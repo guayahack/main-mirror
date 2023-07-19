@@ -1,6 +1,6 @@
 ```{post} 2023-06-30
 :author: GuayaHack
-:tags: mytag
+:tags: incompleto, organización
 :category: wiki
 :language: Español
 :excerpt: 1
@@ -8,7 +8,7 @@
 
 # Áreas, Niveles y Progreso en GuayaHack
 
-Corta introducción
+#todo:escribir
 
 ## Áreas
 
@@ -21,9 +21,9 @@ Novice, Experienced, Professional
 
 ```{figure} template.md-data/tux.png
 ---
-name: guayahack-main
+name: diagrama
 ---
-Tux
+diagrama
 ```
 
 ## Progreso

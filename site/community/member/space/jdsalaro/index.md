@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-# @jdsalaro's Space
+# @jdsalaro
 
 Hola soy `@jdsalaro`! 
 
