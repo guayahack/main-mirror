@@ -44,22 +44,11 @@ html_theme_options = {
     "announcement": "Las últimas noticias y cambios en GuayaHack los encuentran en #Noticias 🔔",
     "analytics": {"google_analytics_id": "G-2VR9YCCEEM"},
     "icon_links": [
-        {
-            "name": "Mastodon",
-            "url": "https://mastodon.social/@guayahack",
-            "icon": "fa-brands fa-mastodon",
-            "attributes": {"rel": "me"},
-        },
 #        {
 #            "name": "LinkedIn",
 #            "url": "https://linkedin.com/in/guayahack",
 #            "icon": "fa-brands fa-linkedin",
 #        },
-        {
-            "name": "GitLab",
-            "url": "https://gitlab.com/guayahack",
-            "icon": "fa-brands fa-gitlab",
-        },
         {
             "name": "GitHub",
             "url": "https://github.com/guayahack",
@@ -71,6 +60,22 @@ html_theme_options = {
             "icon": "fa-brands fa-instagram",
         },
         {
+            "name": "Mastodon",
+            "url": "https://mastodon.social/@guayahack",
+            "icon": "fa-brands fa-mastodon",
+            "attributes": {"rel": "me"},
+        },
+        {
+            "name": "Twitch",
+            "url": "https://twitter.com/twitch",
+            "icon": "fa-brands fa-twitch",
+        },
+        {
+            "name": "GitLab",
+            "url": "https://gitlab.com/guayahack",
+            "icon": "fa-brands fa-gitlab",
+        },
+        {
             "name": "Twitter",
             "url": "https://twitter.com/guayahack",
             "icon": "fa-brands fa-twitter",
@@ -80,11 +85,6 @@ html_theme_options = {
 #            "url": "https://tiktok.com/@guayahack",
 #            "icon": "fa-brands fa-tiktok",
 #        },
-        {
-            "name": "Twitch",
-            "url": "https://twitter.com/twitch",
-            "icon": "fa-brands fa-twitch",
-        },
         {
             "name": "Blog RSS feed",
             "url": "https://jdsalaro.com/blog/atom.xml",
