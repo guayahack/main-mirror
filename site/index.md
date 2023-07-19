@@ -1,7 +1,7 @@
 
 # Main @ GuayaHack
 
-Bienvenid@s a GuayaHack, un grupo de estudio de Programación fundado por {doc}`/community/member/space/jdsalaro/index` que surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de).
+Bienvenid@s a GuayaHack, un grupo de estudio de Programación y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) fundado por {doc}`/community/member/space/jdsalaro/index` que surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de).
 
 
 ## Community
