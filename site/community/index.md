@@ -20,7 +20,7 @@ Aunque GuayaHack es una iniciativa creada por {doc}`/community/member/space/jdsa
 Todos los moderadores son tutores.
 
 1. {doc}`/community/member/space/jdsalaro/index`
-1. NOMBRE_DISCORD
+1. {doc}`/community/member/space/nikoresu/index`
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
 
