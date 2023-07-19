@@ -22,22 +22,8 @@ El objetivo es inaugurar el espacio, presentarnos y explicar la razón de ser de
 
 `#todo:definir`
 
-## H2
-
-
-```{figure} template.md-data/tux.png
----
-name: guayahack-main
----
-Tux
-```
-
-
-## H2
-
-### H3
 
 ## Contribuciones 
 
-{doc}`@jdsalaro </community/member/space/jdsalaro/index>`,
+{doc}`@jdsalaro </community/member/jdsalaro/index>`,
 

@@ -10,23 +10,22 @@
 
 #todo:escribir
 
-## H2
+## H21
 
 
 ```{figure} template.md-data/tux.png
 ---
-name: guayahack-main
 ---
 Tux
 ```
 
 
 
-## H2
+## H22
 
 ### H3
 
 ## Contribuciones 
 
-{doc}`@jdsalaro </community/member/space/jdsalaro/index>`,
+{doc}`@jdsalaro </community/member/jdsalaro/index>`,
 
