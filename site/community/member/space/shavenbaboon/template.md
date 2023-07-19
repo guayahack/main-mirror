@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-18
-:author: "@guayahack"
+:author: "@shavenbaboon"
 :tags: nota, tarea
 :category: miembros
 :language: Español
