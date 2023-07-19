@@ -18,5 +18,5 @@
 
 ## Contribuciones 
 
-{doc}`@jdsalaro </community/member/space/jdsalaro/index>`,
+{doc}`@jdsalaro </community/member/jdsalaro/index>`,
 

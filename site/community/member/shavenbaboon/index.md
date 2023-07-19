@@ -20,13 +20,6 @@ Me interesan los idiomas, emprendimiento, filosofía y malabarismo. Me gusta la 
 
 ## TODO
 
-```{figure} index.md-data/tux.png
----
-name: guayahack-tux
----
-Tux
-```
-
 ```console
 $ git status 
 On branch master

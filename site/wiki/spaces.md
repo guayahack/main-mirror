@@ -8,7 +8,7 @@
 
 # Espacios o Spaces en GuayaHack
 
-Cada miembro de GuayaHack tiene un espacio con su nombre en `/community/member/space/`. 
+Cada miembro de GuayaHack tiene un espacio con su nombre en `/community/member/`. 
 
 Éstos espacios le permiten a cada miembro tomar notas, mantener su documentación o hacer lo que prefiera dentro de el. Es un espacio personal y cada miembro deberá respetar el espacio de los demás.
 
@@ -72,5 +72,5 @@ Tux
 
 ## Contribuciones 
 
-{doc}`@jdsalaro </community/member/space/jdsalaro/index>`,
+{doc}`@jdsalaro </community/member/jdsalaro/index>`,
 

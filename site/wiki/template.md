@@ -15,7 +15,6 @@
 
 ```{figure} template.md-data/tux.png
 ---
-name: guayahack-main
 ---
 Tux
 ```
@@ -28,5 +27,5 @@ Tux
 
 ## Contribuciones 
 
-{doc}`@jdsalaro </community/member/space/jdsalaro/index>`,
+{doc}`@jdsalaro </community/member/jdsalaro/index>`,
 

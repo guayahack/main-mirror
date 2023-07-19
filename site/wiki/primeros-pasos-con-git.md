@@ -24,7 +24,6 @@ Nosotros usamos el grupo de GuayaHack en https://gitlab.com/guayahack para todos
 
 ```{figure} primeros-pasos-con-git.md-data/guayahack-group.png
 ---
-name: guayahack-group
 ---
 Grupo GuayaHack en GitLab
 ```
@@ -33,7 +32,6 @@ Grupo GuayaHack en GitLab
 
 ```{figure} primeros-pasos-con-git.md-data/guayahack-main.png
 ---
-name: guayahack-main
 ---
 Proyecto `main` en el Grupo de GuayaHack
 ```
@@ -97,5 +95,5 @@ foto
 
 ## Contribuciones 
 
-{doc}`@jdsalaro </community/member/space/jdsalaro/index>`,
+{doc}`@jdsalaro </community/member/jdsalaro/index>`,
 

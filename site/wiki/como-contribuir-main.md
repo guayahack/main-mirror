@@ -10,19 +10,18 @@
 
 #todo:escribir
 
-## H2
+## H21
 
 
 ```{figure} template.md-data/tux.png
 ---
-name: guayahack-main
 ---
 Tux
 ```
 
 
 
-## H2
+## H22
 
 ### H3
 
@@ -44,5 +43,5 @@ Las categorías que tenemos son:
 
 ## Contribuciones 
 
-{doc}`/community/member/space/jdsalaro/index`,
+{doc}`/community/member/jdsalaro/index`,
 
