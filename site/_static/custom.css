@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Space+Mono');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
-
-
 a {
     text-decoration: underline;
     font-weight: bold;
@@ -18,23 +16,42 @@ html {
     --pst-font-family-base: 'Ubuntu', var(--pst-font-family-base-system);
 }
 
-/* anything related to the light theme */
-html[data-theme="light"] {
 
+/* anything related to the light theme */
+
+html[data-theme="light"] {
     /* whatever you want to change */
     --pst-color-muted: #35236c;
     --pst-color-link: #2373ad;
-    
     background: white;
 }
 
-/* anything related to the dark theme */
-html[data-theme="dark"] {
 
+/* anything related to the dark theme */
+
+html[data-theme="dark"] {
     /* whatever you want to change */
     --pst-color-muted: #13cd3c;
     --pst-color-link: #e59191;
     --pst-color-text-base: #e1e1e1;
-    
     background: black;
+}
+
+
+/*google calendar reponsiveness*/
+
+@media screen and (max-width: 900px) {
+    .responsiveCal {
+        position: relative;
+        padding-bottom: 130%;
+        height: 0;
+        overflow: hidden;
+    }
+    .responsiveCal iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 }
