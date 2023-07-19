@@ -12,7 +12,7 @@ Bienvenid@s a GuayaHack, un grupo de estudio de Programación fundado por {doc}`
 :caption: "# GuayaHack"
 # Noticias <noticias.md>
 # Posts <posts/index.md>
-# Community <community/index.md>
+# Comunidad <community/index.md>
 # Posts <posts/index.md>
 # Calendario <wiki/calendario.md>
 ```
