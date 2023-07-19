@@ -3,7 +3,7 @@
 :author: "@shavenbaboon"
 :tags: participante
 :category: espacios
-:language: Español
+:language: Español, Inglés
 :location: Colombia
 :excerpt: 1
 ```
@@ -12,9 +12,9 @@
 
 Hola soy `@shavenbaboon`! 
 
+Soy Electrónico pero me interesa el lado de sistemas. Crecí en Estados Unidos pero vivo en Colombia. 
 
-
-yameii, crystal castles, death's dynamic shroud entre otros ;)
+Me interesan los idiomas, emprendimiento, filosofía y malabarismo. Me gusta la simplicidad, lo minimalista y las ideas. Para diversión me encanta la música, la comedia, twitch, youtube, reddit, etc.
 
 Éste es mi espacio en GuayaHack.
 
