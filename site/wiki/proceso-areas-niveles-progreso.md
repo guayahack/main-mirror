@@ -21,9 +21,9 @@ Novice, Experienced, Professional
 
 ```{figure} template.md-data/tux.png
 ---
-name: guayahack-main
+name: diagrama
 ---
-Tux
+diagrama
 ```
 
 ## Progreso
