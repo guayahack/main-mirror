@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-18
-:author: "@nicolasmonta1807"
+:author: "@nikoresu"
 :tags: moderador, participante
 :category: espacios
 :language: Español
