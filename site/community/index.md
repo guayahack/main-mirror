@@ -11,7 +11,7 @@
 
 ## Miembros
 
-Aunque GuayaHack es una iniciativa creada por {doc}`/community/member/space/jdsalaro/index`, es un esfuerzo colaborativo de tod@s para tod@s, éstos son sus miembros:
+Aunque GuayaHack es una iniciativa creada por {doc}`/community/member/space/jdsalaro/index`, es un esfuerzo colaborativo de tod@s para tod@s, estos son sus miembros:
 
 ## Voluntarios
 
@@ -36,6 +36,6 @@ Todos los tutores son participantes.
 ### Participantes
 
 1. {doc}`/community/member/space/danteboe/index`
-1. NOMBRE_DISCORD
+1. {doc}`/community/member/space/rioschala/index`
 1. NOMBRE_DISCORD
 1. NOMBRE_DISCORD
