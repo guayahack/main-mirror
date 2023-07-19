@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-18
-:author: "@DraccoBandi"
+:author: "@draccobandi"
 :tags: participante
 :category: espacios
 :language: Español
@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-# @DraccoBandi
+# @draccobandi
 
 ## Hola Mundo 
 
