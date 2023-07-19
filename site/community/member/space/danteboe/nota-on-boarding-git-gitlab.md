@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@danteboe"
 :tags: nota, tarea
-:category: progress
+:category: miembros
 :language: Español
 :location: Colombia
 :excerpt: 1
