@@ -1,6 +1,6 @@
 ```{post} 2023-06-30
 :author: GuayaHack
-:tags: mytag
+:tags: incompleto, organización
 :category: wiki
 :language: Español
 :excerpt: 1
@@ -8,7 +8,7 @@
 
 # Áreas, Niveles y Progreso en GuayaHack
 
-#TODO:escribir
+#todo:escribir
 
 ## Áreas
 

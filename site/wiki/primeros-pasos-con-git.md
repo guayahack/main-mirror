@@ -1,6 +1,6 @@
 ```{post} 2023-06-30
 :author: GuayaHack
-:tags: newbie, git
+:tags: newbie, incompleto, git
 :category: wiki
 :language: Español
 :location: Heidelberg, Germany
