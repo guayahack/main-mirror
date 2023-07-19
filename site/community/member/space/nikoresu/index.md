@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-# @nicolasmonta1807's Space
+# @nicolasmonta1807
 
 Hola soy `@nicolasmonta1807` (@nikoresu en discord)!
 
