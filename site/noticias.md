@@ -23,6 +23,8 @@
 
 We got to know quite a few members and talk in English while on the Study Room 1 (Hi guys, this is a test MR!)
 
+Se movió el calendario de `/wiki/calendario` a `/calendario`
+
 ## 2023-07-19 
 
 Se eligió una fecha tentativa (`2023‐07‐22T15:30:00Z` | `2023‐07‐22T10:30:00−05:00`) para la inauguración del espacio y definción de forma de trabajo: 
@@ -30,7 +32,7 @@ Se eligió una fecha tentativa (`2023‐07‐22T15:30:00Z` | `2023‐07‐22T10:
 ```{figure} noticias.md-data/2023-07-19-evento-inauguracion.png
 ---
 ---
-Evento de Inauguración, en el {doc}`/wiki/calendario`
+Evento de Inauguración, en el {doc}`/calendario`
 ```
 
 Más información en {doc}`/wiki/evento-2023-07-22-inauguracion`

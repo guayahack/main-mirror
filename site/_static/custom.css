@@ -31,11 +31,12 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
     /* whatever you want to change */
     --pst-color-muted: #13cd3c;
-    --pst-color-link: #e59191;
+    --pst-color-link: #d3c458;
     --pst-color-text-base: #e1e1e1;
     background: black;
 }
 
+<<<<<<< HEAD
 
 /*google calendar reponsiveness*/
 
@@ -60,3 +61,9 @@ html[data-theme="dark"] {
         width: 90vw;
     }
 }
+=======
+.discord-widget {
+    display: inline-table;
+    float: right;
+}
+>>>>>>> b2e28b9 (modified:   _static/custom.css)
