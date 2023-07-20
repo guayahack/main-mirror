@@ -27,6 +27,14 @@ Tux
 
 ## Convenciones
 
+Para una mayor trazabilidad, se propone lo siguiente. 
+- No utilizar **_** o **+** en nombres de archivos. En su lugar, se debe utilizar **- (guión)**
+
+- El lenguaje de marcado es Markdown. Se pueden encontrar las siguientes convenciones:
+![Convenciones Markdown](/como-contribuir-main.md-data/convenciones-markdown.png")
+
+- Los path de ubicación de archivos y referencias funcionan con **- / -** en lugar de **- \ -**
+
 ### TODOs
 
 Siempre en minúscula y con éste preciso formato: `#todo:categoría descripción`
@@ -37,7 +45,7 @@ Las categorías que tenemos son:
 |-----------|-------------|
 | escribir/write | para contribuir documentación que falta |
 | fix/reparar | para resolver problemas en el código |
-| ... | ... |
+|  | ... |
 | ... | ... |
 
 
