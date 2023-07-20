@@ -31,7 +31,7 @@ Para una mayor trazabilidad, se propone lo siguiente.
 - No utilizar **_** o **+** en nombres de archivos. En su lugar, se debe utilizar **- (guión)**
 
 - El lenguaje de marcado es Markdown. Se pueden encontrar las siguientes convenciones:
-![Convenciones Markdown](/como-contribuir-main.md-data/convenciones-markdown.png")
+![Convenciones Markdown](como-contribuir-main.md-data/convenciones-markdown.png")
 
 - Los path de ubicación de archivos y referencias funcionan con **- / -** en lugar de **- \ -**
 
