@@ -33,11 +33,9 @@ Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` o
 
 ## Guías, Materiales y Otros
 
-Esa tal documentación no existe, por eso hay que crearla.
+Esa tal documentación no existe, por eso hay que crearla. Escriba primero, piense despues :P
 
-Escriba primero, piense despues :).
-
-Por ejemplo en la [wiki](https://guayahack.co/posts/category/wiki/)
+Por ejemplo en la [# WIKI](https://guayahack.co/posts/category/wiki/). 
 
 
 ## Indices and tables
