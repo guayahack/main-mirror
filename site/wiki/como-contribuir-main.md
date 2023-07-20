@@ -33,7 +33,7 @@ Para una mayor trazabilidad, se propone lo siguiente.
 - El lenguaje de marcado es Markdown. Se pueden encontrar las siguientes convenciones:
 ![Convenciones Markdown](como-contribuir-main.md-data/convenciones-markdown.png")
 
-- Los path de ubicación de archivos y referencias funcionan con **- / -** en lugar de **- \ -**
+- Los path de ubicación de archivos y referencias funcionan con  `/` (slash) en lugar de `\` (backslash)
 
 ### TODOs
 
