@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@shavenbaboon"
 :tags: participante
-:category: espacios
+:category: miembros
 :language: Español, Inglés
 :location: Colombia
 :excerpt: 1

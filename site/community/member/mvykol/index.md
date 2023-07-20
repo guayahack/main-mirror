@@ -2,7 +2,7 @@
 ```{post} 2023-07-20
 :author: "@mvykol"
 :tags: moderador, tutor
-:category: espacios
+:category: miembros
 :language: Español, English, Portuguese
 :location: Colombia
 :excerpt: 1

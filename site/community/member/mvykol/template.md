@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@mvykol"
 :tags: nota, frontend, backend
-:category: miembros
+:category: blog
 :language: Español
 :location: Colombia
 :excerpt: 1

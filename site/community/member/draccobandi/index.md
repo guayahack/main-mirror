@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@draccobandi"
 :tags: participante
-:category: espacios
+:category: miembros
 :language: Español
 :location: Colombia
 :excerpt: 1

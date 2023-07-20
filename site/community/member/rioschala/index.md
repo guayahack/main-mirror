@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@rioschala"
 :tags: participante, tutor
-:category: espacios
+:category: miembros
 :language: English
 :location: Colombia
 :excerpt: 1

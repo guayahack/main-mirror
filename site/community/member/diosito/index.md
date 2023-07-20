@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@diosito"
 :tags: participante
-:category: espacios
+:category: miembros
 :language: Español, English
 :location: Colombia
 :excerpt: 1

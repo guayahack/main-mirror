@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@jdsalaro"
 :tags: fundador, moderador
-:category: espacios
+:category: miembros
 :language: Español, English, Deutsch
 :location: Colombia
 :excerpt: 1

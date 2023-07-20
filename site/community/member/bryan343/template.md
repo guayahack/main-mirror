@@ -2,7 +2,7 @@
 ```{post} 2023-07-19
 :author: "@bryan343"
 :tags: nota, tarea
-:category: miembros
+:category: blog
 :language: Español
 :location: Colombia
 :excerpt: 1

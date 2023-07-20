@@ -2,7 +2,7 @@
 ```{post} 2023-07-19
 :author: "@bryan343"
 :tags: participante
-:category: espacios
+:category: miembros
 :language: Español
 :location: Colombia
 :excerpt: 1

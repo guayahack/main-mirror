@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@diosito"
 :tags: notas, tarea
-:category: miembros
+:category: blog
 :language: Español, English
 :location: Colombia
 :excerpt: 1
