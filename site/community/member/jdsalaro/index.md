@@ -10,27 +10,72 @@
 
 # @jdsalaro
 
-Hola soy `@jdsalaro`! 
-
-Me gustan los computadores, la música electrónica, los deportes y los idiomas. 
-
-Mi artista favorito es [Avicii](https://en.wikipedia.org/wiki/Avicii).
-
-Éste es mi espacio en GuayaHack.
-
-## TODO
-
-```{figure} index.md-data/tux.png
+```{figure} index.md-data/cloud-atlas.jpg
 ---
-name: tux
+alt: cloud-atlas
 ---
-Tux
+Neo Seoul, Year 2144 - [Cloud Atlas](https://en.wikipedia.org/wiki/Cloud_Atlas_(film))
 ```
 
-```console
-$ git status 
-On branch master
-Your branch is up to date with 'origin/master'.
+Hola soy `@jdsalaro`, junto con los moderadores me metí en ésta locura ! Me gustan los computadores, política, filosofía, la cocina asiática, la música de todo tipo, los deportes y los idiomas. Mi artista favorito es [Avicii](https://en.wikipedia.org/wiki/Avicii).
 
-nothing to commit, working tree clean
-```
+Éste es mi espacio en GuayaHack!
+
+## Where to Find Me
+
+
+::::{grid} 4 4 8 8
+:class-container: landing-grid
+:gutter: 1
+
+:::{grid-item-card}
+:text-align: center
+:link: https://mastodon.social/@jdsalaro
+<i class="fa-brands fa-mastodon" style="font-size:2em"></i>
+:::
+
+:::{grid-item-card}
+:text-align: center
+:link: https://twitter.com/jdsalaro
+<i class="fa-brands fa-twitter" style="font-size:2em"></i>
+:::
+
+:::{grid-item-card}
+:text-align: center
+:link: https://linkedin.com/in/jdsalaro
+<i class="fa-brands fa-linkedin" style="font-size:2em"></i>
+:::
+
+:::{grid-item-card}
+:text-align: center
+:link: https://jdsalaro.com
+<i class="fa-solid fa-globe" style="font-size:2em"></i>
+:::
+
+
+:::{grid-item-card}
+:text-align: center
+:link: https://gitlab.com/jdsalaro
+<i class="fa-brands fa-gitlab" style="font-size:2em"></i>
+:::
+
+:::{grid-item-card}
+:text-align: center
+:link: https://github.com/jdsalaro
+<i class="fa-brands fa-github" style="font-size:2em"></i>
+:::
+
+:::{grid-item-card}
+:text-align: center
+:link: https://unix.stackexchange.com/users/151026/jdsalaro
+<i class="fa-brands fa-stack-exchange" style="font-size:2em"></i>
+:::
+
+:::{grid-item-card}
+:text-align: center
+:link: https://instagram.com/jdsalaro
+<i class="fa-brands fa-instagram" style="font-size:2em"></i>
+:::
+
+::::
+
