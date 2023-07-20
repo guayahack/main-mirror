@@ -15,7 +15,7 @@ práctica en mi opinion, siempre me funciona.
 No digo que esta sea la unica metodologia que deberian seguir, pero
 es bueno tenerla en cuenta.
 
-## Crear una lista para estar organizados
+## 1. Crear una lista para estar organizados
 
 Crear una simple `TODO-list` nunca es una mala idea, una vez tengas claro
 Las cosas que hay que hacer, haz una pequeña lista:
@@ -29,7 +29,7 @@ grandres, etc)
 Puedes usar algo como notion, el mismo issue en GitLab o incluso un simple blog de notas, pero 
 siempre ayuda tener una lista.
 
-## Leer Documentación, Stack Overflow, Google, ChatGPT
+## 2. Leer Documentación, Stack Overflow, Google, ChatGPT
 
 Ésta es la parte más importante, no importa si no sabes como hacer algo 
 de memoria, buscar información es lo que más se hace cuando se esta desarrollando.
@@ -46,7 +46,7 @@ Si sabes inglés, incluso un poco, como leer, puedes ir a Stack Overflow, 100% s
 
 
 
-## Implementation y resolución
+## 3. Implementation y resolución
 
 En éste caso, averigué que el calendario de Google tiene propiedades que puedes editar en la URL, pero estas son limitandas. Si quieres editarlo totalmente a tu gusto, hay una API que se puede usar, pero el proceso cuesta de muchas lineas de código y simplemente no vale la pena, ya que terminarías haciendo tu propio calendario desde cero.
 
@@ -80,7 +80,7 @@ scrolling="no">
 </iframe>
 ```
 
-## Hacer Responsive
+## 4. Hacer Responsive
 
 Despues solo faltaba hacerlo responsive, despues de buscar en Google por unos minutos, encontré [este post](https://thomas.vanhoutte.be/miniblog/make-google-calendar-iframe-responsive) de un blog que me ayudo.
 
