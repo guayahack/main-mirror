@@ -20,10 +20,9 @@ El objetivo es inaugurar el espacio, presentarnos y explicar la razón de ser de
 
 ## ¿Dónde?
 
-`#todo:definir`
-
+Por Zoom 👉 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=N3U2bTNjZHYxbzMwNW50aTJrdGk0OTBwbTggZ3VheWFoYWNrQG0&amp;tmsrc=guayahack%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es.gif"></a>
 
 ## Contribuciones 
 
-{doc}`@jdsalaro </community/member/jdsalaro/index>`,
+{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@rioschala </community/member/rioschala/index>`
 
