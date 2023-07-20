@@ -45,7 +45,7 @@ Las categorías que tenemos son:
 |-----------|-------------|
 | escribir/write | para contribuir documentación que falta |
 | fix/reparar | para resolver problemas en el código |
-|  | ... |
+| ... | ... |
 | ... | ... |
 
 
