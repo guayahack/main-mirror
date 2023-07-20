@@ -2,7 +2,7 @@
 ```{post} 2023-07-18
 :author: "@rioschala"
 :tags: nota, tarea
-:category: miembros
+:category: organización
 :language: Spanish
 :location: Colombia
 :excerpt: 1
