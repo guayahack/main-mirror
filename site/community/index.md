@@ -39,5 +39,5 @@ Todos los tutores son participantes.
 1. {doc}`/community/member/draccobandi/index` 
 1. {doc}`/community/member/rioschala/index`
 1. {doc}`/community/member/shavenbaboon/index`
-1. NOMBRE_DISCORD
+1. {doc}`/community/member/sagajj/index`
 1. NOMBRE_DISCORD
