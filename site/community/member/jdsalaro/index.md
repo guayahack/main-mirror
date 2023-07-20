@@ -3,7 +3,7 @@
 :author: "@jdsalaro"
 :tags: fundador, moderador
 :category: espacios
-:language: Español
+:language: Español, English, Deutsch
 :location: Colombia
 :excerpt: 1
 ```
