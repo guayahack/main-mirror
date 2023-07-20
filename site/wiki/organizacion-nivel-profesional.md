@@ -6,7 +6,7 @@
 :excerpt: 1
 ```
 
-# Profesional
+# Profesionales
 
 #todo:escribir
 
