@@ -19,7 +19,9 @@
 
 %## 2023-07-17 
 
-%## 2023-07-17 
+## 2023-07-20 
+
+We got to know quite a few members and talk in English while on the Study Room 1 (Hi guys, this is a test MR!)
 
 ## 2023-07-19 
 
