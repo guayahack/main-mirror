@@ -5,6 +5,11 @@
 
 Somos un grupo de estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) fundado por {doc}`/community/member/jdsalaro/index` con ayuda de la {doc}`/community/index` que surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de).
 
+```console
+$ date -d @1689530400
+So 16. Jul 20:00:00 CEST 2023
+```
+
 ## ¿Quien puede Participar?
 
 {doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es entrar a nuesro Discord 👇
