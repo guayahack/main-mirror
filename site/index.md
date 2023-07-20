@@ -5,7 +5,9 @@ Bienvenid@s a GuayaHack!
 
 Somos un grupo de estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) fundado por {doc}`/community/member/jdsalaro/index` con ayuda de la {doc}`/community/index` que surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de).
 
-Novatos, Experimentados y Profesionales estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es entrar a nuesro Discord 👇
+## ¿Quien puede Participar?
+
+{doc}`/organizacion-nivel-novato`, {doc}`/organizacion-nivel-experimentado` y {doc}`/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es entrar a nuesro Discord 👇
 
 ```{div} discord-widget
 <iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
