@@ -1,4 +1,3 @@
-
 ```{post} 2023-07-18
 :author: "@danteboe"
 :tags: nota, tarea
@@ -66,7 +65,7 @@ name: template
 Acá podrás darte a conocer ante el mundo.
 ```
 
-## 4. Pull request - Sincronizar tus cambios con GitLab
+## 4. Push request - Sincronizar tus cambios con GitLab
 
 Cuando hayas acabado, es tiempo de hacer una `push request` con tu repositorio fork. Es decir, haremos que los cambios realizados aparezcan en GitLab.
 Usando VS Code, es tan fácil como dirigirte al ícono de `branch`, y dando click a `stage all changes` en la parte superior izquierda.
