@@ -15,14 +15,14 @@ En el proceso de documentación, es importante considerar todas las herramientas
 ## Utilizar Herramienta de Recortes
 En computadores que tengan sistema operativo Windows, es importante considerar todas las herramientas. Sin embargo, para que los recursos sean visibles, deben ser recortados a la medida de la información que se requiere. Para eso, se debe utilizar la herramienta de recortes. Para acceder a ella, se debe presionar la combinación de teclas:
 
-```{figure} como_documentar.md-data\windows+shitf+s.png
+```{figure} como-documentar.md-data/windows-shitf-s.png
 ---
 ---
 Combinación de teclas en Windows
 ```
 Además, pueden buscar en Windows Snipping Tool:
 
-```{figure} como_documentar.md-data\snipping-tool-shortcut.png
+```{figure} como-documentar.md-data/snipping-tool-shortcut.png
 ---
 ---
 Búsqueda de aplicación

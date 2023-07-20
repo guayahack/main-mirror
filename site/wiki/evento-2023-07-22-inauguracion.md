@@ -16,7 +16,7 @@ Tendrá lugar a las `2023‐07‐22T15:30:00Z` UTC y `2023‐07‐22T10:30:00−
 
 El objetivo es inaugurar el espacio, presentarnos y explicar la razón de ser de GuayaHack y la forma de trabajo.
 
-Éste evento ha sido agregado al calendario 👉 {doc}`/wiki/calendario`
+Éste evento ha sido agregado al calendario 👉 {doc}`/calendario`
 
 ## ¿Dónde?
 

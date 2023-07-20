@@ -22,7 +22,6 @@ Me gusta el cine y los videojuegos
 
 ```{figure} index.md-data/tux.png
 ---
-name: guayahack-tux
 ---
 Tux
 ```
