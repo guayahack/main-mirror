@@ -1,5 +1,17 @@
+
+/* ################### TYPEFACES ########################### */
+
 @import url('https://fonts.googleapis.com/css?family=Space+Mono');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+/* ################### GENERAL ########################### */
+
+html {
+    --pst-sidebar-font-size: 1.1em;
+    --pst-font-family-heading: "Space Mono";
+    --pst-font-family-base: 'Ubuntu', var(--pst-font-family-base-system);
+}
+
 a {
     font-weight: bold;
     font-family: "Space Mono";
@@ -9,13 +21,8 @@ a {
     font-size: 1em !important;
 }
 
-html {
-    --pst-sidebar-font-size: 1.1em;
-    --pst-font-family-heading: "Space Mono";
-    --pst-font-family-base: 'Ubuntu', var(--pst-font-family-base-system);
-}
 
-
+/* ################### LIGHT THEME ########################### */
 /* anything related to the light theme */
 
 html[data-theme="light"] {
@@ -26,6 +33,7 @@ html[data-theme="light"] {
 }
 
 
+/* ################### DARK THEME ########################### */
 /* anything related to the dark theme */
 
 html[data-theme="dark"] {
@@ -36,7 +44,10 @@ html[data-theme="dark"] {
     background: black;
 }
 
-<<<<<<< HEAD
+
+/* ################### WIDGETS ########################### */
+
+/* ################### CALENDAR ########################### */
 
 /*google calendar reponsiveness*/
 
@@ -61,9 +72,10 @@ html[data-theme="dark"] {
         width: 90vw;
     }
 }
-=======
+
+/* ################### DISCORD ########################### */
+
 .discord-widget {
     display: inline-table;
     float: right;
 }
->>>>>>> b2e28b9 (modified:   _static/custom.css)
