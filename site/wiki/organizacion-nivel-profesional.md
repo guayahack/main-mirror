@@ -6,11 +6,11 @@
 :excerpt: 1
 ```
 
-# Título
+# Profesionales
 
 #todo:escribir
 
-## H21
+## H2
 
 
 ```{figure} template.md-data/tux.png
@@ -20,8 +20,6 @@ Tux
 ```
 
 
-
-## H22
 
 ### H3
 
