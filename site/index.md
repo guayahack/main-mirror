@@ -10,7 +10,7 @@ $ date -d @1689530400
 So 16. Jul 20:00:00 CEST 2023
 ```
 
-## ¿Quien puede Participar?
+## ¿Quién puede Participar?
 
 {doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es entrar a nuesro Discord 👇
 
