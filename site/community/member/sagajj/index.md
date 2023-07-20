@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-# @guayahack
+# @SagaJJ
 
 Hola soy `@SagaJJ` (SagaJ en el Discord), estoy estudiando sistemas en el SENA y me interesa el area de Back-End e Inteligencia Artificial. Me gusta el senderismo, el ciclismo y la música instrumental.
 
