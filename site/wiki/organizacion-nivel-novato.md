@@ -21,8 +21,6 @@ Tux
 
 
 
-## H2
-
 ### H3
 
 ## Contribuciones 
