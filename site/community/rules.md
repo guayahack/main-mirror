@@ -41,5 +41,8 @@ Los {doc}`/wiki/organizacion-rol-moderator` podrán marcar, remover y filtrar co
 
 ## 0x0A
 
-Nuestro medio de comunicación oficial es el servidor de Discord (insertar link). A través de la plataforma de gestionarán los espacios, discusiones, encuentros y demás. Asimismo, todo suceso relevante se publicará en {doc}`/noticias` [#rules](https://discord.gg/kPUKbKNP).
+Nuestro medio de comunicación oficial es el servidor de Discord. A través de la plataforma de gestionarán los espacios, discusiones, encuentros y demás. Asimismo, todo suceso relevante se publicará en {doc}`/noticias` [#rules](https://discord.gg/kPUKbKNP). Contactar a miembros por fuera de Discord sin que éstos hayan expresado interés no es aceptable.
 
+## 0x0B 
+
+Toda actividad conducida por, en y con GuayaHack tiene como propósito educar a sus miembros y estos se encuentran en la obligación de utilizar su conocimiento con fines exclusivamente *éticos y legales*
