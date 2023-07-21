@@ -159,4 +159,18 @@ myst_enable_extensions = [
     "tasklist",
 ]
 
+myst_substitutions = {
+    "bulletlocco": '<span style="font-size:  1.8em;">🇨🇴</span>',
+    "bulletlangen": '<span style="font-size: 1.8em;">🇬🇧</span>',
+    "bulletlanges": '<span style="font-size: 1.8em;">🇪🇸</span>',
+    "bulletpack": '<span style="font-size: 2em;">📦</span>',
+    "bulletinfo": '<span style="font-size: 1.5em;">ℹ️</span>',
+    "bulletcheck": '<span style="font-size:1.5em;">✅</span>',
+    "bulletfail": '<span style="font-size: 2em;">⛔</span>',
+    "bulletwarn": '<span style="font-size: 1.6em;">⚠️</span>',
+    "bulletstar": '<span style="font-size: 2em;">⭐️</span>',
+    "bulletkeys": '<span style="font-size: 1.5em;">⬅️➡️</span>',
+}
+
+
 autosectionlabel_prefix_document = True

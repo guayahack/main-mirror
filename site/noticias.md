@@ -17,7 +17,23 @@
 
 %## 2023-07-17 
 
-%## 2023-07-17 
+## 2023-07-21 
+
+{{bulletlangen}} Chic@s, I forgot to properly credit my favorite pixel art artist's work, Paul Robertson, in our [first e-com ever](https://mailchi.mp/c1cbba08678d/guayahack-tecnologa-y-comunidad?e=f843635f13) (bah!). In accordance with our [rules](https://guayahack.co/community/rules/#x01) as well as in the interest of transparency and intellectual honesty, I'm posting it here as an addendum:
+
+{{bulletlanges}} Chic@s, olvidé acreditar correctamente el trabajo de mi artista de pixel art favorito, Paul Robertson, en nuestro primer e-com (bah!). Sin embargo, de acuerdo con nuestras [reglas](https://guayahack.co/community/rules/#x01) aras de la transparencia y la honestidad intelectual, lo publico aquí como un addendum:
+
+```{figure} noticias.md-data/2023-07-21-paul-robertson-void.gif
+:align: left
+
+Void
+
+April 24, 2014
+
+Paul Robertson
+
+🔗 [Source](https://web.archive.org/web/20170504161649/http://probertson.tumblr.com/post/83661041853/void)
+```
 
 ## 2023-07-20 
 

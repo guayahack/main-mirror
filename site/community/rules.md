@@ -5,7 +5,7 @@
 
 ## 0x01
 
-El respeto y la cordialidad entre los miembros en sus interacciones priman ante *todo*.
+El respeto, la cordialidad y la integridad intelectual entre los miembros en sus interacciones priman ante *todo*.
 
 ## 0x02
 
