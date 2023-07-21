@@ -41,7 +41,7 @@ Los {doc}`/wiki/organizacion-rol-moderator` podrán marcar, remover y filtrar co
 
 ## 0x0A
 
-Nuestro medio de comunicación oficial es el servidor de Discord. A través de la plataforma de gestionarán los espacios, discusiones, encuentros y demás. Asimismo, todo suceso relevante se publicará en {doc}`/noticias` [#rules](https://discord.gg/kPUKbKNP). Contactar a miembros por fuera de Discord sin que éstos hayan expresado interés no es aceptable.
+Nuestro medio de comunicación oficial es el servidor de Discord. A través de la plataforma de gestionarán los espacios, discusiones, encuentros y demás. Asimismo, todo suceso relevante se publicará en {doc}`/noticias` y [#rules](https://discord.gg/kPUKbKNP). Contactar a miembros por fuera de Discord sin que éstos hayan expresado interés no es aceptable.
 
 ## 0x0B 
 
