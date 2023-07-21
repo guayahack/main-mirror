@@ -19,6 +19,7 @@ extensions = [
     "sphinx_copybutton",
     "myst_parser",
     "sphinx_design",
+    "sphinx_sitemap",
     "sphinxext.rediraffe",
     "sphinxext.opengraph",
     "sphinx.ext.intersphinx",
@@ -33,6 +34,7 @@ language = "es"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_baseurl = "https://guayahack.co"
 html_title = "main@GuayaHack"
 html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
