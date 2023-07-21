@@ -6,7 +6,7 @@
 
 ## I - [Raison d'Être](https://en.wiktionary.org/wiki/raison_d%27%C3%AAtre)
 
-GuayaHack, como fenómeno, es resultado del interés y la curiosidad de la comunidad de habla hispana en Internet. GuayaHack es, y será siempre, un espacio de aprendizaje colaborativo de y para la comunidad a fin de empoderar atraves de la educación y la experimentación a tod@s sus participantes.
+GuayaHack, como fenómeno, es resultado del interés y la curiosidad de la comunidad de habla hispana en Internet. GuayaHack es, y será siempre, un espacio de aprendizaje colaborativo de y para la comunidad a fin de empoderar a tod@s sus participantes atraves de la educación y la experimentación.
 
 ## II - Tools, Techniques and Procedures
 
