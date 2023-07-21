@@ -6,7 +6,7 @@
 :excerpt: 1
 ```
 
-# Maintainers
+# Gestión de {doc}`/calendario`
 
 #todo:escribir
 
