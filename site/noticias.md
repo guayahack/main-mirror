@@ -41,11 +41,11 @@ Paul Robertson
 
 We got to know quite a few members and talk in English while on the Study Room 1 (Hi guys, this is a test MR!)
 
-`~ Los del Study Room 1`
+`@ Los del Study Room 1`
 
 Se movió el calendario de `/wiki/calendario` a `/calendario`
 
-{doc}`/community/member/jdsalaro/index.md`
+{doc}`/community/member/jdsalaro/index`
 
 ## 2023-07-19 
 
