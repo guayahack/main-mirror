@@ -3,7 +3,7 @@
 
 ## 0x00
 
-Toda actividad realizada en el marco de GuayaHack por sus miembros va orientada a cumplir con {doc}`community/memorial`.
+Toda actividad realizada en el marco de GuayaHack por sus miembros va orientada a cumplir con {doc}`/community/memorial`.
 
 ## 0x01
 
@@ -23,7 +23,16 @@ La participación de todos los miembros es voluntaria y, si bien colectivamente 
 
 ## 0x05
 
-A fin de propiciar el aprendizaje efectivo y eficiente al igual que el entendimiento mutuo, todo participante hará uso del lenguaje más preciso y detallado que le sea posible.
+A fin de propiciar el aprendizaje efectivo y eficiente al igual que el entendimiento mutuo, todo participante hará uso del lenguaje más preciso y detallado que le sea posible al igual que la manera más pública y con más alcance disponible; en conversaciones 1-1 aprenden dos en conversaciones 1-N:
+
+$$
+\begin{align}
+\text{Let }  \alpha&:=\text{tasa de aprendizaje}\\
+\text{Let }  n&:=\text{participantes}\\
+&\therefore\\
+\lim_{n \to +\infty} \alpha(n) &= \infty\\
+\end{align}
+$$ 
 
 ## 0x06
 
