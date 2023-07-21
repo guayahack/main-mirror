@@ -1,8 +1,6 @@
 
 # Reglas
 
-%#todo:escribir
-
 ## 0x00
 
 Toda actividad realizada en el marco de GuayaHack por sus miembros va orientada a cumplir con {doc}`community/memorial`.

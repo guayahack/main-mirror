@@ -52,8 +52,6 @@ Se movió el calendario de `/wiki/calendario` a `/calendario`
 Se eligió una fecha tentativa (`2023‐07‐22T15:30:00Z` | `2023‐07‐22T10:30:00−05:00`) para la inauguración del espacio y definción de forma de trabajo: 
 
 ```{figure} noticias.md-data/2023-07-19-evento-inauguracion.png
----
----
 Evento de Inauguración, en el {doc}`/calendario`
 ```
 
