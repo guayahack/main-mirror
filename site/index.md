@@ -3,7 +3,7 @@
 
 **Bienvenid@s a GuayaHack!** 
 
-Somos un grupo de estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) fundado por {doc}`/community/member/jdsalaro/index` con ayuda de la {doc}`/community/index` que surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de).
+Somos un grupo de estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) fundado con ayuda de la {doc}`/community/index` por {doc}`/community/member/jdsalaro/index` que surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de).
 
 ```console
 $ date=`date -d @1689530400`; echo "GuayaHack, fundado: $date"
