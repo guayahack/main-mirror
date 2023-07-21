@@ -1,14 +1,6 @@
 
 # Comunidad
 
-```{toctree}
-:maxdepth: 1
-:hidden:
-:glob:
-./*
-```
-
-
 ## Miembros
 
 Aunque GuayaHack es una iniciativa creada por {doc}`/community/member/jdsalaro/index`, es un esfuerzo colaborativo de tod@s para tod@s, estos son sus miembros:

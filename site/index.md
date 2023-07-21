@@ -25,11 +25,14 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 :maxdepth: 1
 :hidden:
 :caption: "# GuayaHack"
+# Memorial <community/memorial.md>
 # Noticias <noticias.md>
-# ¿Cómo Ayudo? <https://gitlab.com/guayahack/main/-/issues/>
 # Comunidad <community/index.md>
 # Posts <posts/index.md>
 # Calendario <calendario.md>
+# Reglas <community/rules.md>
+# WIKI <https://guayahack.co/posts/category/wiki/>
+# ¿Cómo Ayudo? <https://gitlab.com/guayahack/main/-/issues/>
 ```
 Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` o leyendo las [Reglas](community/rules.md) y nuestro {doc}`/community/memorial`
 

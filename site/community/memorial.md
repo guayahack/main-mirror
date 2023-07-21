@@ -1,4 +1,5 @@
 
+
 # Memorial
 
 %#todo:write
@@ -7,9 +8,9 @@
 
 GuayaHack, como fenómeno, es resultado del interés y la curiosidad de la comunidad de habla hispana en Internet. GuayaHack es, y será siempre, un espacio de aprendizaje colaborativo de y para la comunidad a fin de empoderar atraves de la educación y la experimentación a tod@s sus participantes.
 
-## II - TTP (Tools, Techniques and Procedures)
+## II - Tools, Techniques and Procedures
 
-
+%#todo:write
 
 ## III - Identidad
 
