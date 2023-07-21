@@ -7,6 +7,7 @@ Somos un grupo de estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackersp
 
 ```console
 $ date=`date -d @1689530400`; echo "GuayaHack, fundado: $date"
+
 GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 ```
 
