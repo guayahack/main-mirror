@@ -30,9 +30,9 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 # Calendario <calendario.md>
 # Posts <posts/index.md>
 # Reglas <community/rules.md>
+# Comunidad <community/index.md>
 # WIKI <https://guayahack.co/posts/category/wiki/>
 # ¿Cómo Ayudo? <https://gitlab.com/guayahack/main/-/issues/>
-# Comunidad <community/index.md>
 ```
 Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` o leyendo las [Reglas](community/rules.md) y nuestro {doc}`/community/memorial`
 
