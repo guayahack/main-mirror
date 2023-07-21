@@ -35,6 +35,8 @@ Paul Robertson
 🔗 [Source](https://web.archive.org/web/20170504161649/http://probertson.tumblr.com/post/83661041853/void)
 ```
 
+{doc}`/community/member/jdsalaro/index`
+
 ## 2023-07-20 
 
 We got to know quite a few members and talk in English while on the Study Room 1 (Hi guys, this is a test MR!)
@@ -43,7 +45,7 @@ We got to know quite a few members and talk in English while on the Study Room 1
 
 Se movió el calendario de `/wiki/calendario` a `/calendario`
 
-`~ J`
+{doc}`/community/member/jdsalaro/index.md`
 
 ## 2023-07-19 
 
@@ -57,7 +59,8 @@ Evento de Inauguración, en el {doc}`/calendario`
 
 Más información en {doc}`/wiki/evento-2023-07-22-inauguracion`
 
-`~ J`
+
+{doc}`/community/member/jdsalaro/index`
 
 ## 2023-07-17 
 
@@ -76,9 +79,11 @@ Creation Date: 2023-07-17T13:39:22Z
 
 ```
 
+{doc}`/community/member/jdsalaro/index`
+
 ## 2023-07-16 
 
 `Sun, 16 Jul, 2023, 08:46:35 PM UTC` le dio a {doc}`/community/member/jdsalaro/index` por hacer un post en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de/). A raíz del interés de la gente local y quienes se encuentran en el exterior se crea el espacio en Discord.
 
-`~ J`
+{doc}`/community/member/jdsalaro/index`
 
