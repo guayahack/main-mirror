@@ -70,3 +70,5 @@ Toda actividad conducida por, en y con GuayaHack tiene como propósito educar a 
 
 
 Nuestro medio de comunicación oficial es el servidor de Discord. A través de la plataforma de gestionarán los espacios, discusiones, encuentros y demás. Asimismo, todo suceso relevante se publicará en {doc}`/calendario`, {doc}`/noticias` y [#rules](https://discord.gg/kPUKbKNP). Contactar a miembros por fuera de Discord sin que éstos hayan expresado interés no es aceptable.
+
+## Notas al Pie
