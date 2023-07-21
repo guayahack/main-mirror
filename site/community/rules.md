@@ -45,4 +45,4 @@ Nuestro medio de comunicación oficial es el servidor de Discord. A través de l
 
 ## 0x0B 
 
-Toda actividad conducida por, en y con GuayaHack tiene como propósito educar a sus miembros y estos se encuentran en la obligación de utilizar su conocimiento con fines exclusivamente *éticos y legales*
+Toda actividad conducida por, en y con GuayaHack tiene como propósito educar a sus miembros y estos a su vez se encuentran en la obligación de utilizar su conocimiento con fines exclusivamente *éticos y legales*.
