@@ -3,9 +3,13 @@
 
 %#todo:escribir
 
+## 0x00
+
+Toda actividad realizada en el marco de GuayaHack por sus miembros va orientada a cumplir con {doc}`community/memorial`.
+
 ## 0x01
 
-El respeto, la cordialidad y la integridad intelectual entre los miembros en sus interacciones priman ante *todo*.
+El respeto, la cordialidad y la integridad intelectual entre los miembros en sus interacciones priman ante _*todo*_.
 
 ## 0x02
 
@@ -25,7 +29,7 @@ A fin de propiciar el aprendizaje efectivo y eficiente al igual que el entendimi
 
 ## 0x06
 
-A fin de perpetuar la viabilidad del espacio en el futuro, los miembros procurarán siempre documentar, consignar, codificar y compartir sus herramientas, técnicas y procedimientos en cualquiera sea el espacio apropiado para ello. 
+A fin de perpetuar la viabilidad del espacio en el futuro, los miembros procurarán _*siempre*_ documentar, consignar, codificar y compartir sus herramientas, técnicas y procedimientos en cualquiera sea la forma y el espacio apropiados para ello. 
 
 ## 0x07
 
@@ -33,16 +37,16 @@ Discusiones centradas en la política, la religión y el sexo, si bien son temas
 
 ## 0x08
 
-Los {doc}`/wiki/organizacion-rol-moderator` podrán marcar, remover y filtrar contenido que se aleje de la temática principal de la comunidad tanto en todas sus formas y en todos los espacios.
+Los {doc}`/wiki/organizacion-rol-moderator` podrán marcar, remover y filtrar contenido que se aleje de la temática principal de la comunidad en _*todas sus formas y en todos los espacios*_.
 
 ## 0x09
 
-Éstas reglas existen a fin de garantizar que GuayaHack cumpla con su {doc}`/community/memorial` y serán adaptadas conforme sea necesario.
+Éstas reglas no existen a fin de perpetuar su propia existencia, sino a fin de garantizar que GuayaHack cumpla con su {doc}`/community/memorial` y serán modificadas conforme sea necesario.
 
 ## 0x0A
 
-Nuestro medio de comunicación oficial es el servidor de Discord. A través de la plataforma de gestionarán los espacios, discusiones, encuentros y demás. Asimismo, todo suceso relevante se publicará en {doc}`/noticias` y [#rules](https://discord.gg/kPUKbKNP). Contactar a miembros por fuera de Discord sin que éstos hayan expresado interés no es aceptable.
+Toda actividad conducida por, en y con GuayaHack tiene como propósito educar a sus miembros y estos a su vez se encuentran en la obligación de utilizar su conocimiento con fines exclusivamente *éticos y legales*.
 
 ## 0x0B 
 
-Toda actividad conducida por, en y con GuayaHack tiene como propósito educar a sus miembros y estos a su vez se encuentran en la obligación de utilizar su conocimiento con fines exclusivamente *éticos y legales*.
+Nuestro medio de comunicación oficial es el servidor de Discord. A través de la plataforma de gestionarán los espacios, discusiones, encuentros y demás. Asimismo, todo suceso relevante se publicará en {doc}`/noticias` y [#rules](https://discord.gg/kPUKbKNP). Contactar a miembros por fuera de Discord sin que éstos hayan expresado interés no es aceptable.
