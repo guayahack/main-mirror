@@ -131,7 +131,7 @@ html_sidebars = {
 # ablog
 ###############################################################################
 
-blog_baseurl = "https://guayahack.co/"
+blog_baseurl = "https://guayahack.co/" #el backslash al final es muy importante! sphinx-sitemap genera links dañado
 blog_feed_archives = True
 blog_path = "posts"
 blog_title = "GuayaHack"
