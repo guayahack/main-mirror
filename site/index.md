@@ -34,7 +34,7 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 # WIKI <https://guayahack.co/posts/category/wiki/>
 # ¿Cómo Ayudo? <https://gitlab.com/guayahack/main/-/issues/>
 ```
-Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` o leyendo las [Reglas](community/rules.md) y nuestro {doc}`/community/memorial`
+Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` nuestro {doc}`/community/memorial` o leyendo las [Reglas](community/rules.md).
 
 ## Guías, Materiales y Otros
 
