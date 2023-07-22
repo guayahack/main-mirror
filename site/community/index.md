@@ -15,7 +15,6 @@ Todos los moderadores son tutores.
 1. {doc}`/community/member/rioschala/index`
 1. {doc}`/community/member/nikoresu/index`
 1. NOMBRE_DISCORD
-1. NOMBRE_DISCORD
 
 ### Tutores
 
@@ -32,4 +31,4 @@ Todos los tutores son participantes.
 1. {doc}`/community/member/draccobandi/index` 
 1. {doc}`/community/member/shavenbaboon/index`
 1. {doc}`/community/member/sagajj/index`
-1. NOMBRE_DISCORD
+1. {doc}`/community/member/blisse1/index`
