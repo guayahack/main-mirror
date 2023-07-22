@@ -12,13 +12,14 @@
 
 Hola soy `@rioschala`! 
 
-Soy profesor, me gustan los videojuegos y aprender sobre diferentes temas como la programación para brindar mayores espacios a mis estudiantes. 
+Soy profesor, me gusta aprender sobre diferentes temas como la programación para brindar mayores espacios a mis estudiantes. 
 
 Me gustan los videojuegos, especialmente Valorant main Fade. 
 
 ## TODO
 
-```{figure} index.md-data/valorant.png
+```
+{figure} index.md-data/valorant.png
 ---
 name: rioschala-valorant
 ---
