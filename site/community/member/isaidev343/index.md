@@ -1,8 +1,7 @@
-
 ```{post} 2023-07-21
 :author: "@isai.Dev343"
 :tags: moderador, tutor
-:category: espacios
+:category: miembros
 :language: Español
 :location: Colombia
 :excerpt: 1
@@ -14,7 +13,7 @@
 
 ## ¡Hola a todos
 
-¡Hola! Soy Isaí Hernandez un entusiasta de la tecnología y un apasionado por aprender y compartir conocimientos. Actualmente trabajo como desarrollador y analista de sistemas.
+¡Hola! Soy Isaí Hernandez un entusiasta de la tecnología, un apasionado por aprender y compartir conocimientos. Actualmente trabajo como desarrollador y analista de sistemas.
 
 ### Sobre mí
 
@@ -26,6 +25,9 @@
 Me siento cómodo trabajando con diversas tecnologías, entre ellas:
 
 - ReactJS
+- React Native
+- Expo
+- AWS
 - Node.js
 - Bases de Datos
 
