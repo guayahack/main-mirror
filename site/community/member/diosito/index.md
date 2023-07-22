@@ -10,7 +10,7 @@
 
 # @diosito
 
-Hola soy `@diosito`! Soy un estudiante de 17 años de Ing. de Datos e IA, me apasionan muchas cosas, entre ellas la programación y los datos, este es mi espacio c:
+Hola soy `@diosito`! Un estudiante de 17 años de Ing. de Datos e IA, me apasionan muchas cosas, entre ellas la programación y los datos, este es mi espacio en GuayaHack c:
 
 ## Perfil de Github:
 https://github.com/Isaac-opz
