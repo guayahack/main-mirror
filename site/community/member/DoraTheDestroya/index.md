@@ -24,7 +24,7 @@ Apex Legends Character, Wraith (my main)
 
 También me gustaría mostrarles las series que estoy viendo en este momento.
 
-```{figure} index.md-data/dark.jpg
+```{figure} index.md-data/Dark.jpg
 ---
 alt: Dark-Jonas
 ---
