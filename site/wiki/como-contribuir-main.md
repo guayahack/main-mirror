@@ -8,23 +8,6 @@
 
 # Como Contribuir a la main @ GuayaHack
 
-#todo:escribir
-
-## H21
-
-
-```{figure} template.md-data/tux.png
----
----
-Tux
-```
-
-
-
-## H22
-
-### H3
-
 ## Convenciones
 
 ### Secciones 
@@ -74,6 +57,20 @@ Siempre en minúscula y con éste preciso formato: `#todo:categoría descripció
 
 ### Metadatos y Encabezado ABlog
 
+#### Formato
+
+El encabezado no puede tener lineas vacías y debe estar al inicio de tu página:
+
+:::
+```{post} 2023-06-30
+:author: "GuayaHack"
+:tags: newbie, organización, incompleto
+:category: wiki
+:language: Español
+:excerpt: 1
+```
+:::
+
 #### Categorias
 
 Las categorías que tenemos son:
@@ -84,6 +81,10 @@ Las categorías que tenemos son:
 | fix/reparar | para resolver problemas en el código |
 | ... | ... |
 | ... | ... |
+
+#### La WIKI
+
+Los artículos de la WIKI no deberan tener autor ni ubicación, pues cambian y varían demasiado con el tiempo como para poder elegir a alguien en particular y tener una lista de contribuciones se vuelve tedioso. Para ver quienes han contribuido sobre el tiempo se puede utilizar GitLab y la commit history de git.
 
 ### Notas al Pie | Footnotes
 
