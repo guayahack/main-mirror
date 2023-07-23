@@ -1,28 +1,25 @@
-image: python:3.9-slim                                                 #todo:explicar
-#todo:explicar
+image: python:3.9-slim
+# https://hub.docker.com/layers/library/python/3.9-slim
+before_script:
+  - python --version ; pip --version  # For debugging
+  - pip install pipenv
+  - cp site/Pipfile .
+  - cp site/Pipfile.lock .
+  - ls
+  - pipenv install
+  - pipenv graph
+  - apt-get update
 
-before_script:                                                         #todo:explicar
-  - python --version ; pip --version  #todo:explicar
-  - pip install pipenv                                                 #todo:explicar
-  - cp site/Pipfile .                                                  #todo:explicar
-  - cp site/Pipfile.lo                                                 #todo:explicar
-ck .
-  - ls                                                      
-  - pipenv install                                                     #todo:explicar
-  - pipenv graph                                                       #todo:explicar
-  - apt-get update                                                     #todo:explicar
-
-
-pages:                                                                 #todo:explicar
-  stage: deploy                                                      
-  script:                                                              
-    - rm -rf public                                                    #todo:explicar
-    - mkdir public                                                     #todo:explicar
-    - pipenv run sphinx-build -n -b dirhtml site/ site/_build/dirhtml  #todo:explicar
-    - cp -r site/_build/dirhtml/* public/                              #todo:explicar
-    - ls -alR public                                                   #todo:explicar
-  artifacts:                                                           #todo:explicar
-    paths:                                                             #todo:explicar
-       - public                                                        #todo:explicar
-  only:                                                                #todo:explicar
-    - master                                                           #todo:explicar
+pages:
+  stage: deploy
+  script:
+    - rm -rf public
+    - mkdir public
+    - pipenv run sphinx-build -n -b dirhtml site/ site/_build/dirhtml
+    - cp -r site/_build/dirhtml/* public/
+    - ls -alR public
+  artifacts:
+    paths:
+       - public
+  only:
+    - master
