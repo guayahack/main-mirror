@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-23
-:author: "@diosito"
+:author: "GuayaHack"
 :tags: newbie, IDE, VSCode
 :category: wiki
 :language: Español

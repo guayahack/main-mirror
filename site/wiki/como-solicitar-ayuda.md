@@ -1,9 +1,9 @@
 ```{post} 2023-07-21
-:author: "@mcveigth"
+:author: "GuayaHack"
 :tags: organización, documentación
 :category: wiki
 :language: Spanish
-:location: Canada
+
 :excerpt: 1
 ```
 

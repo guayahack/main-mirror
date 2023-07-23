@@ -1,5 +1,5 @@
 ```{post} 2023-06-30
-:author: GuayaHack
+:author: "GuayaHack"
 :tags: tutor, incompleto
 :category: wiki
 :language: Español

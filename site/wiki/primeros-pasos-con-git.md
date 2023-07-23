@@ -1,9 +1,9 @@
 ```{post} 2023-06-30
-:author: GuayaHack
+:author: "GuayaHack"
 :tags: newbie, incompleto, git
 :category: wiki
 :language: Español
-:location: Heidelberg, Germany
+
 :excerpt: 1
 ```
 

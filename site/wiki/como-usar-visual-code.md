@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-22
-:author: isai.Dev343
+:author: "GuayaHack"
 :tags: IDE, VSCode
 :category: wiki
 :language: Español

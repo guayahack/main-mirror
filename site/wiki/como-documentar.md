@@ -1,10 +1,10 @@
 
 ```{post} 2023-07-18
-:author: "@rioschala"
+:author: "GuayaHack"
 :tags: organización, documentación
 :category: wiki
 :language: Spanish
-:location: Colombia
+
 :excerpt: 1
 ```
 

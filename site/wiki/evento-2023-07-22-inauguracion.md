@@ -1,5 +1,5 @@
 ```{post} 2023-06-30
-:author: "@jdsalaro"
+:author: "GuayaHack"
 :tags: noticia, organización, incompleto
 :category: wiki
 :language: Español

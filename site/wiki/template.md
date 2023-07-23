@@ -1,8 +1,8 @@
 ```{post} 2023-06-30
-:author: GuayaHack
+:author: "GuayaHack"
 :tags: newbie, organización, incompleto
 :category: wiki
-:language: Español
+:language: Español, English, German
 :excerpt: 1
 ```
 
