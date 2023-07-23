@@ -1,8 +1,6 @@
 
-```{post} 2023-07-22
-
-
-:author: GuayaHack
+```{post} 2023-07-23
+:author: @diosito
 :tags: newbie, IDE, Visual Studio Code, VSCode
 :category: wiki
 :language: Español
