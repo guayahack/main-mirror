@@ -11,50 +11,50 @@
 
 Solicitar ayuda de manera efectiva es esencial para poder recibir la asistencia necesaria en tus proyectos o problemas con tu código. Aquí tienes una guía paso a paso para solicitar ayuda de manera clara y concisa:
 
-## Contexto y Descripción del Problema
+## 1. Contexto y Descripción del Problema
 
 Comienza proporcionando un contexto claro sobre el proyecto o el área en la que necesitas ayuda. Describe el propósito
 del proyecto y la naturaleza del problema que estás enfrentando.
 
-## Explicación Detallada del Problema
+## 2. Explicación Detallada del Problema
 
 Ofrece una descripción *detallada* del problema específico que estás encontrando. Explica cómo ocurrió el problema, qué
 estabas tratando de lograr y qué resultado obtuviste en su lugar. Cuanta más información brindes, mejor podrán entender
 tu situación.
 
-## Código y Fragmentos Relevantes
+## 3. Código y Fragmentos Relevantes
 
 Si el problema está relacionado con código, incluye los fragmentos relevantes que estás enfrentando y apropiadamente formateados. Asegúrate de
 destacar las líneas específicas que están causando el problema o que consideras relevantes para la situación.
 
-## Pasos para Reproducir el Problema
+## 4. Pasos para Reproducir el Problema
 
 Si conoces los pasos, proporciona una lista de los mismos a fin de generar el error o reproducir la dificultad que estás
 enfrentando. Ésto permitirá a quienes te ayuden reproducir el problema en sus propios sistemas y comprender mejor su
 naturaleza.
 
-## Lo que Has Intentado
+## 5. Lo que Has Intentado
 
 Menciona qué soluciones y enfoques has probado hasta el momento. Ésto evitará que otros te sugieran soluciones que ya has explorado y te permitirá recibir recomendaciones más adecuadas.
 
-## Entorno y Herramientas
+## 6. Entorno y Herramientas
 
 Si el problema parece estar relacionado con el entorno o las herramientas que estás utilizando, proporciona detalles
 sobre el sistema operativo, versión del lenguaje de programación, bibliotecas relevantes, etc. Ésto facilitará a quienes
 te ayuden replicar tu entorno y buscar soluciones precisas.
 
-## Lenguaje Claro y Respetuoso
+## 7. Lenguaje Claro y Respetuoso
 
 Utiliza un lenguaje claro y respetuoso en tu solicitud de ayuda. Evita jergas innecesarias y asegúrate de expresarte de
 manera amable y considerada. La comunicación positiva fomenta una colaboración más efectiva [^REGLASLENGUAJE]
 
 [^REGLASLENGUAJE]:https://guayahack.co/community/rules/#x05-00-00-00
 
-## Agradece y Sé Agradecido
+## 8. Agradece y Sé Agradecido
 
 Al finalizar tu solicitud de ayuda, agradece a quienes estén dispuestos a ayudarte. Además, una vez que recibas asistencia, muestra tu agradecimiento y considera la posibilidad de contribuir a la comunidad compartiendo tus propios conocimientos y experiencias.
 
-## Documenta tus Experiencias Aprendidas
+## 9. Documenta tus Experiencias Aprendidas
 
 La investigación y solución de problemas genera muchos aprendizajes. Al tener tantos miembros, y todos con tan diversos niveles de experiencia, GuayaHack necesita material educativo de calidad en español para miembros nuevos y antiguos; la documentación de problemas pasados es perfecta para ésto. 
 

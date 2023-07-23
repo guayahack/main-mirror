@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-23
-:author: @diosito
+:author: "@diosito"
 :tags: newbie, IDE, Visual Studio Code, VSCode
 :category: wiki
 :language: Español
