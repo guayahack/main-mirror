@@ -34,7 +34,7 @@ language = "es"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_baseurl = "https://guayahack.co/" #el backslash al final es muy importante! sphinx-sitemap genera links dañado
+html_baseurl = "https://guayahack.co/"  # el backslash al final es muy importante! sphinx-sitemap genera links dañado
 html_title = "main@GuayaHack"
 html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
@@ -131,7 +131,7 @@ html_sidebars = {
 # ablog
 ###############################################################################
 
-blog_baseurl = "https://guayahack.co/" 
+blog_baseurl = "https://guayahack.co/"
 blog_feed_archives = True
 blog_path = "posts"
 blog_title = "GuayaHack"

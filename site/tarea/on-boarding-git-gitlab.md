@@ -1,6 +1,6 @@
 ```{post} 2023-07-18
 :author: "@jdsalaro"
-:tags: newbie, backend, frontend, security, data, infrastructure
+:tags: newbie
 :category: tareas
 :language: Español
 :location: Alemania
