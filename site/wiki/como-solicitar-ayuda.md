@@ -82,6 +82,7 @@ Aquí está el fragmento relevante de mi código:
 ```python
 prnt("Hello, World!)
 
+```
 Este es el error que retorna la terminal:
 
 ```python
@@ -89,7 +90,6 @@ Este es el error que retorna la terminal:
     prnt("Hello, World!)
          ^
 SyntaxError: unterminated string literal (detected at line 1)
-
 ```
 
 ### Pasos para Reproducir el Problema
