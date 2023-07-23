@@ -17,7 +17,6 @@ Hasta ahora no nos ocupamos con preguntas como:
 - ¿cómo llegan mis cambios al servidor?
 - ¿quien es responsable de copiar el código de la página al servidor?
 
-
 Todas éstas preguntas son muy importantes y el archivo `.gitlab-ci.yml`[^MAINGITLABYML] tiene *todas* las respuestas.
 
 #todo:explicar la pipeline se ejecuta cada vez que se ejecuta un cambio
@@ -26,6 +25,12 @@ Todas éstas preguntas son muy importantes y el archivo `.gitlab-ci.yml`[^MAINGI
 [^MAINGITLABYML]:https://gitlab.com/guayahack/main/-/blob/master/.gitlab-ci.yml
 
 ## Tarea
+
+### 0. Lectura
+
+Lee sobre el concepto de CI/CD y Pipelines.
+
+¿Qué entendiste y porque crees que esos conceptos son parte fundamental del desarrollo de software moderno?
 
 ### 1. Encuentra la Pipeline de tu Merge Request 
 
