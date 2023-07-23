@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-22
 :author: isai.Dev343
-:tags: Moderador, Tutor
+:tags: IDE, VSCode
 :category: wiki
 :language: Español
 :excerpt: 1

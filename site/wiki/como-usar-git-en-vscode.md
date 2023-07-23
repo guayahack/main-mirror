@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-23
 :author: "@diosito"
-:tags: newbie, IDE, Visual Studio Code, VSCode
+:tags: newbie, IDE, VSCode
 :category: wiki
 :language: Español
 :excerpt: 1
