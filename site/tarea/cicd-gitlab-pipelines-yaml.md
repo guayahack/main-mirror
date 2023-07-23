@@ -9,7 +9,7 @@
 
 # Entendiendo la Magia de CI/CD y Build Pipelines
 
-Hola Chic@s, ya algun@s han logrado crear su `/member/espacio` en {doc}`/tareas/on-boarding-git-gitlab`, pero hay muchas cosas que ocurrieron mágicamente: por ejemplo la copia de los archivos de sus cambios (Merge Requests) al servidor web responsable por el servicio de https://guayahack.co.
+Hola Chic@s, ya algun@s han logrado crear su `/member/espacio` en {doc}`/tarea/on-boarding-git-gitlab`, pero hay muchas cosas que ocurrieron mágicamente: por ejemplo la copia de los archivos de sus cambios (Merge Requests) al servidor web responsable por el servicio de https://guayahack.co.
 
 Hasta ahora no nos ocupamos con preguntas como: 
 
