@@ -1,7 +1,6 @@
 
 
 
-
 # main@GuayaHack
 
 Bienvenid@ al proyecto principal de documentación de GuayaHack, un grupo de estudio de Programación que surgió como idea en Reddit: https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de/
@@ -64,6 +63,7 @@ defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
 
 ```
 image: alpine:latest
+
 
 pages:
   stage: deploy
