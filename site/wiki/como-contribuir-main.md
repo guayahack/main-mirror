@@ -27,17 +27,50 @@ Tux
 
 ## Convenciones
 
-Para una mayor trazabilidad, se propone lo siguiente. 
-- No utilizar `_` (guión bajo) o `+` (mas) en nombres de archivos y carpetas. En su lugar, se debe utilizar `-` (guión)
+### Secciones 
 
-- El lenguaje de marcado es Markdown. Se pueden encontrar las siguientes convenciones:
-![Convenciones Markdown](como-contribuir-main.md-data/convenciones-markdown.png)
+#### Notas al Pie
+
+En caso de utilizar notas al pie en MyST o Markdown como `[^MYNOTAALPIE]`[^MYNOTAALPIE] y `[^MYNOTAALPIE]:https://es.wikipedia.org/wiki/Hacklab`
+
+[^MYNOTAALPIE]:https://es.wikipedia.org/wiki/Hacklab
+
+Debes agregar una sección `## Notas al Pie` al final de tu artículo y un break MyST[^MYST] `+++` para que no te aparezca un error por `` :
+
+[^MYST]:https://jupyterbook.org/en/stable/reference/cheatsheet.html
+
+```markdown
+## Notas al Pie
+
++++
+```
+
+### Archivos
+
+Para evitar errores y facilitar la busqueda de errores considera:
+ 
+- No utilizar `_` (guión bajo), ` `(espacios) o signos `+` (mas) en nombres de archivos y carpetas. En su lugar, se debe utilizar `-` (guión)
 
 - Los path de ubicación de archivos y referencias funcionan con  `/` (slash) en lugar de `\` (backslash)
+
+### Contenido
+
+El lenguaje de marcado que utilizamos es MyST; una extension de Markdown. Se pueden encontrar las siguientes convenciones:
+
+```{figure} como-contribuir-main.md-data/convenciones-markdown.png
+---
+---
+Convenciones Markdown
+```
+
 
 ### TODOs
 
 Siempre en minúscula y con éste preciso formato: `#todo:categoría descripción`
+
+### Metadatos y Encabezado ABlog
+
+#### Categorias
 
 Las categorías que tenemos son:
 
@@ -52,8 +85,4 @@ Las categorías que tenemos son:
 
 Cuando usen notas al pie de página tipo `[^NOTA] ... [^NOTA]:LINK`, siempre debemos poner un header `# Notas al Pie` al final para que se vea bien.
 
-
-## Contribuciones 
-
-{doc}`/community/member/jdsalaro/index`,
 
