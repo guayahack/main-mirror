@@ -53,6 +53,10 @@ Para evitar errores y facilitar la busqueda de errores considera:
 
 - Los path de ubicación de archivos y referencias funcionan con  `/` (slash) en lugar de `\` (backslash)
 
+- Trata de nombrar tus archivos de la manera mas corta pero comprensible posible, evitando palabras que no agregan mucho valor como `de`, `por`, `como`. 
+
+- Si tu pagina cae en una categoria clara, por ejemplo un tutorial, considera nombra su archivo, y por tanto URL, `tutorial-...`.
+
 ### Contenido
 
 El lenguaje de marcado que utilizamos es MyST; una extension de Markdown. Se pueden encontrar las siguientes convenciones:
