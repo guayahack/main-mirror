@@ -7,7 +7,7 @@
 :excerpt: 1
 ```
 
-## Guía rápida para usar Visual Studio Code
+# Guía rápida para usar Visual Studio Code
 
 1. Descarga Visual Studio Code desde el sitio web oficial: [https://code.visualstudio.com/](https://code.visualstudio.com/).
 2. Sigue las instrucciones de instalación según tu sistema operativo.
