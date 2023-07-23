@@ -19,11 +19,11 @@
 1. **Barra de menú:** Contiene opciones para gestionar el editor y los proyectos.
    ![ Menu](./como-usar-visual-code.md-data/menu.png)
 2. **Barra lateral:** Muestra el explorador de archivos, extensiones, control de versiones, etc.
-   ![ Barra lateral](./como-usar-visual-code.md-data/menu%20lateral.png)
+   ![ Barra lateral](./como-usar-visual-code.md-data/menu-lateral.png)
 3. **Explorador:** Muestra los archivos y carpetas de tu proyecto. Puedes crear, eliminar, renombrar y mover archivos.
    ![ Explorador](./como-usar-visual-code.md-data/explorador.png)
 4. **Área de edición:** Aquí es donde abres y editas tus archivos. Puedes cambiar entre archivos haciendo clic en sus pestañas.
-   ![ Area de edicion](./como-usar-visual-code.md-data/area%20de%20edicion.png)
+   ![ Area de edicion](./como-usar-visual-code.md-data/area-edicion.png)
 5. **Barra de estado:** Proporciona información sobre el archivo abierto y las extensiones activas. Está ubicado en la parte inferior de la ventana.
     ![ Barra de estado](./como-usar-visual-code.md-data/estados.png)
 
