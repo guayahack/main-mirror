@@ -34,7 +34,7 @@ Lee sobre el concepto de CI/CD y Pipelines.
 
 ### 1. Encuentra la Pipeline de tu Merge Request 
 
-Recuerda la tarea {doc}`/tareas/on-boarding-git-gitlab` y el hecho que tus cambios los enviaste como Merge Request. Esa MR tuvo que haber desencadenado una pipeline como se mencionó anteriormente. 
+Recuerda la tarea {doc}`/tarea/on-boarding-git-gitlab` y el hecho que tus cambios los enviaste como Merge Request. Esa MR tuvo que haber desencadenado una pipeline como se mencionó anteriormente. 
 
 Encuentra la pipeline desencadenada por tu MR y analiza el output del job `pages` y responde las siguientes preguntas:
 
