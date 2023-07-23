@@ -91,3 +91,7 @@ Los artículos de la WIKI no deberan tener autor ni ubicación, pues cambian y v
 Cuando usen notas al pie de página tipo `[^NOTA] ... [^NOTA]:LINK`, siempre debemos poner un header `# Notas al Pie` al final para que se vea bien.
 
 
+## Troubleshooting
+
+
+

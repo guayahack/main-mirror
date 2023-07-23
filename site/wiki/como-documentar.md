@@ -3,7 +3,7 @@
 :author: "GuayaHack"
 :tags: organización, documentación
 :category: wiki
-:language: Spanish
+:language: Español
 
 :excerpt: 1
 ```
