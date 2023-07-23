@@ -93,5 +93,4 @@ Cuando usen notas al pie de página tipo `[^NOTA] ... [^NOTA]:LINK`, siempre deb
 
 ## Troubleshooting
 
-
-
+#todo:escribir
