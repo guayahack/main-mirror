@@ -71,6 +71,8 @@ El encabezado no puede tener lineas vacías y debe estar al inicio de tu página
 ```
 :::
 
+De igual manera, los `tags` y la `category` deberán ir siempre en minúscula.
+
 #### Categorias
 
 Las categorías que tenemos son:
