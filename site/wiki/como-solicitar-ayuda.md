@@ -54,8 +54,6 @@ manera amable y considerada. La comunicación positiva fomenta una colaboración
 
 Al finalizar tu solicitud de ayuda, agradece a quienes estén dispuestos a ayudarte. Además, una vez que recibas asistencia, muestra tu agradecimiento y considera la posibilidad de contribuir a la comunidad compartiendo tus propios conocimientos y experiencias.
 
-
-
 ## Documenta tus Experiencias Aprendidas
 
 La investigación y solución de problemas genera muchos aprendizajes. Al tener tantos miembros, y todos con tan diversos niveles de experiencia, GuayaHack necesita material educativo de calidad en español para miembros nuevos y antiguos; la documentación de problemas pasados es perfecta para ésto. 
@@ -63,7 +61,9 @@ La investigación y solución de problemas genera muchos aprendizajes. Al tener 
 Por favor, piensa qué de lo que has aprendido y porqué podría ser valioso para los demas y documéntalo en la wiki [^REGLAS5]
 
 [^REGLAS5]:https://guayahack.co/community/rules/#x06-00-00-00
-## Cómo Solicitar Ayuda - Ejemplo de Error de Impresión en Python
+
+
+## Un Ejemplo: Error de Impresión en Python
 
 ### Contexto y Descripción del Problema
 
