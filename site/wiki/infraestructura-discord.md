@@ -1,28 +1,23 @@
-```{post} 2023-06-30
+```{post} 2023-07-24
 :author: "GuayaHack"
 :tags: newbie, organización, incompleto
 :category: wiki
-:language: Español, English, German
+:language: Español
 :excerpt: 1
 ```
 
-# Título
+# Discord
 
-#todo:escribir
-
-## H21
+## Canales
 
 
-```{figure} template.md-data/tux.png
----
----
-Tux
-```
+## Roles y Permisos
 
+## Applicaciones y Bots
 
+### RoleBot
 
-## H22
+### Craig
 
-### H3
 
 
