@@ -24,7 +24,7 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 ```{toctree}
 :maxdepth: 1
 :hidden:
-:caption: "# GuayaHack"
+:caption: "# GuayaHack ☝️"
 # Memorial <community/memorial.md>
 # Noticias <noticias.md>
 # Calendario <calendario.md>
