@@ -19,5 +19,6 @@
 
 ### Craig
 
+Usamos el bot Craig para grabar las conversaciones en los canales de voz, la documentación detallada del uso de Craig se encuentra en {doc}`/wiki/infraestructura-discord-craig`.
 
 
