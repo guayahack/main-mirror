@@ -1,16 +1,16 @@
 ```{post} 2023-06-30
 :author: "GuayaHack"
-:tags: newbie, organización, incompleto
+:tags: organización, infraestructura
 :category: wiki
 :language: Español
 :excerpt: 1
 ```
 
-# Experimentados
+# Newsletter
 
 #todo:escribir
 
-## H2
+## H21
 
 
 ```{figure} template.md-data/tux.png
@@ -21,6 +21,7 @@ Tux
 
 
 
-### H3
+## H22
 
+### H3
 

@@ -6,7 +6,7 @@
 :excerpt: 1
 ```
 
-# Moderadores
+# Tutores
 
 Como GuayaHack es un esfuerzo colaborativo, siempre buscamos personas apasionadas por los temas que tratamos y contribuyan a la construcción del espacio.
 

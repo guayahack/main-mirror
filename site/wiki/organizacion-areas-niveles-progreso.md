@@ -32,7 +32,4 @@ Charlas, Lectura, Tareas, Proyectos
 
 ### H3
 
-## Contribuciones 
-
-{doc}`@jdsalaro </community/member/jdsalaro/index>`,
 

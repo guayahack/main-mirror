@@ -44,7 +44,7 @@ Para evitar errores y facilitar la busqueda de errores considera:
 
 El lenguaje de marcado que utilizamos es MyST; una extension de Markdown. Se pueden encontrar las siguientes convenciones:
 
-```{figure} como-contribuir-main.md-data/convenciones-markdown.png
+```{figure} contribuir-main.md-data/convenciones-markdown.png
 ---
 ---
 Convenciones Markdown

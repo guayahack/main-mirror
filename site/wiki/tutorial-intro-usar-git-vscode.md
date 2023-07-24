@@ -32,7 +32,7 @@ Primero, necesitas clonar el repositorio git hospedado en GitLab a tu computador
 1. Abre VSCode y selecciona "View" en la barra de menú.
 2. Luego, elige "Command Palette" (o presiona `Ctrl+Shift+P` en Windows/Linux o `Cmd+Shift+P` en macOS) Se abrirá un menú como este:
 
-![command-palette](como-usar-git-en-vscode.md-data/commandpalette.png)
+![command-palette](tutorial-intro-usar-git-vscode.md-data/commandpalette.png)
 
 3. Escribe "Git: Clone" y selecciona esa opción.
 4. Ingresa la URL del repositorio GitLab que deseas clonar (en este caso GuayaHack) y elige una ubicación cómoda en tu computadora para guardar el proyecto.
@@ -50,18 +50,18 @@ Ahora puedes modificar los archivos en tu proyecto como lo desees. Cuando hayas 
 
 1. Abre la pestaña de "Source Control" en el menú lateral izquierdo de VSCode. Puedes identificar el ícono de Git, se verá algo así:
 
-![icono-git-vs-code](como-usar-git-en-vscode.md-data/vs-code-git-logo-button.png)
+![icono-git-vs-code](tutorial-intro-usar-git-vscode.md-data/vs-code-git-logo-button.png)
 
 2. Selecciona los archivos que deseas incluir en el commit marcándolos con el signo "+" junto a ellos. Esto los agrega a la "Staging Area".
 
-![añadir-cambios](como-usar-git-en-vscode.md-data/addchanges.png)
+![añadir-cambios](tutorial-intro-usar-git-vscode.md-data/addchanges.png)
 
 3. Escribe un mensaje descriptivo y claro para el commit en el campo "Message" que se encuentra en la parte superior de la "Source Control" (por ejemplo: "Agregados nuevos estilos CSS").
 4. Presiona `Ctrl+Enter` en Windows/Linux o `Cmd+Enter` en macOS para realizar el commit (o presiona el botón verde "Commit").
 
 5. Te podrá aparecer un archivo cómo el siguiente: 
 
-![commit-file](como-usar-git-en-vscode.md-data/commitfile.png)
+![commit-file](tutorial-intro-usar-git-vscode.md-data/commitfile.png)
 
 <center> Solo debes rellenarlo con un mensaje que describa los cambios que realizaste y hacer click en el chulo para aceptar.</center>
 
@@ -75,7 +75,7 @@ Después de hacer el commit, los cambios aún están solo en tu repositorio loca
 2. Haz clic en el botón con la flecha hacia arriba (Push) en la parte superior del panel "Source Control", también puedes dar a los 3 puntos en la parte superior del panel "Source Control" y hacer clic en "Push".
 
 3. Verás una notificación que indica que el push fue exitoso.
-![notification](como-usar-git-en-vscode.md-data/notification.png)
+![notification](tutorial-intro-usar-git-vscode.md-data/notification.png)
 
 ## 7. Crear un Merge Request (MR)
 
@@ -89,7 +89,7 @@ Una Merge Request (MR) es una solicitud para fusionar los cambios realizados en 
 
 4. Verifica los detalles:
 
-![merge-request](como-usar-git-en-vscode.md-data/mergerequest.png)
+![merge-request](tutorial-intro-usar-git-vscode.md-data/mergerequest.png)
    
    - **Source Branch**: Debe ser la rama donde realizaste el push.
    
@@ -119,7 +119,7 @@ Si trabajas en colaboración con otros desarrolladores, es posible que desees ac
 2. Abre la pestaña "Source Control" en el menú lateral izquierdo de VSCode.
 3. Haz clic en el botón con el círculo y la flecha (Sync Changes) en la parte superior del panel "Source Control".
 
-![sync-changes](como-usar-git-en-vscode.md-data/syncchanges.png)
+![sync-changes](tutorial-intro-usar-git-vscode.md-data/syncchanges.png)
 
 4. VSCode sincronizará los cambios del repositorio remoto con tu repositorio local.
 
