@@ -1,4 +1,4 @@
-```{post} 2023-06-30
+```{post} 2023-07-24
 :author: "GuayaHack"
 :tags: newbie, organización, incompleto
 :category: wiki
