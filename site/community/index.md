@@ -32,3 +32,5 @@ Todos los tutores son participantes.
 1. {doc}`/community/member/shavenbaboon/index`
 1. {doc}`/community/member/sagajj/index`
 1. {doc}`/community/member/bliss1799/index`
+1. {doc}`/community/member/harold/index`
+
