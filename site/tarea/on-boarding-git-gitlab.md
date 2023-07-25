@@ -45,7 +45,7 @@ Git es una herramienta muy poderosa, por eso se han escrito libros y grabado vid
 
 
 
-```{figure} on-boarding-git-gitlab.md-data/git-basic-workflow.png
+```{figure} on-boarding-git-gitlab.md-data/gitlab-project.png
 Proyecto de GuayaHack en GitLab
 ```
 
