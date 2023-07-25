@@ -8,20 +8,4 @@
 
 # Newsletter
 
-#todo:escribir
-
-## H21
-
-
-```{figure} template.md-data/tux.png
----
----
-Tux
-```
-
-
-
-## H22
-
-### H3
 

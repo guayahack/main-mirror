@@ -14,8 +14,6 @@
 
 
 ```{figure} template.md-data/tux.png
----
----
 Tux
 ```
 

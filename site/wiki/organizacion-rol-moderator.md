@@ -25,8 +25,6 @@ GuayaHack requiere contribuciones de muchos estilos y por ende un moderador pued
 ### Otros
 
 ```{figure} template.md-data/tux.png
----
----
 Tux
 ```
 

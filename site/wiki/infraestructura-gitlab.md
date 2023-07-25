@@ -2,11 +2,18 @@
 :author: "GuayaHack"
 :tags: organización, infraestructura
 :category: wiki
-:language: Español, English, German
+:language: Español
 :excerpt: 1
 ```
 
-# gitlab.com/guayahack
+# Infraestructura en GitLab 
+
+Nuestro código y proyectos para la organización y gestión de GuayaHack se encuentran GitLab bajo https://gitlab.com/guayhack. 
+
+
+```{figure} infraestructura-gitlab.md-data/gitlab-group.png
+Jerarquía principal de GuayaHack en GitLab
+```
 
 ## Estructura de Permisos
 
@@ -17,8 +24,6 @@ Todo miembro debe estar en *todos* los grupos que le corresponden. Un moderador,
 ⚠️  En el caso de recursos, tanto grupos como proyectos, que son compartidos usando `share with` un miembro recibirá el nivel de permiso `max ( permiso en el grupo destino, permiso usado para share with) `. Es decir, daniel tendrá permisos de `developer` en `/guayahack/main`. 
 
 ```{figure} infraestructura-gitlab.md-data/gitlab-guayahack-permission-structure.png
----
----
 Estructura de Permisos en GitLab/GuayaHack
 ```
 
