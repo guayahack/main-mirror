@@ -6,13 +6,23 @@
 :excerpt: 1
 ```
 
-# ¿Qué significa "squash commits" en Git y Gitlab?
+# Estrategias de Branching
 
-**Simplifica tu Historial de Cambios con 'Squash Commits' en GitLab**
+En el mundo de Git y GitLab existen muchas estrategias para realizar cambios a una base de código.
 
-Hola a todos,
+En general, se puede decir que existen dos escenarios. Primero, cuando no se tiene acceso al projecto directamente se crea un fork, es decir una *personal* del proyecto. Luego se le hacen los cambios necesarios y le pide a los administradores del proyecto de origen combinar los cambios del fork con el mismo.
 
-Hoy vamos a hablar sobre un tema importante en el mundo del control de versiones con Git y GitLab: el 'commit squashing' o "compresión de commits". Pero, ¿qué significa esto y por qué es tan útil? Vamos a profundizar.
+```{figure} note-git-commit-squashing.md-data/squash-commits-option-gitlab-mr.png)
+Opción "Squash Commits" en una Merge Request de GitLab
+```
+
+
+Segundo, cuando se tiene acceso al proyecto directamente, se puede trabajar con ramas y solicitar una vez estén listos los cambios a quien tenga acceso a `master` que combine los cambios de la rama nueva con los cambios (tambien llamadas feature branches) con `master`.
+
+```{figure} note-git-commit-squashing.md-data/squash-commits-option-gitlab-mr.png)
+Opción "Squash Commits" en una Merge Request de GitLab
+```
+
 
 ## ¿Qué es 'Commit Squashing'?
 
@@ -34,6 +44,8 @@ Aquí hay algunas razones por las que podrías querer usar 'squash commits':
 
 Al hacer un 'merge request' en GitLab, existe una opción que dice "Squash commits". Al marcar esta opción antes de hacer clic en "Merge", GitLab automáticamente combinará todos tus commits en uno.
 
-![squash-commit](./significado-squash-commit.md-data/squash-commits-option-gitlab-mr.png)
+```{figure} note-git-commit-squashing.md-data/squash-commits-option-gitlab-mr.png)
+Opción "Squash Commits" en una Merge Request de GitLab
+```
 
 Recuerda, el uso de 'squash commits' depende del flujo de trabajo de tu equipo y el tamaño y naturaleza de los cambios que estás haciendo. ¡Espero que esta información te sea útil y que ahora sientas más confianza al manejar tus proyectos en GitLab!

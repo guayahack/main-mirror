@@ -13,7 +13,7 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 
 ## ¿Quién puede Participar?
 
-{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es entrar a nuesro Discord 👇
+{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es user [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuesro Discord 👇 
 
 ```{div} discord-widget
 <iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
