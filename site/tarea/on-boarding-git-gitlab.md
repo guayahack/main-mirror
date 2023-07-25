@@ -1,6 +1,6 @@
 ```{post} 2023-07-18
 :author: "@jdsalaro"
-:tags: newbie
+:tags: newbie, git, gitlab
 :category: tareas
 :language: Español
 :location: Alemania
@@ -9,7 +9,47 @@
 
 # Presentándose y Entendiendo GGG (GuayaHack, Git, GitLab)
 
-Ésta es la primera tarea con la que todo newbie deberá comenzar. 
+Hola! Ésta es la primera tarea con la que todo newbie deberá comenzar. La programación no es diferente a muchas otras áreas en las cuales hay herramientas básicas cuyo uso es imprescindible. El carpintero usa sus martillos y el esculptor sus cinceles, el programador moderno, en cambio su entorno de desarrollo y herramientas para gestión de código y proyectos. 
+
+Ya que GuayaHack es un espacio sin ánimo de lucro, creada y mantenida por voluntarios, necesitamos herramientas y procesos que nos ayuden a funcionar de manera eficiente, mientras que al mismo tiempo compartimos y ayudamos a todos los miembros a adquirir nuevas abilidades y compartir sus conocimientos.
+
+En GuayaHack usamos muchas herramientas, como pueden ver en {doc}`/wiki/infraestructura.md`, pero las dos herramientas más importantes para todo novato son Git y GitLab.
+
+## Introducción
+
+### Nuestras Reglas
+
+Aunque somos un proyecto joven hemos crecido considerablemente, ésto es una ventaja pero tambien requiere que pongamos atención a la cultura que queremos propiciar. Para ésto tenemos nuestro {doc}`/community/memorial` y nuestras {doc}`/community/rules`.  
+
+Por favor échales un vistazo. Además, ya que GuayaHack es un espacio de todos, puedes hacernos saber a los moderadores si encontraste errores, inconsitencias o deseas cambiar algo a fin de mejorarlas.
+
+### Gestión de código con Git 
+
+Git es una herramienta de código abierto gratuita que los programadores utilizamos para organizar nuestro código, sobretodo cuanto estamos en proyectos con más personas. Así como todo bebé aprende a no interrumpir para poder comunicarse efectivamente, el programador neofito usualmente debería aprender a usar git para poder contribuir cambios y nuevas funciones  de forma ordenada a codigos fuente y proyectos que no le pertenecen. 
+
+No permitas que la impaciencia te gane, pero tu uso de Git y GitLab nos permite a los voluntarios ayudarte de forma efectiva y eficiente al igual que mantener los cientos de documentos y programas pequeños y grandes creados por la comunidad sin caer en la locura :)
+
+El flujo de trabajo con Git es universal y es como sigue:
+
+```{figure} on-boarding-git-gitlab.md-data/git-basic-workflow.png
+Flujo de trabajo básico con Git
+```
+
+En la imagen anterior puedes ver tanto los pasos como los comandos asociados con el proceso de gestionar código fuente.
+
+#### Instalación
+
+Git es una herramienta muy poderosa, por eso se han escrito libros y grabado videos incontables sobre su instalación y uso. Nosotros no necesitamos saber todo sobre Git, por ahora es suficiente instalarlo y poder utilizar las funciones básicas mostradas en el diagrama anterior. Puedes aprender como instalar Git en tu sistema en [El Libro de Git: Instalación](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) 
+
+### Gestión de Código con GitLab
+
+
+
+```{figure} on-boarding-git-gitlab.md-data/git-basic-workflow.png
+Proyecto de GuayaHack en GitLab
+```
+
+
 
 ## Objetivo
 
