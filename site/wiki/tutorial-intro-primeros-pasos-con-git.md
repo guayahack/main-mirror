@@ -1,13 +1,12 @@
 ```{post} 2023-06-30
 :author: "GuayaHack"
-:tags: newbie, incompleto, git
+:tags: newbie, incompleto, git, gitlab
 :category: wiki
 :language: Español
-
 :excerpt: 1
 ```
 
-# Primeros Pasos con Git
+# Primeros Pasos con Git y GitLab
 
 Hola chic@s, como ya saben siempre hay que buscar una forma de organizarse para que cada quien vaya aprendiendo a su ritmo. Una de las herramientas más importantes para cualquier programador es su propio proceso: pensar, escribir, probar, ejecutar, observar, y volver al primer paso.
 
@@ -23,16 +22,12 @@ Nosotros usamos el grupo de GuayaHack en https://gitlab.com/guayahack para todos
 ### Grupos
 
 ```{figure} tutorial-intro-primeros-pasos-con-git.md-data/guayahack-group.png
----
----
 Grupo GuayaHack en GitLab
 ```
 
 ### Proyectos
 
 ```{figure} tutorial-intro-primeros-pasos-con-git.md-data/guayahack-main.png
----
----
 Proyecto `main` en el Grupo de GuayaHack
 ```
 

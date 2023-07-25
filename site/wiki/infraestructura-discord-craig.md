@@ -11,8 +11,6 @@
 Craig es una aplicación que permite grabar las conversaciones en Discord de forma fácil y rápida.
 
 ```{figure} infraestructura-discord-craig.md-data/craig.png
----
----
 La aplicación Craig para Discord
 ```
 
@@ -20,8 +18,6 @@ La aplicación Craig para Discord
 
 
 ```{figure} infraestructura-discord-craig.md-data/recording-join.png
----
----
 Invitando a Craig a unirse usando `/join <channel>`
 ```
 
@@ -31,14 +27,10 @@ Invitando a Craig a unirse usando `/join <channel>`
 
 
 ```{figure} infraestructura-discord-craig.md-data/recording-join-info-message.png
----
----
 Notificación de Craig por el chat en el que se ejecutó el comando de invitación
 ```
 
 ```{figure} infraestructura-discord-craig.md-data/recording-started-notification.png
----
----
 Notificación de Craig por mensaje privado
 ```
 
@@ -47,8 +39,6 @@ Notificación de Craig por mensaje privado
 
 
 ```{figure} infraestructura-discord-craig.md-data/recording-webapp-link.png
----
----
 Grabación en Craig webapp
 ```
 
