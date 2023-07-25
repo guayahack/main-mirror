@@ -17,9 +17,8 @@ La estructura actual es como sigue:
 ```console
 community/
 ├── index.md
-├── manifest.md
+├── memorial.md
 ├── member
-│   └── space
 │       ├── danteboe
 │       │   ├── index.md
 │       │   ├── nota-on-boarding-git-gitlab.md
@@ -40,9 +39,8 @@ Para crear un nuevo `/space` simplemente copia la carpeta `template` a una con t
 ```console
 community/
 ├── index.md
-├── manifest.md
+├── memorial.md
 ├── member
-│   └── space
 │       ├── danteboe
 │       │   ├── index.md
 │       │   ├── nota-on-boarding-git-gitlab.md
@@ -56,18 +54,5 @@ community/
 5 directories, 8 files
 ```
 
-
-```{figure} template.md-data/tux.png
----
-name: tux-espacio
----
-Tux
-```
-
-
-
-## H2
-
-### H3
 
 

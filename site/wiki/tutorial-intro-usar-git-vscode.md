@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-23
 :author: "GuayaHack"
-:tags: newbie, ide, vscode
+:tags: newbie, git, ide, vscode
 :category: wiki
 :language: Español
 :excerpt: 1
