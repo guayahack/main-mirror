@@ -29,7 +29,7 @@ Ya que casi todo en GuayaHack occurre através de código y Merge Requests, es i
 ### CODEOWNERS [^GITLABDOCSCODEOWNERS]
 [^GITLABDOCSCODEOWNERS]:https://docs.gitlab.com/ee/user/project/codeowners/index.html
 
-Normalmente en GitLab todos los miembros de un proyecto a partir de `developer` pueden aprobar una Merge Request. Ésto no es ideal en nuestro caso ya que muchos {doc}`/wiki/organizacion-nivel-novato` tienen acceso a los proyectos pero no dominan aún bien las herramientas para saber cuando aprobar o no. De igual manera, algunos {doc}`/wiki/organizacion-rol-moderators` son moderadores por su compromiso con la comunidad, pero no dominan todavía los detalles de git y GitLab como para poder revisar y aprobar Merge Requests.
+Normalmente en GitLab todos los miembros de un proyecto a partir de `developer` pueden aprobar una Merge Request. Ésto no es ideal en nuestro caso ya que muchos {doc}`/wiki/organizacion-nivel-novato` tienen acceso a los proyectos pero no dominan aún bien las herramientas para saber cuando aprobar o no. De igual manera, algunos {doc}`/wiki/organizacion-rol-moderator` son moderadores por su compromiso con la comunidad, pero no dominan todavía los detalles de git y GitLab como para poder revisar y aprobar Merge Requests.
 
 Por tanto es importante restringir aún más quien puede aprobarlas: sólo personas con acceso al projecto que *tambien* son miembros en https://gitlab.com/groups/guayahack/moderators/-/group_members
 
@@ -46,7 +46,7 @@ Sin embargo, también es importante que un moderador no pueda aprobar su propia 
 Requisito de aprobación por parte de alguien diferente al autor
 ```
 
-En cuanto a mantener nuestros proyectos ordenados y su historia limpia, siempre le hacemos "squash" a los commits de ramas y sus Merge Requests. Una buena explicación de commit squashing está en la WIKI en {doc}`/wiki/note-commit-squashing`
+En cuanto a mantener nuestros proyectos ordenados y su historia limpia, siempre le hacemos "squash" a los commits de ramas y sus Merge Requests. Una buena explicación de commit squashing está en la WIKI en {doc}`/wiki/note-git-commit-squashing`
 
 ```{figure} infraestructura-gitlab.md-data/gitlab-project-require-squash-commits.png
 Requisito de "Squash Commits" en la configuración de `/guayahack/main`

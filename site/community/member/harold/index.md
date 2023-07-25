@@ -19,9 +19,6 @@ Soy un estudiante de Ing Electronica, estoy aprendiendo Java y Spring Boot, me g
 ## TODO
 
 ```{figure} index.md-data/tux.png
----
-name: guayahack-tux
----
 Tux
 ```
 

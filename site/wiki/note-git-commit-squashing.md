@@ -34,7 +34,7 @@ Aquí hay algunas razones por las que podrías querer usar 'squash commits':
 
 Al hacer un 'merge request' en GitLab, existe una opción que dice "Squash commits". Al marcar esta opción antes de hacer clic en "Merge", GitLab automáticamente combinará todos tus commits en uno.
 
-```{figure} note-git-commit-squashing.md-data/squash-commits-option-gitlab-mr.png)
+```{figure} note-git-commit-squashing.md-data/squash-commits-option-gitlab-mr.png
 Opción "Squash Commits" en una Merge Request de GitLab
 ```
 
