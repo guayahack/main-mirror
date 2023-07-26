@@ -1,6 +1,6 @@
 ```{post} 2023-06-30
 :author: "GuayaHack"
-:tags: noticia, organización, incompleto
+:tags: noticia, organización, evento
 :category: wiki
 :language: Español
 :excerpt: 1
@@ -8,7 +8,7 @@
 
 # Inauguración GuayaHack
 
-Se eligió una fecha tentativa para la inauguración y primera orientación de GuayaHack:
+Se eligió una fecha tentativa para la inauguración y primera orientación de GuayaHack.
 
 ## ¿Cúando?
 

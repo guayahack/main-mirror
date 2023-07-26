@@ -8,5 +8,5 @@
 
 # Gestión de {doc}`/calendario`
 
-#todo:escribir
+`#todo:write`
 
