@@ -41,4 +41,4 @@ Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` n
 
 ## Guías, Materiales y Otros
 
-Esa tal documentación no existe, por eso hay que crearla. Escriba primero y piense después, por ejemplo la [#WIKI](https://guayahack.co/posts/category/wiki/) .b
+Esa tal documentación no existe, por eso hay que crearla. Escriba primero y piense después, por ejemplo la [#WIKI](https://guayahack.co/posts/category/wiki/) .
