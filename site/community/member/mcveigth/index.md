@@ -8,7 +8,9 @@
 :excerpt: 1
 ```
 
-# ¡Bienvenidos a mi espacio en guayahack!
+# @mcveigth
+
+## ¡Bienvenidos a mi espacio en guayahack!
 
 ¡Hola! Soy `@mcveigth`, un apasionado estudiante de pregrado en matemáticas con un minor en ciencias de la computación. Actualmente, resido en Canadá, un lugar lleno de oportunidades y diversidad.
 
