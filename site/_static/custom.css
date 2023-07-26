@@ -13,6 +13,7 @@
 html {
     --pst-font-family-heading: "Space Mono";
     --pst-font-family-base: 'Ubuntu', var(--pst-font-family-base-system);
+    --pst-sidebar-font-size: 1rem;
     --pst-font-size-h1: 1.8rem;
     --pst-font-size-h2: 1.5rem;
     --pst-font-size-h3: 1.3rem;
