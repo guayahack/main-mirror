@@ -51,7 +51,9 @@ Por éste motivo, las personas que trabajan con tecnología son amantes de herra
 
 Nosotros en GuayaHack utilizamos https://gitlab.com, la plataforma de una empresa Estadounidense que, al igual que otras como GitHub o BitBucket, es utilizada por millones de programadores para gestionar su código y sus proyectos. 
 
-Ya que GuayaHack hace parte de el programa de GitLab para Proyectos de código abierto, ellos nos han donado las licencias que utilizarán para trabajar.
+Ya que GuayaHack hace parte de el programa de GitLab para Proyectos de código abierto[^GITLABOPENSOURCE], ellos nos han donado las licencias que utilizarán para trabajar.
+
+[^GITLABOPENSOURCE]:https://about.gitlab.com/solutions/open-source/
 
 ```{figure} on-boarding-git-gitlab.md-data/gitlab-project.png
 Proyecto de GuayaHack en GitLab
@@ -71,7 +73,20 @@ Tú objetivo será `1` crear tu espacio en GuayaHack, crear tu `index.md` de pre
 
 ### Registrándote en GitLab
 
+
+```{figure} on-boarding-git-gitlab.md-data/gitlab-registration.png
+Registrándote en GitLab
+```
+
+
+## Pasos
+
 ### Solicitando acceso a `/guayahack/members`
+
+```{figure} on-boarding-git-gitlab.md-data/gitlab-project.png
+Solicitando acceso al grupo de GuayaHack en GitLab
+```
+
 
 ### Verificando que tienes acceso a `/guayahack/members`
 
@@ -84,33 +99,70 @@ git clone git@gitlab.com:guayahack/main.git
 ### Creando tu rama o branch
 
 ```
-git checkout -b {BRANCH_NAME}
+git checkout -b <NOMBRE_RAMA>
 ```
+
 
 ### Realizando cambios y haciendo push
 
 ```
 # Agrega todos los archivos del directorio actual al stage 
+
 git add . 
 
 # Agrega la descripción del commit al stage
-git commit -m "{COMMENT}" . 
+
+git commit -m "<COMMENT>" .
 
 # Envía los datos al "origin" (la rama del repositorio REMOTO, aka Gitlab)
+
 git push 
 ```
 
-### Creando un Merge, tambien llamado Pull, Request
+Verifica en el projecto de `/guayahack/main/` que puedes ver tu nueva rama creada.
 
-Lorem Ipsum
+```{figure} on-boarding-git-gitlab.md-data/gitlab-project-branches.png
+Lista de ramas en un repositorio Git hospedado en GitLab
+```
+
+### Creando un Merge, también llamado Pull, Request
+
+Ahora deberás crear una solicitud de incorporación de cambios, también llamada Merge Request, basada en esa rama que creaste.
+
+```{figure} on-boarding-git-gitlab.md-data/gitlab-project-branches-new-mr.png
+Creando una nueva Merge Request en GitLab
+```
+
+Recuerda, de ahora en adelante, que una Merge Request siempre está basada en la versión más actualizada de una rama o branch; puedes leer más sobre ésto en {doc}`/wiki/note-git-branching-estrategias`.
+
+
+```{figure} on-boarding-git-gitlab.md-data/gitlab-branch-new-merge-request.png
+Editando una nueva Merge Request
+```
+
 
 ### Verificando Cambios
 
-Lorem Ipsum
+Ahora, verifica que todos tus cambios se ven como lo planeaste:
 
-## Materiales y Herramientas
+```{figure} on-boarding-git-gitlab.md-data/gitlab-mr-view.png
+Vista de una Merge Request recién creada
+```
 
-Lorem Ipsum
+Mira que el texto, las imágenes, todo está correcto.
+
+```{figure} on-boarding-git-gitlab.md-data/gitlab-mr-changes.png
+Cambios realizados en una Merge Request
+```
+
+## Aprobación e incorporación de cambios
+
+Una vez tu hayas asignado a un moderador cómo reviewer o revisor de tu Merge Request, éste deberá aprobarla para que tu puedas hacerle "Merge" a tus cambios, es decir los puedas incorporar a `master` la rama principal del proyecto.
+
+
+```{figure} on-boarding-git-gitlab.md-data/gitlab-mr-approval.png
+Approvación de una Merge Request por parte de un Moderator
+```
 
 
 
@@ -121,13 +173,12 @@ Lorem Ipsum
 En caso de que nos arroje un error de que no encuentra el origen, debemos agregar 
 
 ```
-# Envía los datos al "origin"/{BRANCH} 
+# Envía los datos al "origin"/<BRANCH> 
 
-git push --set-upstream-to=origin/{BRANCH} 
+git push --set-upstream-to=origin/<BRANCH> 
 ```
 
-#### Solución
+## Pistas
 
-Lorem Ipsum
-
+En caso de necesitar un poquito de inspiración, puedes leer éste tutorial escrito por uno de nuestros miembros: {doc}`/community/member/danteboe/nota-on-boarding-git-gitlab`
 
