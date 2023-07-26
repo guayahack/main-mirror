@@ -7,7 +7,7 @@
 :excerpt: 1
 ```
 
-# Adaptando El /calendario a Dark-mode & Responsive`
+# Adaptando El /calendario a Dark-mode & Responsive
 
 Mi metodologia para resolver un problema es muy sencilla y bastante
 práctica en mi opinion, siempre me funciona.
