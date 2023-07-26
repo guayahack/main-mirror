@@ -11,7 +11,7 @@
 
 Hola! Ésta es la primera tarea con la que todo newbie deberá comenzar. La programación no es diferente a muchas otras áreas en las cuales hay herramientas básicas cuyo uso es imprescindible. El carpintero usa sus martillos y el esculptor sus cinceles, el programador moderno, en cambio su entorno de desarrollo y herramientas para gestión de código y proyectos. 
 
-Ya que GuayaHack es un espacio sin ánimo de lucro, creada y mantenida por voluntarios, necesitamos herramientas y procesos que nos ayuden a funcionar de manera eficiente, mientras que al mismo tiempo compartimos y ayudamos a todos los miembros a adquirir nuevas abilidades y compartir sus conocimientos.
+Ya que GuayaHack es un espacio sin ánimo de lucro, creada y mantenida por voluntarios, necesitamos herramientas y procesos que nos ayuden a funcionar de manera eficiente, mientras que al mismo tiempo compartimos y ayudamos a todos los miembros a adquirir nuevas habilidades y compartir sus conocimientos.
 
 En GuayaHack usamos muchas herramientas, como pueden ver en {doc}`/wiki/infraestructura.md`, pero las dos herramientas más importantes para todo novato son Git y GitLab.
 
