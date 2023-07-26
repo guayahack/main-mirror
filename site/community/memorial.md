@@ -10,7 +10,7 @@ GuayaHack, como fenómeno, es resultado del interés y la curiosidad de la comun
 
 ## II - Tools, Techniques and Procedures
 
-%#todo:write
+`#todo:write`
 
 ## III - Identidad
 
