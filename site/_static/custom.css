@@ -6,6 +6,10 @@
 
 /* ################### GENERAL ########################### */
 
+.navbar-nav span.caption-text {
+    font-size: 1.5em;
+}
+
 html {
     --pst-font-family-heading: "Space Mono";
     --pst-font-family-base: 'Ubuntu', var(--pst-font-family-base-system);
