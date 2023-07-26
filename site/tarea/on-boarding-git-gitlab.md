@@ -83,12 +83,23 @@ Registrándote en GitLab
 
 ### Solicitando acceso a `/guayahack/members`
 
+Puedes solicitar acceso al proyecto de `/guayahack/main` a través del grupo `/guayahack/members`: https://guayahack.co/tarea/on-boarding-git-gitlab/ 
+
 ```{figure} on-boarding-git-gitlab.md-data/gitlab-project.png
 Solicitando acceso al grupo de GuayaHack en GitLab
 ```
 
 
 ### Verificando que tienes acceso a `/guayahack/members`
+
+Una vez que solicites acceso los moderadores recibirán una notificación y una vez la aprueben deberías poder ver tu nombre en la lista de miembros del grupo `/guayahack/members`:
+
+
+```{figure} on-boarding-git-gitlab.md-data/gitlab-group-members.png
+Verificando que un usuario GitLab se encuentra en los miembros de un grupo
+```
+
+
 
 ### Clonando main @ GuayaHack
 
