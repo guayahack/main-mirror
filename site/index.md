@@ -13,11 +13,11 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 
 ## Sobre GuayaHack
 
+Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` nuestro {doc}`/community/memorial` o leyendo las [Reglas](community/rules.md).
+
 ```{div} discord-widget
 <iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ```
-
-Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` nuestro {doc}`/community/memorial` o leyendo las [Reglas](community/rules.md).
 
 ## ¿Quién puede Participar?
 
