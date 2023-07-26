@@ -4,7 +4,6 @@
 :tags: organización, documentación
 :category: wiki
 :language: Español
-
 :excerpt: 1
 ```
 

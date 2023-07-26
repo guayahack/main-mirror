@@ -13,7 +13,7 @@ Hola! Ésta es la primera tarea con la que todo newbie deberá comenzar. La prog
 
 Ya que GuayaHack es un espacio sin ánimo de lucro, creada y mantenida por voluntarios, necesitamos herramientas y procesos que nos ayuden a funcionar de manera eficiente, mientras que al mismo tiempo compartimos y ayudamos a todos los miembros a adquirir nuevas habilidades y compartir sus conocimientos.
 
-En GuayaHack usamos muchas herramientas, como pueden ver en {doc}`/wiki/infraestructura.md`, pero las dos herramientas más importantes para todo novato son Git y GitLab.
+En GuayaHack usamos muchas herramientas, como pueden ver en {doc}`/wiki/infraestructura`, pero las dos herramientas más importantes para todo novato son Git y GitLab.
 
 ## Introducción
 
@@ -99,7 +99,7 @@ git clone git@gitlab.com:guayahack/main.git
 ### Creando tu rama o branch
 
 ```
-git checkout -b <NOMBRE_RAMA>
+git checkout -b <REEMPLAZAR>
 ```
 
 
@@ -112,7 +112,7 @@ git add .
 
 # Agrega la descripción del commit al stage
 
-git commit -m "<COMMENT>" .
+git commit -m "<REEMPLAZAR>" 
 
 # Envía los datos al "origin" (la rama del repositorio REMOTO, aka Gitlab)
 
@@ -173,9 +173,9 @@ Approvación de una Merge Request por parte de un Moderator
 En caso de que nos arroje un error de que no encuentra el origen, debemos agregar 
 
 ```
-# Envía los datos al "origin"/<BRANCH> 
+# Envía los datos al "origin"/<REEMPLAZAR> 
 
-git push --set-upstream-to=origin/<BRANCH> 
+git push --set-upstream-to=origin/<REEMPLAZAR> 
 ```
 
 ## Pistas
