@@ -21,7 +21,7 @@ Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` n
 
 ## ¿Quién puede Participar?
 
-{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es user [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuesro Discord 👇 
+{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es user [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuesro Discord.
 
 
 

@@ -17,6 +17,13 @@
 Tux
 ```
 
+# Checks during MR
+
+url
+tags
+date
+title
+
 
 
 ## H22
