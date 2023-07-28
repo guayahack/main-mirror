@@ -29,7 +29,7 @@ Por Zoom 👉 <a target="_blank" href="https://calendar.google.com/calendar/even
 ## Resumen
 
 Se logró una asistencia de 40 personas por Zoom, algunas miembros y otras curiosas, interesadas en contribuir de manera activa GuayaHack. Allí, durante cerca de una hora, se realizaron intervenciones y preguntas sobre el desarrollo del GuayaHack. En un primer momento, {doc}`/community/member/jdsalaro/index` dio la bienvenida a todos en el grupo y brindó una pequeña presentación. Él mencionó rangos distintivos de su identidad Colombiana, Latina y su pasión por el conocimiento y el Internet. Asimismo, detalló sobre su perfil profesional y su labor en Alemania.
-Luego, el moderador {doc}`/community/member/rioschala /index` se presentó y detalló su motivación para estar en el grupo.
+Luego, el moderador {doc}`/community/member/rioschala/index` se presentó y detalló su motivación para estar en el grupo.
 
 Seguidamente, {doc}`/community/member/jdsalaro/index` estableció que el fin central del proyecto era crear un espacio Hacklab debido a una necesidad de la sociedad por un espacio como este, especialmente en consideración de otras iniciativas que se han desarrollado, pero que debido a elementos económicos no han continuado en funcionamiento. Ésta idea permitió reforzar el sentimiento hacia GuayaHack, un proyecto en híbrido, línea y físico, donde los participantes se encargan de construirlo conjuntamente mediante su participación y contribuciones.
  
