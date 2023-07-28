@@ -15,7 +15,13 @@
 
 %## 2023-07-17 
 
-%## 2023-07-17 
+## 2023-07-22
+
+Tuvimos el "Info Chat #1" a las 10:30 UTC-5; la primera sesión con miembros e interesados en la corta historia de GuayaHack :)
+
+40 miembros de la comunidad conversamos sobre GuayaHack, su razón de ser al igual que nuestros planes y estrategias para el espacio. 
+
+🔗 [Aquí](https://docs.google.com/presentation/d/1XGSP-HqtYPwPGY5DA3UhNoBB67kpEpaIyJpYF7Sg7P4/edit?usp=sharing) encuentran las diapositivas; lastimosamente olvidamos grabar la sesión. 
 
 ## 2023-07-21 
 
