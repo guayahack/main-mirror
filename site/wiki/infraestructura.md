@@ -111,6 +111,7 @@ snapchat.com
 ::::
 
 
+GuayaHack también se esfuerza por conectar a los espacios cuya filosofía se alinea con la nuestra, buscando regar la voz en lugares como [hackerspaces.org](https://wiki.hackerspaces.org/GuayaHack) entre otros.
 
 
 

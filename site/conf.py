@@ -94,7 +94,7 @@ html_theme_options = {
         #        },
         {
             "name": "Blog RSS feed",
-            "url": "https://jdsalaro.com/blog/atom.xml",
+            "url": "https://guayahack.co/posts/atom.xml",
             "icon": "fa-solid fa-rss",
         },
     ],
