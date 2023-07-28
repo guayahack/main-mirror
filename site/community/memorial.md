@@ -14,7 +14,7 @@ GuayaHack, como fenómeno, es resultado del interés y la curiosidad de la comun
 
 ## III - Identidad
 
-La identidad de GuayaHack y sus miembros _*no*_ se basa en características superficiales como apariencia, edad, credo, orientación sexual, procedencia, estrato social, afiliación política y demás. 
+La identidad de GuayaHack y sus miembros _*no*_ se basa en características superficiales como apariencia, edad, credo, orientación sexual, procedencia, estrato social, afiliación política, dominio de la informática y demás. 
 
 Por el contrario, el _*único*_ requisito para participar es el compromiso total con el empoderamiento de los demás, antes que el propio, a través de la educación al igual que el dominio y uso de tecnologías de relevancia e interés común.
 
