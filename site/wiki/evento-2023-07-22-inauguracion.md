@@ -37,8 +37,8 @@ Claro, ésta visión debe ser en lo posible que la comunidad se pueda regular, p
  
 Desde la parte metodológica, se definió que el proyecto se centra en el aprendizaje basado en proyectos, intereses y comunidad. Bajo esta perspectiva, es necesario que los usuarios cuenten con tres habilidades centrales:
 
-    1. La participación voluntaria y el disfrute personal y colectivo
-    2. La investigación autónoma y activa
-    3. Documentación y transferencia de aprendizajes
+1. La participación voluntaria y el disfrute personal y colectivo
+2. La investigación autónoma y activa
+3. Documentación y transferencia de aprendizajes
 
 Dichas habilidades se evidencian en las contribuciones realizadas en la comunidad oficial de Discord y en el repositorio de GitLab, nuestra herramienta para gestión de código y proyectos. En tal sentido, y para promover, potencializar y facilitar, se busca que la *práctica* sea el aspecto central. Éste permite que se justifiquen los medios para llegar a un fin claro: el conocimiento. {doc}`/community/member/jdsalaro/index` presentó diferentes usos que se le ha venido dando a los canales de voz de Discord como herramienta para propiciar encuentros basados en el conocimiento y la curiosidad. Ésto desencadenó en la promoción de la comunidad como un espacio que busca la diversión por aprender, la emoción por compartir y el compromiso consigo mismo y con el otro. Todo siempre desde la voluntad, la disposición y el amor por crear.
