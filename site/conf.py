@@ -79,7 +79,7 @@ html_theme_options = {
         },
         {
             "name": "Twitch",
-            "url": "https://twitter.com/twitch",
+            "url": "https://twitch.com/guayahack",
             "icon": "fa-brands fa-twitch",
         },
         {
