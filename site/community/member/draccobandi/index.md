@@ -17,3 +17,13 @@ Hola me llamo Alejandro y pseudónimo es DraccoBandi, soy un poco despistado y a
 ## TODO
 
 `prontamente`
+
+## Blog
+
+```{postlist}
+:author: "@draccobandi"
+:category: blog
+:excerpts:
+:sort:
+```
+

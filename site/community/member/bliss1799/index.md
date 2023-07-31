@@ -18,12 +18,12 @@ Hace poco descubrí programar a la velocidad de la luz con Vim y vivo molestando
 Éste es mi espacio en GuayaHack.
 
 
-```console
-$ git status 
-On branch master
-Your branch is up to date with 'origin/master'.
+## Blog
 
-nothing to commit, working tree clean
+```{postlist}
+:author: "@bliss1799"
+:category: blog
+:excerpts:
+:sort:
 ```
-
 

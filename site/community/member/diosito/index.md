@@ -14,3 +14,13 @@ Hola soy `@diosito`! Un estudiante de 17 años de Ing. de Datos e IA, me apasion
 
 ## Perfil de Github:
 https://github.com/Isaac-opz
+
+## Blog
+
+```{postlist}
+:author: "@diosito"
+:category: blog
+:excerpts:
+:sort:
+```
+

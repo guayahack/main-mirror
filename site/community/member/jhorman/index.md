@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-# @Jhorman 
+# @jhorman 
 
 Hola soy jhorman, en el discord me encuentran como `@jhorman`, vaya creatividad la mia <img  width="60" height="40" src="https://thumbs.gfycat.com/ScratchyImprobableBluefish-size_restricted.gif"/>
 
@@ -48,5 +48,12 @@ De momento serian esos(Uff varias cositas por hacer), pondre mas en el futuro, y
 
 
 
+## Blog
 
+```{postlist}
+:author: "@jhorman"
+:category: blog
+:excerpts:
+:sort:
+```
 

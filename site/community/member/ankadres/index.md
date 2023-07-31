@@ -46,4 +46,12 @@ Me gustaría continuar aprendiendo sobre los siguientes temas:
 
 
 
+## Blog
+
+```{postlist}
+:author: "@ankadres"
+:category: blog
+:excerpts:
+:sort:
+```
 

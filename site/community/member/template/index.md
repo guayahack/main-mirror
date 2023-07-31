@@ -8,7 +8,8 @@
 :excerpt: 1
 ```
 
-%REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)
+%REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio
+
 # @guayahack 
 
 %REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)

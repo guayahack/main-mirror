@@ -18,12 +18,12 @@ Me interesan los idiomas, emprendimiento, filosofía y malabarismo. Me gusta la 
 
 Éste es mi espacio en GuayaHack.
 
-## TODO
+## Blog
 
-```console
-$ git status 
-On branch master
-Your branch is up to date with 'origin/master'.
-
-nothing to commit, working tree clean
+```{postlist}
+:author: "@shavenbaboon"
+:category: blog
+:excerpts:
+:sort:
 ```
+

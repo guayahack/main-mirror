@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-18
-:author: "@DoraTheDestroya"
+:author: "@dorathedestroya"
 :tags: participante
 :category: miembros
 :language: Español, English
@@ -42,3 +42,14 @@ Una serie super entretenida y divertida la cual estoy usando para mejorar mi cor
 <br/>
 
 Bienvenido a mi espacio en GuayaHack.
+
+
+## Blog
+
+```{postlist}
+:author: "@dorathedestroya"
+:category: blog
+:excerpts:
+:sort:
+```
+

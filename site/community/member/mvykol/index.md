@@ -116,3 +116,13 @@ Me gusta mucho jugar Basketball, video-juegos, comer xD, y escuchar musica.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mvykool&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvykool&theme=dark&layout=compact)
+
+## Blog
+
+```{postlist}
+:author: "@mvykol"
+:category: blog
+:excerpts:
+:sort:
+```
+

@@ -1,5 +1,5 @@
 ```{post} 2023-07-21
-:author: "@isai.Dev343"
+:author: "@isai.dev343"
 :tags: moderador, tutor
 :category: miembros
 :language: Español
@@ -47,3 +47,13 @@ De todo pero estoy mas inclinado por el rock , pop y rap.
 ¡Estoy emocionado de ser parte de esta comunidad y espero poder compartir conocimientos y aprender de todos ustedes! Si tienen alguna pregunta, no duden en contactarme.
 
 ¡Nos vemos pronto!
+
+## Blog
+
+```{postlist}
+:author: "@isai.dev343"
+:category: blog
+:excerpts:
+:sort:
+```
+

@@ -16,8 +16,6 @@ Soy profesor, me gusta aprender sobre diferentes temas como la programación par
 
 Me gustan los videojuegos, especialmente Valorant main Fade. 
 
-## TODO
-
 ```
 {figure} index.md-data/valorant.png
 ---
@@ -26,10 +24,12 @@ name: rioschala-valorant
 Valorant
 ```
 
-```console
-$ git status 
-On branch master
-Your branch is up to date with 'origin/master'.
+## Blog
 
-nothing to commit, working tree clean
+```{postlist}
+:author: "@rioschala"
+:category: blog
+:excerpts:
+:sort:
 ```
+

@@ -1,6 +1,6 @@
 
 ```{post} 2023-07-18
-:author: "@SagaJJ"
+:author: "@sagajj"
 :tags: participante
 :category: miembros
 :language: Español
@@ -24,3 +24,13 @@ Hola soy `@SagaJJ` (SagaJ en el Discord), estoy estudiando sistemas en el SENA y
 ## TODO
 
 *Coming soon!*
+
+## Blog
+
+```{postlist}
+:author: "@sagajj"
+:category: blog
+:excerpts:
+:sort:
+```
+

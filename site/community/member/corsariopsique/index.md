@@ -29,3 +29,13 @@ Me gusta mucho aprender cosas utiles, soy un amante de Wikipedia y el conocimien
 ---
 
 ```
+
+## Blog
+
+```{postlist}
+:author: "@corsariopsique"
+:category: blog
+:excerpts:
+:sort:
+```
+

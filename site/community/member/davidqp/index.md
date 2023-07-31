@@ -21,10 +21,12 @@ alt: davidqp
 [opensource](https://opensource.com/resources/what-open-source)
 ```
 
-```console
-$ git status 
-On branch master
-Your branch is up to date with 'origin/master'.
+## Blog
 
-nothing to commit, working tree clean
+```{postlist}
+:author: "@davidqp"
+:category: blog
+:excerpts:
+:sort:
 ```
+
