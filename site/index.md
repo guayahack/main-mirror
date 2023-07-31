@@ -5,8 +5,6 @@
 
 Somos un grupo de estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) creado por y para la {doc}`/community/index` el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura. 
 
-### ¡Únete y sé parte de esta enriquecedora comunidad!
-
 ```console
 $ date=`date -d @1689530400`; echo -e "\nGuayaHack, fundado: $date"
 
