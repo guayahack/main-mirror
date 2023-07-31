@@ -10,22 +10,13 @@
 
 # @jdsalaro
 
-```{figure} index.md-data/cloud-atlas.jpg
----
-alt: cloud-atlas
----
-Neo Seoul, Year 2144 - [Cloud Atlas](https://en.wikipedia.org/wiki/Cloud_Atlas_(film))
-```
+## [https://jdsalaro.com](https://jdsalaro.com)
 
-Hola soy `@jdsalaro`, conocido como Jayson por todos, junto con los moderadores me metí en ésta aventura! Me gustan los computadores, la política y la filosofía, la cocina asiática, la música de todo tipo, los deportes y los idiomas. 
-
-Mi artista favorito es [Avicii](https://en.wikipedia.org/wiki/Avicii).
+Hola soy `@jdsalaro`, conocido como Jayson por todos, junto con los moderadores me embarqué en la aventura de fundar y construir GuayaHack! 
 
 Éste es mi espacio en GuayaHack!
 
-## [https://jdsalaro.com](https://jdsalaro.com)
-
-## Where to Find Me
+## Donde encontrarme
 
 ::::{grid} 4 4 8 8
 :class-container: landing-grid
@@ -81,4 +72,29 @@ Mi artista favorito es [Avicii](https://en.wikipedia.org/wiki/Avicii).
 :::
 
 ::::
+
+## Acerca de mí
+
+Me gustan los computadores, la política y la filosofía, la cocina asiática, la música al igual que las películas de todo tipo, los deportes y los idiomas. Mi artista favorito es [Avicii](https://en.wikipedia.org/wiki/Avicii).
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0nrRP2bk19rLc0orkWPQk2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+```{figure} index.md-data/cloud-atlas.jpg
+---
+alt: cloud-atlas
+---
+Neo Seoul, Year 2144 - [Cloud Atlas](https://en.wikipedia.org/wiki/Cloud_Atlas_(film))
+```
+
+## Blog
+
+`TODO :P`
+
+```{postlist}
+:author: "@jdsalaro" 
+:category: blog
+:excerpts:
+:sort:
+```
 
