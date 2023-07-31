@@ -8,7 +8,7 @@
 :excerpt: 1
 ```
 
-## Crónicas de Guayahack: Donde el Canto de la Naturaleza se Funde con el Arte del Hacker
+# Crónicas de Guayahack: Donde el Canto de la Naturaleza se Funde con el Arte del Hacker
 
 <span style="font-family: courier;">
 
