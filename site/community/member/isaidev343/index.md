@@ -1,6 +1,6 @@
 ```{post} 2023-07-21
 :author: "@isai.Dev343"
-:tags: moderador, tutor
+:tags: moderador
 :category: miembros
 :language: Español
 :location: Colombia
