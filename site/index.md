@@ -49,4 +49,4 @@ Sin importar si eres principiante, tienes experiencia o eres profesional, comenz
 
 ## Guías, Materiales y Otros
 
-Esa tal documentación no existe, por eso hay que crearla. Escriba primero y piense después, por ejemplo la [#WIKI](https://guayahack.co/posts/category/wiki/) :)
+Esa tal documentación no existe, por eso hay que crearla. Escriba primero y piense después, por ejemplo la [#WIKI](https://guayahack.co/posts/category/wiki/) 
