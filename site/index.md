@@ -24,7 +24,12 @@ Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` n
 
 ## ¿Quién puede Participar?
 
-{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es user [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuestro Discord y seguir los pasos en `#rules`. Para entrar en materia, sin importar si eres principiante, tienes experiencia o eres profesional, comenzarás resolviendo {doc}`/tarea/on-boarding-git-gitlab` y luego decidiras que camino quieres tomar.
+%TODO:write las descripciones de los niveles y añadir ésta linea
+%{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional`
+
+En GuayaHack todos, sin importar el nivel, estudiamos, practicamos y compartimos junt@s la programación, la informática y otras tecnologías relevantes en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es user [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuestro Discord y seguir los pasos en `#rules`.
+
+Para entrar en materia, sin importar si eres principiante, tienes experiencia o eres profesional, comenzarás resolviendo {doc}`/tarea/on-boarding-git-gitlab` y luego decidirás que camino quieres tomar.
 
 ```{toctree}
 :maxdepth: 1
