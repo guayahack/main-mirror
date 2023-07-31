@@ -15,7 +15,7 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 
 *GuayaHack* es un juego de palabras entre *Guayacán*, el nombre coloquial del árbol [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), y el término [Hacker](https://es.wikipedia.org/wiki/Hacker), utilizado para referirse a entusiastas de la tecnología. Inclusive tenemos un poema inspirado en ésta curiosa combinación titulado {doc}`/community/poema-cronicas-guayahack`.
 
-Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` nuestro {doc}`/community/memorial` o leyendo las [Reglas](community/rules.md). 
+Puedes aprender más sobre GuayaHack y sus miembros en la página de la {doc}`/community/index`, leyendo nuestro {doc}`/community/memorial` o echándole un vistazo las [Reglas](community/rules.md). 
 
 
 ```{div} discord-widget
