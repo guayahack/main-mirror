@@ -89,7 +89,7 @@ Neo Seoul, Year 2144 - [Cloud Atlas](https://en.wikipedia.org/wiki/Cloud_Atlas_(
 
 ## Blog
 
-`TODO :P`
+`TODO:write :)`
 
 ```{postlist}
 :author: "@jdsalaro" 
