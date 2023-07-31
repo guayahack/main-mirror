@@ -1,4 +1,11 @@
-
+```{post} 2023-07-17
+:author: "@guayahack"
+:tags: cultura
+:category: wiki
+:language: Español
+:location: Colombia
+:excerpt: 1
+```
 
 # Memorial
 

@@ -13,7 +13,10 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 
 ## Sobre GuayaHack
 
-Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` nuestro {doc}`/community/memorial` o leyendo las [Reglas](community/rules.md).
+*GuayaHack* es un juego de palabras entre *Guayacán*, el nombre coloquial del árbol [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), y el término [Hacker](https://es.wikipedia.org/wiki/Hacker), utilizado para referirse a entusiastas de la tecnología. Inclusive tenemos un poema inspirado en ésta curiosa combinación titulado {doc}`/community/poema-cronicas-guayahack`.
+
+Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` nuestro {doc}`/community/memorial` o leyendo las [Reglas](community/rules.md). 
+
 
 ```{div} discord-widget
 <iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
@@ -22,62 +25,6 @@ Puedes aprender más sobre GuayaHack y sus miembros en {doc}`/community/index` n
 ## ¿Quién puede Participar?
 
 {doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional` estudiamos, practicamos y compartimos junt@s la programación, la informática y toda tecnología relevante en el mundo moderno entre nosotr@s. Lo único que necesitas hacer para unirte es user [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuestro Discord y seguir los pasos en `#rules`. Para entrar en materia, sin importar si eres principiante, tienes experiencia o eres profesional, comenzarás resolviendo {doc}`/tarea/on-boarding-git-gitlab` y luego decidiras que camino quieres tomar.
-
-## Crónicas de Guayahack: Donde el Canto de la Naturaleza se Funde con el Arte del Hacker
-
-<span style="font-family: courier;">
-
-En tierras donde el Guayacán florece,
-
-Donde el arte del hacking se engrandece,
-
-Surge un nombre que en su esencia encierra,
-
-La fusión de dos mundos, con destreza.
-
-<br/>
-
-*Guayahack* es la voz que se alza y vuela,
-
-Como el ave que en la copa se posa,
-
-Un juego de palabras que consuela,
-
-La unión del bosque y la mente curiosa.
-
-<br/>
-
-El *Guayacán*, árbol noble y sereno,
-
-Sus raíces profundas, fuerte abrazo,
-
-Mientras el *hacker*, mente en constante freno,
-
-Explora los caminos del espacio.
-
-<br/>
-
-En la conjunción de naturaleza y arte,
-
-*Guayahack* emerge, nuevo estandarte,
-
-El respeto al bosque y el saber audaz,
-
-Se unen en un nombre, por siempre enlazados.
-
-<br/>
-
-¡Oh, *Guayahack*! En tu nombre se siente,
-
-El eco de la tierra y la mente ardiente,
-
-Que tu presencia inspire y aliente,
-
-A crear un mundo más sabio y consciente.
-
-</span>
----
-Autor: @mcveigth
 
 ```{toctree}
 :maxdepth: 1

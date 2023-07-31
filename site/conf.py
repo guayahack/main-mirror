@@ -31,6 +31,11 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**/template*"]
 
 language = "es"
 
+suppress_warnings = [
+        "myst.domains",
+        "myst.strikethrough",
+]
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 

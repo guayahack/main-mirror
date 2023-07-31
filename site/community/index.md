@@ -3,7 +3,7 @@
 
 ## Miembros
 
-Aunque GuayaHack es una iniciativa creada por {doc}`/community/member/jdsalaro/index`, es un esfuerzo colaborativo de tod@s para tod@s, estos son sus miembros:
+Aunque GuayaHack es una iniciativa iniciada por {doc}`/community/member/jdsalaro/index`, es un esfuerzo colaborativo de tod@s para tod@s, estos son sus miembros:
 
 ## Voluntarios
 
@@ -11,28 +11,27 @@ Aunque GuayaHack es una iniciativa creada por {doc}`/community/member/jdsalaro/i
 
 Todos los moderadores son tutores.
 
-1. {doc}`/community/member/jdsalaro/index`
-1. {doc}`/community/member/rioschala/index`
-1. {doc}`/community/member/nikoresu/index`
-1. NOMBRE_DISCORD
+```{postlist}
+:tags: moderador
+:category: miembros
+```
 
-### Tutores
+%por ahora no es muy claro cual es el rol y quién es tutor
+%pues todos los moderadores son tutores y no hay tutores
+%que no sean moderadores. Por ahora dejaré ésta sección comentada.
 
-Todos los tutores son participantes.
+%### Tutores
 
-1. NOMBRE_DISCORD
-1. NOMBRE_DISCORD
-1. NOMBRE_DISCORD
-1. NOMBRE_DISCORD
+%Todos los moderadores son participantes.
+
+%```{postlist}
+%:tags: tutor
+%:category: miembros
+%```
 
 ### Participantes
 
-1. {doc}`/community/member/danteboe/index`
-1. {doc}`/community/member/draccobandi/index` 
-1. {doc}`/community/member/shavenbaboon/index`
-1. {doc}`/community/member/sagajj/index`
-1. {doc}`/community/member/bliss1799/index`
-1. {doc}`/community/member/davidqp/index`
-1. {doc}`/community/member/harold/index`
-
-
+```{postlist}
+:tags: participante
+:category: miembros
+```

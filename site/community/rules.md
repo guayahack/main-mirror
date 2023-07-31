@@ -1,3 +1,10 @@
+```{post} 2023-07-17
+:author: "@guayahack"
+:tags: cultura
+:category: wiki
+:language: Español
+:excerpt: 1
+```
 
 # Reglas (Big Endian[^BIGENDIAN])
 

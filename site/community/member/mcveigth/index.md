@@ -22,10 +22,11 @@ Uno de los libros que recientemente he tenido el placer de leer es "Pedro Páram
 
 A través de esta plataforma, espero compartir conocimientos, aprender de otros apasionados de la tecnología y las ciencias, y seguir creciendo tanto académicamente como personalmente.
 
-```console
-$ git status 
-On branch master
-Your branch is up to date with 'origin/master'.
+## Blog
 
-nothing to commit, working tree clean
+```{postlist}
+:author: "@mcveigth"
+:category: blog
+:excerpts:
+:sort:
 ```

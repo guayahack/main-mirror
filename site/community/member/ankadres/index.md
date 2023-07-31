@@ -14,7 +14,7 @@ Hola mundo, soy Andrés, en el discord me encuentran como `@ankadres`
 
 Trabajo como software developer hace más de dos años, soy algo así como un todero en mi empresa, pero lo que más he trabajado es en backend. En este momento estoy comenzado a ser líder de un team.
 
-### Mis habilidades
+## Mis habilidades
 
 He trabajado en varias tecnologías:
 
@@ -24,11 +24,11 @@ He trabajado en varias tecnologías:
 - PostgreSQL, SQL Server, Oracle
 - Microservicios
 
-### Intereses
+## Intereses
 
 Me gusta la tecnología, los videojuegos, la música, las peliculas y series, también toco guitarra eléctrica :D
 
-### Propositos
+## Propositos
 
 Me gustaría continuar aprendiendo sobre los siguientes temas:
 
@@ -37,7 +37,7 @@ Me gustaría continuar aprendiendo sobre los siguientes temas:
 - DevOps
 - Soft skills
 
-### :D
+## :D
 !!! Si tienen alguna pregunta o necesitan ayuda no duden en contactarme !!!
 
 

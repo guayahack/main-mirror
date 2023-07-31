@@ -14,15 +14,6 @@ Hola soy `@ramdonx`!
 
 Éste es mi espacio en GuayaHack.
 
-## TODO
-
-```{figure} index.md-data/tux.png
----
-name: guayahack-tux
----
-Tux
-```
-
 ```console
 $ git status 
 On branch master
