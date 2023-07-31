@@ -92,6 +92,11 @@ html_theme_options = {
             "url": "https://twitter.com/guayahack",
             "icon": "fa-brands fa-twitter",
         },
+        {
+            "name": "Flickr",
+            "url": "https://flickr.com/photos/guayahack",
+            "icon": "fa-brands fa-flickr",
+        },
         #        {
         #            "name": "TikTok",
         #            "url": "https://tiktok.com/@guayahack",
