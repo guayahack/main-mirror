@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@rioschala"
-:tags: participante, moderador
+:tags: moderador
 :category: miembros
 :language: English
 :location: Colombia
