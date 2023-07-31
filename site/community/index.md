@@ -3,7 +3,7 @@
 
 ## Miembros
 
-Aunque GuayaHack es una iniciativa iniciada por {doc}`/community/member/jdsalaro/index`, es un esfuerzo colaborativo de tod@s para tod@s, estos son sus miembros:
+Aunque GuayaHack es una iniciativa iniciada por {doc}`/community/member/jdsalaro/index`, es un esfuerzo colaborativo de tod@s para tod@s, éstos son sus miembros.
 
 ## Voluntarios
 
