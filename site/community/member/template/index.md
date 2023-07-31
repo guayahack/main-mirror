@@ -1,17 +1,17 @@
 
 ```{post} 2023-07-18  %REEMPLAZAR
-:author: "@guayahack" %REEMPLAZAR
-:tags: moderador, participante %REEMPLAZAR
-:category: miembros
+:author: "@guayahack" %REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)
+:tags: moderador, participante %REEMPLAZAR: solo puede ser uno.
+:category: miembros   %NOTA: no se debe cambiar, el index.md de los espacios sólo debe tener la categoría miembros
 :language: Español
 :location: Colombia %REEMPLAZAR
 :excerpt: 1
 ```
 
-%REEMPLAZAR
+%REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)
 # @guayahack 
 
-%REEMPLAZAR
+%REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)
 Hola soy `@guayahack`! 
 
 Éste es mi espacio en GuayaHack.
@@ -21,7 +21,7 @@ Hola soy `@guayahack`!
 ## Blog
 
 ```{postlist}
-:author: "@guayahack" %REEMPLAZAR
+:author: "@guayahack" %REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)
 :category: blog
 :excerpts:
 :sort:
