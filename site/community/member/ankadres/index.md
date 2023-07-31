@@ -1,8 +1,8 @@
 
 ```{post} 2023-07-28
 :author: "@ankadres"
-:tags: participante, notas, tarea
-:category: blog
+:tags: participante
+:category: miembros
 :language: Español, English
 :location: Colombia
 :excerpt: 1
