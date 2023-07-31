@@ -54,6 +54,22 @@ twitter.com
 
 :::{grid-item-card}
 :text-align: center
+:link: https://www.flickr.com/photos/guayahack/
+<i class="fa-brands fa-flickr" style="font-size:2em"></i>
+twitter.com
+:::
+
+
+:::{grid-item-card}
+:text-align: center
+:link: https://instagram.com/guayahack
+<i class="fa-brands fa-instagram" style="font-size:2em"></i>
+twitter.com
+:::
+
+
+:::{grid-item-card}
+:text-align: center
 :link: https://gitlab.com/guayahack
 <i class="fa-brands fa-gitlab" style="font-size:2em"></i>
 gitlab.com
