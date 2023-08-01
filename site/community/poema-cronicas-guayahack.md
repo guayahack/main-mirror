@@ -67,4 +67,10 @@ A crear un mundo más sabio y consciente.
 
 ## Créditos
 
-Autoría por {doc}`/community/member/mcveigth/index` y edición por {doc}`/community/member/jdsalaro/index`
+Autoría por {doc}`/community/member/mcveigth/index`[^GGPOEMAMERGE] y edición por {doc}`/community/member/jdsalaro/index`[^GGPOEMAISSUE]
+
+## Notas al Pie
+
+[^GGPOEMAMERGE](https://gitlab.com/guayahack/main/-/merge_requests/57)
+[^GGPOEMAISSUE](https://gitlab.com/guayahack/main/-/issues/64)
+
