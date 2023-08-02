@@ -6,6 +6,6 @@
 :excerpt: 1
 ```
 
-# Newsletter
+# Administración del Newsletter
 
 

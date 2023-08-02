@@ -32,8 +32,8 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**/template*"]
 language = "es"
 
 suppress_warnings = [
-        "myst.domains",
-        "myst.strikethrough",
+    "myst.domains",
+    "myst.strikethrough",
 ]
 
 # -- Options for HTML output -------------------------------------------------

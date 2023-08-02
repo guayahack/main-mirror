@@ -17,12 +17,16 @@
 Tux
 ```
 
-# Checks during MR
+# Checks antes del MR
 
 url
 tags
 date
 title
+
+# Checks despues del MR
+
+indexing
 
 
 

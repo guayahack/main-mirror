@@ -1,9 +1,11 @@
 
-# Main @ GuayaHack
+# Grupo de Estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace)
 
 ## Tecnología en Comunidad
 
-Somos un grupo de estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) creado por y para la {doc}`/community/index` el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura. 
+En GuayaHack tod@s, sin importar el nivel, estudiamos, practicamos y compartimos junt@s la programación, la informática y otras tecnologías relevantes en el mundo moderno entre nosotr@s.
+
+GuayaHack es un espacio creado por y para la {doc}`/community/index` el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura. 
 
 ```console
 $ date=`date -d @1689530400`; echo -e "\nGuayaHack, fundado: $date"
@@ -15,7 +17,7 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 
 *GuayaHack* es un juego de palabras entre *Guayacán*, el nombre coloquial del árbol [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), y el término [Hacker](https://es.wikipedia.org/wiki/Hacker), utilizado para referirse a entusiastas de la tecnología. Inclusive tenemos un poema inspirado en ésta curiosa combinación titulado {doc}`/community/poema-cronicas-guayahack`.
 
-Puedes aprender más sobre GuayaHack y sus miembros en la página de la {doc}`/community/index`, leyendo nuestro {doc}`/community/memorial` o echándole un vistazo las [Reglas](community/rules.md). 
+Puedes aprender más sobre GuayaHack y sus miembros leyendo nuestro {doc}`/community/memorial`, echándole un vistazo las [Reglas](community/rules.md) o en la página de la {doc}`/community/index`. 
 
 
 ```{div} discord-widget
@@ -26,8 +28,6 @@ Puedes aprender más sobre GuayaHack y sus miembros en la página de la {doc}`/c
 
 %TODO:write las descripciones de los niveles y añadir ésta linea
 %{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional`
-
-En GuayaHack tod@s, sin importar el nivel, estudiamos, practicamos y compartimos junt@s la programación, la informática y otras tecnologías relevantes en el mundo moderno entre nosotr@s.
 
 Para unirte solo usa [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuestro Discord y seguir los pasos en `#rules`.
 
@@ -49,4 +49,4 @@ Sin importar si eres principiante, tienes experiencia o eres profesional, comenz
 
 ## Guías, Materiales y Otros
 
-Esa tal documentación no existe, por eso hay que crearla. Escriba primero y piense después, por ejemplo la [#WIKI](https://guayahack.co/posts/category/wiki/) 
+Esa tal documentación no existe, por eso hay que crearla. Escriba primero y piense después, por ejemplo en la [#WIKI](https://guayahack.co/posts/category/wiki/) 

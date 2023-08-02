@@ -24,7 +24,7 @@ Por Zoom 👉 <a target="_blank" href="https://calendar.google.com/calendar/even
 
 ## Presentes 
 
-{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@rioschala </community/member/rioschala/index>`
+{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@rioschala </community/member/rioschala/index>` y 38 participantes de la comunidad.
 
 ## Resumen
 
