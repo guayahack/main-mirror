@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-22
 :author: "@bliss1799"
-:tags: participante
+:tags: moderador
 :category: miembros
 :language: Español
 :location: Colombia
