@@ -72,6 +72,11 @@ html_theme_options = {
             "icon": "fa-brands fa-instagram",
         },
         {
+            "name": "YouTube",
+            "url": "https://youtube.com/@guayahack",
+            "icon": "fa-brands fa-youtube",
+        },
+        {
             "name": "GitLab",
             "url": "https://gitlab.com/guayahack",
             "icon": "fa-brands fa-gitlab",
