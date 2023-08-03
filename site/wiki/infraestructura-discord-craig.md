@@ -1,6 +1,6 @@
 ```{post} 2023-07-24
 :author: "GuayaHack"
-:tags: organización, infraestructura, discord
+:tags: organización, infraestructura, discord, incompleto
 :category: wiki
 :language: Español
 :excerpt: 1

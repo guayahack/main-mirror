@@ -166,3 +166,15 @@ Miembros que deseen compartir sus materiales con la comunidad pueden contactar a
 ---
 Carpeta Pública GuayaHack en GoogleDrive
 ```
+
+## Gestion de Miembros y Staff
+
+### GitLab
+
+Por el momento GitLab es la SoT (Source of Truth) en cuanto a los miembros de GuayaHack respecta. El grupo en GitLab de [Miembros](https://gitlab.com/groups/guayahack/members/-/group_members), [Moderadores](https://gitlab.com/groups/guayahack/moderators/-/group_members) y [Maintainers](https://gitlab.com/groups/guayahack/maintainers/-/group_members) debera ser mantenido al día conforme los miembros se unan y entren en estado inactivo o en caso de extremas fallas de conducta sean removidos. 
+
+### Google Groups
+
+En Google Groups tambien tenemos dos grupos en caso que a futuro sea necesario tener listas de correo separadas o grupos que nos permitan gestionar el acceso a servicios y recursos de Google.
+
+Por ahora el grupo `guayahack-staff@googlegroups.com` se utiliza para dar acceso de edición al Staff del [Calendario](https://calendar.google.com/calendar/u/0?cid=Z3VheWFoYWNrQGdtYWlsLmNvbQ) y a la [Carpeta Raíz de GuayaHack](https://drive.google.com/drive/folders/1sGunDL5EZ6MArx6jsxXsr_NXLqwB6nmW?usp=drive_link)
