@@ -1,4 +1,4 @@
-```{post} 2023-06-30
+```{post} 2023-08-01
 :author: "GuayaHack"
 :tags: organización, infrastructura
 :category: wiki
