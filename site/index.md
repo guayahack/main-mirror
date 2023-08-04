@@ -1,9 +1,9 @@
 
-# Grupo de Estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace)
+# GuayaHack
 
-## GuayaHack
+## Grupo de Estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace)
 
-En GuayaHack tod@s, sin importar el nivel, estudiamos, practicamos y compartimos junt@s la programación, la informática y otras tecnologías relevantes en el mundo moderno entre nosotr@s. GuayaHack es un espacio creado por y para la {doc}`/community/index` el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura. 
+A tod@s, sin importar el nivel, nos gusta aprender sobre programación, informática al igual que sobre todo tema y tecnología relevante en el mundo moderno. GuayaHack es un espacio creado por y para la {doc}`/community/index` el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura, [únete en Discord](https://discord.gg/trzuezGrZd).
 
 ```console
 $ date=`date -d @1689530400`; echo -e "\nGuayaHack, fundado: $date"
@@ -11,16 +11,16 @@ $ date=`date -d @1689530400`; echo -e "\nGuayaHack, fundado: $date"
 GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 ```
 
+```{div} discord-widget
+<iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+```
+
 ## Sobre GuayaHack
 
 *GuayaHack* es un juego de palabras entre *Guayacán*, el nombre coloquial del árbol [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), y el término [Hacker](https://es.wikipedia.org/wiki/Hacker), utilizado para referirse a entusiastas de la tecnología. Inclusive tenemos un poema inspirado en ésta curiosa combinación titulado {doc}`/community/poema-cronicas-guayahack`.
 
-Puedes aprender más sobre GuayaHack y sus miembros leyendo nuestro {doc}`/community/memorial`, echándole un vistazo las [Reglas](community/rules.md) o en la página de la {doc}`/community/index`. 
+Puedes leer más sobre GuayaHack y sus miembros en nuestro {doc}`/community/memorial`, echándole un vistazo las [Reglas](community/rules.md) o en la página de la {doc}`/community/index`. 
 
-
-```{div} discord-widget
-<iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-```
 
 ## ¿Quién puede Participar?
 
@@ -34,7 +34,7 @@ Sin importar si eres principiante, tienes experiencia o eres profesional, comenz
 ```{toctree}
 :maxdepth: 1
 :hidden:
-:caption: "# GuayaHack 💾"
+:caption: "# GuayaHack"
 # Memorial <community/memorial.md>
 # Noticias <noticias.md>
 # Calendario <calendario.md>
@@ -47,4 +47,17 @@ Sin importar si eres principiante, tienes experiencia o eres profesional, comenz
 
 ## Guías, Materiales y Otros
 
-Esa tal documentación no existe, por eso hay que crearla. Escriba primero y piense después, por ejemplo en la [#WIKI](https://guayahack.co/posts/category/wiki/) 
+Todo en la [#WIKI](https://guayahack.co/posts/category/wiki/), siempre en la [#WIKI](https://guayahack.co/posts/category/wiki/) :)
+
+## Destacado
+
+```{postlist}
+:tags: destacado
+```
+
+## Lo Último en GuayaHack
+
+```{postlist} 10
+```
+
+

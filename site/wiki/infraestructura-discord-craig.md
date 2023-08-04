@@ -6,7 +6,7 @@
 :excerpt: 1
 ```
 
-# Discord Craig
+# Grabaciones en Discord con Craig
 
 Craig es una aplicación que permite grabar las conversaciones en Discord de forma fácil y rápida.
 

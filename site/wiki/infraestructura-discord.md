@@ -6,7 +6,7 @@
 :excerpt: 1
 ```
 
-# Discord
+# Nuestro Servidor de Discord
 
 ## Canales
 

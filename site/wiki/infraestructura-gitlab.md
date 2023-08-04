@@ -1,12 +1,12 @@
 ```{post} 2023-07-24
 :author: "GuayaHack"
-:tags: organización, infraestructura, gitlab
+:tags: organización, infraestructura, gitlab, destacado
 :category: wiki
 :language: Español
 :excerpt: 1
 ```
 
-# Infraestructura en GitLab 
+# Gestión de Nuestros Proyectos y Grupos en GitLab 
 
 Nuestro código y proyectos para la organización y gestión de GuayaHack se encuentran GitLab bajo https://gitlab.com/guayhack. 
 

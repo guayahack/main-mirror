@@ -1,6 +1,6 @@
 ```{post} 2023-07-18
 :author: "@jdsalaro"
-:tags: newbie, git, gitlab
+:tags: newbie, git, gitlab, destacado
 :category: tareas
 :language: Español
 :location: Alemania
