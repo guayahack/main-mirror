@@ -47,7 +47,7 @@ Sin importar si eres principiante, tienes experiencia o eres profesional, comenz
 
 ## Guías, Materiales y Otros
 
-Todo en la [#WIKI](https://guayahack.co/posts/category/wiki/), siempre en la [#WIKI](https://guayahack.co/posts/category/wiki/) :)
+Todo en la [#WIKI](https://guayahack.co/posts/category/wiki/), siempre en la [#WIKI](https://guayahack.co/posts/category/wiki/) :D
 
 ## Destacado
 
