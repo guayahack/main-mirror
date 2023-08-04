@@ -15,7 +15,7 @@ In order to talk about pipelines, it's important to understand elements related 
 2. Continuous and automatic deployment **(Live site goes after every MR)**
 
 
-```{figure} (task-2-pipelines-hw.md-data/ci-cd-info.svg)
+```{figure} task-2-pipelines-hw.md-data/ci-cd-info.svg
 ---
 alt: Infographic about CD/CI
 ---
@@ -27,7 +27,7 @@ When it comes to software development, I consider this methodology aims to focus
 
 ## What happened in my [<t><span style="color:green;">pipeline</span></t>](https://gitlab.com/rioschala/main/-/jobs/4718989183)?🚩
 
-```{figure} (task-2-pipelines-hw.md-data/pipeline-mr-rioschala.png)
+```{figure} task-2-pipelines-hw.md-data/pipeline-mr-rioschala.png
 ---
 alt: Pipeline rioschala
 ---
@@ -41,7 +41,7 @@ alt: Pipeline rioschala
 * Read and write on some files
 * Finish the job
 
-```{figure} (task-2-pipelines-hw.md-data/stages-pipeline.png)
+```{figure} task-2-pipelines-hw.md-data/stages-pipeline.png
 ---
 alt: Pipeline stages
 ---
@@ -56,7 +56,7 @@ Site is built and integrated after that into `main`.
 ## MR Comments 
 As an active member, it's important to contribute to the active development of the project. That's why, as developer, I get to comment on multiple MR from users to suggest, edit and improve changes from their branches. 
 
-```{figure} (task-2-pipelines-hw.md-data/comments-mr.png)
+```{figure} task-2-pipelines-hw.md-data/comments-mr.png
 ---
 alt: Comments examples on MR from users
 ---
