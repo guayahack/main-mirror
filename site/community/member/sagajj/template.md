@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@SagaJJ"
-:tags: nota, tarea
+:tags: nota, reto
 :category: blog
 :language: English
 :location: Colombia

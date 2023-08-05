@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-30
 :author: "@naodata"
-:tags: nota, tarea
+:tags: nota, reto
 :category: blog
 :language: Español
 :location: Peru

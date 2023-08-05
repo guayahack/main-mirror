@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@danteboe"
-:tags: notas, tarea
+:tags: notas, reto
 :category: blog
 :language: Español
 :location: Colombia

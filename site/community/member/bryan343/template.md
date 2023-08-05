@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-19
 :author: "@bryan343"
-:tags: nota, tarea
+:tags: nota, reto
 :category: blog
 :language: Español
 :location: Colombia

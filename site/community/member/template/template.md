@@ -13,7 +13,7 @@
 
 ```{post} 2023-07-18
 :author: "@guayahack"
-:tags: nota, tarea, ... %REEMPLAZAR: elija el/los tag/s que sean apropiados.
+:tags: nota, reto, ... %REEMPLAZAR: elija el/los tag/s que sean apropiados.
 :category: blog %NOTA: ésta categoria no debe ser cambiada en las publicaciones bajo /community/member/*/
 :language: Español
 :location: Colombia

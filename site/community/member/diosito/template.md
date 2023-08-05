@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@diosito"
-:tags: notas, tarea
+:tags: notas, reto
 :category: blog
 :language: Español, English
 :location: Colombia

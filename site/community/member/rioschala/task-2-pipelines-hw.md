@@ -1,6 +1,6 @@
 ```{post} 2023-07-29
 :author: "@rioschala"
-:tags: tarea
+:tags: reto
 :category: blog
 :language: English
 :location: Colombia

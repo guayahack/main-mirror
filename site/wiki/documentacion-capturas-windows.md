@@ -9,7 +9,7 @@
 
 # ¿Cómo documentar utilizando las herramientas de Windows?
 
-En el proceso de documentación, es importante considerar todas las herramientas que puedan sernos útiles en los procesos de documentación de las tareas. Para ello, se propone desde la comunidad seguir lineamientos claros
+En el proceso de documentación, es importante considerar todas las herramientas que puedan sernos útiles en los procesos de documentación de los retos. Para ello, se propone desde la comunidad seguir lineamientos claros
 
 ## Utilizar Herramienta de Recortes
 En computadores que tengan sistema operativo Windows, es importante considerar todas las herramientas. Sin embargo, para que los recursos sean visibles, deben ser recortados a la medida de la información que se requiere. Para eso, se debe utilizar la herramienta de recortes. Para acceder a ella, se debe presionar la combinación de teclas:

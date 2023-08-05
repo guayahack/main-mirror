@@ -1,7 +1,7 @@
 ```{post} 2023-07-23
 :author: "@jdsalaro"
 :tags: cicd
-:category: tareas
+:category: retos
 :language: Español
 :location: Alemania
 :excerpt: 1
@@ -9,7 +9,7 @@
 
 # Entendiendo la Magia de CI/CD y Build Pipelines
 
-Hola Chic@s, ya algun@s han logrado crear su `/member/espacio` en {doc}`/tarea/on-boarding-git-gitlab`, pero hay muchas cosas que ocurrieron mágicamente: por ejemplo la copia de los archivos de sus cambios (Merge Requests) al servidor web responsable por el servicio de https://guayahack.co.
+Hola Chic@s, ya algun@s han logrado crear su `/member/espacio` en {doc}`/reto/on-boarding-git-gitlab`, pero hay muchas cosas que ocurrieron mágicamente: por ejemplo la copia de los archivos de sus cambios (Merge Requests) al servidor web responsable por el servicio de https://guayahack.co.
 
 Hasta ahora no nos ocupamos con preguntas como: 
 
@@ -24,7 +24,7 @@ Todas éstas preguntas son muy importantes y el archivo `.gitlab-ci.yml`[^MAINGI
 
 [^MAINGITLABYML]:https://gitlab.com/guayahack/main/-/blob/master/.gitlab-ci.yml
 
-## Tarea
+## Reto
 
 ### 0. Lectura
 
@@ -34,7 +34,7 @@ Lee sobre el concepto de CI/CD y Pipelines.
 
 ### 1. Encuentra la Pipeline de tu Merge Request 
 
-Recuerda la tarea {doc}`/tarea/on-boarding-git-gitlab` y el hecho que tus cambios los enviaste como Merge Request. Esa MR tuvo que haber desencadenado una pipeline como se mencionó anteriormente. 
+Recuerda la reto {doc}`/reto/on-boarding-git-gitlab` y el hecho que tus cambios los enviaste como Merge Request. Esa MR tuvo que haber desencadenado una pipeline como se mencionó anteriormente. 
 
 Encuentra la pipeline desencadenada por tu MR y analiza el output del job `pages` y responde las siguientes preguntas:
 

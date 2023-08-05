@@ -29,7 +29,7 @@ Puedes leer más sobre GuayaHack y sus miembros en nuestro {doc}`/community/memo
 
 Para unirte solo usa [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuestro Discord y seguir los pasos en `#rules`.
 
-Sin importar si eres principiante, tienes experiencia o eres profesional, comenzarás resolviendo {doc}`/tarea/on-boarding-git-gitlab` y luego decidirás que camino quieres tomar.
+Sin importar si eres principiante, tienes experiencia o eres profesional, comenzarás resolviendo {doc}`/reto/on-boarding-git-gitlab` y luego decidirás que camino quieres tomar.
 
 ```{toctree}
 :maxdepth: 1

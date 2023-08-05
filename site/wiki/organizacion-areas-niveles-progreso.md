@@ -28,7 +28,7 @@ diagrama
 
 ## Progreso
 
-Charlas, Lectura, Tareas, Proyectos
+Charlas, Lectura, Retos, Proyectos
 
 ### H3
 

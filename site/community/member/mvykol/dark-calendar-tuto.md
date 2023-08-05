@@ -1,6 +1,6 @@
 ```{post} 2023-07-20
 :author: "@mvykol"
-:tags: nota, tarea
+:tags: nota, reto
 :category: blog
 :language: Español
 :location: Colombia

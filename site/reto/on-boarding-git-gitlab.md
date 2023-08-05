@@ -1,7 +1,7 @@
 ```{post} 2023-07-18
 :author: "@jdsalaro"
 :tags: newbie, git, gitlab, destacado
-:category: tareas
+:category: retos
 :language: Español
 :location: Alemania
 :excerpt: 1
@@ -9,7 +9,7 @@
 
 # Presentándose y Entendiendo GGG (GuayaHack, Git, GitLab)
 
-Hola! Ésta es la primera tarea con la que todo newbie deberá comenzar. La programación no es diferente a muchas otras áreas en las cuales hay herramientas básicas cuyo uso es imprescindible. El carpintero usa sus martillos y el esculptor sus cinceles, el programador moderno, en cambio su entorno de desarrollo y herramientas para gestión de código y proyectos. 
+Hola! Ésta es el primer reto con la que todo newbie deberá comenzar. La programación no es diferente a muchas otras áreas en las cuales hay herramientas básicas cuyo uso es imprescindible. El carpintero usa sus martillos y el esculptor sus cinceles, el programador moderno, en cambio su entorno de desarrollo y herramientas para gestión de código y proyectos. 
 
 Ya que GuayaHack es un espacio sin ánimo de lucro, creada y mantenida por voluntarios, necesitamos herramientas y procesos que nos ayuden a funcionar de manera eficiente, mientras que al mismo tiempo compartimos y ayudamos a todos los miembros a adquirir nuevas habilidades y compartir sus conocimientos.
 
@@ -61,7 +61,7 @@ Proyecto de GuayaHack en GitLab
 
 ## Propósito
 
-El propósito de ésta tarea es que te diviertas y aprendás a usar las herramientas básicas que utilizaremos para comunicarnos y organizarnos entre nosotros: Discord, Git, GitLab y el editor que elijas (VSCode, Sublime, VIM, NeoVim, EMACS, Nano y demás). En nuestra WIKI puedes encontrar dos artículos sobre el uso de VSCode ({doc}`/wiki/tutorial-intro-usar-vscode`) y el uso de VSCode con Git({doc}`/wiki/tutorial-intro-usar-git-vscode`) 
+El propósito de éste reto es que te diviertas y aprendás a usar las herramientas básicas que utilizaremos para comunicarnos y organizarnos entre nosotros: Discord, Git, GitLab y el editor que elijas (VSCode, Sublime, VIM, NeoVim, EMACS, Nano y demás). En nuestra WIKI puedes encontrar dos artículos sobre el uso de VSCode ({doc}`/wiki/tutorial-intro-usar-vscode`) y el uso de VSCode con Git({doc}`/wiki/tutorial-intro-usar-git-vscode`) 
 
 Carpintero a tu zapato, pero después de saber usar las herramientas :)
 
@@ -83,7 +83,7 @@ Registrándote en GitLab
 
 ### Solicitando acceso a `/guayahack/members`
 
-Puedes solicitar acceso al proyecto de `/guayahack/main` a través del grupo `/guayahack/members`: https://guayahack.co/tarea/on-boarding-git-gitlab/ 
+Puedes solicitar acceso al proyecto de `/guayahack/main` a través del grupo `/guayahack/members`: https://guayahack.co/reto/on-boarding-git-gitlab/ 
 
 ```{figure} on-boarding-git-gitlab.md-data/gitlab-project.png
 Solicitando acceso al grupo de GuayaHack en GitLab

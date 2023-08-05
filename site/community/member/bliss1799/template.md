@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@bliss1799"
-:tags: nota, tarea
+:tags: nota, reto
 :category: blog
 :language: Español
 :location: Colombia

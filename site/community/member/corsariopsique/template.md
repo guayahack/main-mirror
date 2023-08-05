@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-22
 :author: "@corsariopsique"
-:tags: nota, tarea
+:tags: nota, reto
 :category: blog
 :language: Español
 :location: Colombia

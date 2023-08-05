@@ -14,7 +14,7 @@ Git es una herramienta de versionamiento que nos ayuda a materializar ese proces
 
 Nosotros usamos el grupo de GuayaHack en https://gitlab.com/guayahack para todos los proyectos y el repositorio `guayahack/main` para la página y ésta wiki https://gitlab.com/guayahack/main.
 
-Éste es el primer paso que darán hacia poquito a poquito ir aprendiendo a defenderse con las herramientas de un programador y el *proceso* de la creación de software. Por eso, la primera tarea es agregarse como participantes de GuayaHack en la página de la comunidad {doc}`/community/index`
+Éste es el primer paso que darán hacia poquito a poquito ir aprendiendo a defenderse con las herramientas de un programador y el *proceso* de la creación de software. Por eso, el primer reto es agregarse como participantes de GuayaHack en la página de la comunidad {doc}`/community/index`
 
 
 ## GitLab

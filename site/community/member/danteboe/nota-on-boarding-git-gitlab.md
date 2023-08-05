@@ -1,13 +1,13 @@
 ```{post} 2023-07-18
 :author: "@danteboe"
-:tags: nota, tarea
+:tags: nota, reto
 :category: blog
 :language: Español
 :location: Colombia
 :excerpt: 1
 ```
 
-# Como Resolví {doc}`/tarea/on-boarding-git-gitlab`
+# Como Resolví {doc}`/reto/on-boarding-git-gitlab`
 
 Git es una poderosa herramienta que permite colaborar en equipo con otros desarrolladores. Personalmente, hasta este momento solo lo había usado para subir proyectos personales. PERO, para saber sacarle el jugo realmente, es importante aprender a usar sus funciones de colaboración.
 

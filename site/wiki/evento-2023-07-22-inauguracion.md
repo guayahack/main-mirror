@@ -33,7 +33,7 @@ Luego, el moderador {doc}`/community/member/rioschala/index` se presentó y deta
 
 Seguidamente, {doc}`/community/member/jdsalaro/index` estableció que el fin central del proyecto era crear un espacio Hacklab debido a una necesidad de la sociedad por un espacio como este, especialmente en consideración de otras iniciativas que se han desarrollado, pero que debido a elementos económicos no han continuado en funcionamiento. Ésta idea permitió reforzar el sentimiento hacia GuayaHack, un proyecto en híbrido, línea y físico, donde los participantes se encargan de construirlo conjuntamente mediante su participación y contribuciones.
  
-Claro, ésta visión debe ser en lo posible que la comunidad se pueda regular, por eso {doc}`/community/member/jdsalaro/index` presentó las {doc}`/community/rules` del grupo donde se establece el valor de la atribución de derechos de autor, el respeto entre los usuarios y, lo más importante, el valor de las contribuciones voluntarias de cada uno de los miembros para resolver las tareas, opinar y construir comunidad.
+Claro, ésta visión debe ser en lo posible que la comunidad se pueda regular, por eso {doc}`/community/member/jdsalaro/index` presentó las {doc}`/community/rules` del grupo donde se establece el valor de la atribución de derechos de autor, el respeto entre los usuarios y, lo más importante, el valor de las contribuciones voluntarias de cada uno de los miembros para resolver los retos, opinar y construir comunidad.
  
 Desde la parte metodológica, se definió que el proyecto se centra en el aprendizaje basado en proyectos, intereses y comunidad. Bajo esta perspectiva, es necesario que los usuarios cuenten con tres habilidades centrales:
 
