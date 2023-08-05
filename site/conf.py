@@ -114,6 +114,11 @@ html_theme_options = {
             "url": "https://guayahack.co/posts/atom.xml",
             "icon": "fa-solid fa-rss",
         },
+        {
+            "name": "E-mail",
+            "url": "mailto:info@guayahack.co",
+            "icon": "fa-solid fa-envelope",
+        },
     ],
 }
 

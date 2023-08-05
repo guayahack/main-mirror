@@ -3,7 +3,7 @@
 
 ## Grupo de Estudio y [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace)
 
-A tod@s, sin importar el nivel, nos gusta aprender sobre programación, informática al igual que sobre todo tema y tecnología relevante en el mundo moderno. GuayaHack es un espacio creado por y para la {doc}`/community/index` el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura, [únete en Discord](https://discord.gg/trzuezGrZd).
+Aquí, sin importar el nivel, nos gusta aprender sobre programación, informática al igual que todo tema y tecnología relevante en el mundo moderno. GuayaHack es un espacio creado por y para la {doc}`/community/index` el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura, [únete en Discord](https://discord.gg/trzuezGrZd).
 
 ```console
 $ date=`date -d @1689530400`; echo -e "\nGuayaHack, fundado: $date"

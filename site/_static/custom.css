@@ -11,6 +11,10 @@
     font-family: "Space Mono";
 }
 
+.bd-sidebar-primary .navbar-icon-links .nav-link i {
+    font-size: 1.6rem;
+}
+
 html {
     --pst-font-family-heading: "Space Mono";
     --pst-font-family-base: 'Ubuntu', var(--pst-font-family-base-system);
