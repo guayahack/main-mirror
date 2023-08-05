@@ -1,4 +1,3 @@
-
 ```{post} 2023-07-18
 :author: "@rioschala"
 :tags: moderador
@@ -16,8 +15,7 @@ Soy profesor, me gusta aprender sobre diferentes temas como la programación par
 
 Me gustan los videojuegos, especialmente Valorant main Fade. 
 
-```
-{figure} index.md-data/valorant.png
+```{figure} index.md-data/valorant.png
 ---
 name: rioschala-valorant
 ---
