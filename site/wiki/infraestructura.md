@@ -98,6 +98,21 @@ youtube.com
 
 :::{grid-item-card}
 :text-align: center
+:link: https://soundcloud.com/guayahack
+<i class="fa-brands fa-soundcloud" style="font-size:2em"></i>
+soundcloud.com
+:::
+
+:::{grid-item-card}
+:text-align: center
+:link: https://open.spotify.com/show/3kOyt5SllRStz6uSuoX3HZ
+<i class="fa-brands fa-spotify" style="font-size:2em"></i>
+spotify.com
+:::
+
+
+:::{grid-item-card}
+:text-align: center
 :link: https://reddit.com/guayahack
 <i class="fa-brands fa-reddit" style="font-size:2em"></i>
 reddit.com

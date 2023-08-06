@@ -22,6 +22,9 @@ Aquí consignaremos las pautas más importantes a considerar durante la comunica
 
 Aquí consignaremos las pautas más importantes a considerar durante la comunicación a través de {doc}`/wiki/infraestructura-newsletter` y demás.
 
+## PodCast y Vlog
+
+Aquí consignaremos las pautas más importantes a considerar en la comunicación a través de {doc}`/wiki/infraestructura-podcast-vlog` y demás.
 
 ## Encuestas
 
