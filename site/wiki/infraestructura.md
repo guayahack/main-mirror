@@ -145,7 +145,7 @@ En GuayaHack tenemos una carpeta raíz en Google Drive la cual usamos para compa
 
 ### Carpeta Raíz
 
-El acceso a la carpeta raíz será proporcionado "on a need to know basis" a quienes *realmente* lo requieran, como excepción y contradiciendo el principio de transparencia de GuayaHack, ya que puede contener información de caracter privado.
+El acceso a la carpeta raíz será proporcionado "on a need to know basis" a quienes *realmente* lo requieran, como excepción y contradiciendo el principio de transparencia de GuayaHack, ya que puede contener información de caracter privado. 
 
 ```{figure} infraestructura.md-data/google-drive.png
 ---
@@ -166,6 +166,7 @@ Miembros que deseen compartir sus materiales con la comunidad pueden contactar a
 ---
 Carpeta Pública GuayaHack en GoogleDrive
 ```
+[Carpeta Pública GuayaHack](https://drive.google.com/drive/folders/1b5LITQmxjC3vGPg5X9ywEa8zODJjMN7r)
 
 ## Gestion de Miembros y Staff
 
