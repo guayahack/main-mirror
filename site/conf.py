@@ -119,6 +119,16 @@ html_theme_options = {
             "url": "mailto:info@guayahack.co",
             "icon": "fa-solid fa-envelope",
         },
+        {
+            "name": "SoundCloud",
+            "url": "https://soundcloud.com/guayahack",
+            "icon": "fa-brands fa-soundcloud",
+        },
+        {
+            "name": "Spotify",
+            "url": "https://open.spotify.com/show/3kOyt5SllRStz6uSuoX3HZ",
+            "icon": "fa-brands fa-spotify",
+        },
     ],
 }
 
