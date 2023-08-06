@@ -6,7 +6,7 @@
 :excerpt: 1
 ```
 
-# ¿Cómo solicitar ayuda?
+# ¿Cómo pedir ayuda programación?
 
 Solicitar ayuda de manera efectiva es esencial para poder recibir la asistencia necesaria en tus proyectos o problemas con tu código. Aquí tienes una guía paso a paso para solicitar ayuda de manera clara y concisa:
 
