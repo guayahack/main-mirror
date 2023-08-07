@@ -140,6 +140,13 @@ tiktok.com
 
 :::{grid-item-card}
 :text-align: center
+:link: https://patreon.com/GuayaHack
+<i class="fa-brands fa-patreon" style="font-size:2em"></i>
+patreon.com
+:::
+
+:::{grid-item-card}
+:text-align: center
 :link: https://snapchat.com/guayahack
 <i class="fa-brands fa-snapchat" style="font-size:2em"></i>
 snapchat.com
