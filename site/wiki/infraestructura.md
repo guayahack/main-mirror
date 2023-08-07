@@ -59,12 +59,18 @@ twitter.com
 twitter.com
 :::
 
+:::{grid-item-card}
+:text-align: center
+:link: https://linktree.com/guayahack
+<i class="fa-solid fa-link" style="font-size:2em"></i>
+linktree.com
+:::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://instagram.com/guayahack
 <i class="fa-brands fa-instagram" style="font-size:2em"></i>
-twitter.com
+instagram.com
 :::
 
 
