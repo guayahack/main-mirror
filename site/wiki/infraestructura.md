@@ -178,7 +178,7 @@ Por su extensión, detalles sobre la administración de nuestro grupo [GuayaHack
 
 En GuayaHack tenemos una carpeta raíz en Google Drive la cual usamos para compartir documentos algo voluminosos que no tienen cabida en un repositorio Git o en GitLab como pdfs de libros o presentaciones, imágenes o arte y demás.
 
-### Carpeta Raíz
+#### Carpeta Raíz
 
 El acceso a la carpeta raíz será proporcionado "on a need to know basis" a quienes *realmente* lo requieran, como excepción y contradiciendo el principio de transparencia de GuayaHack, ya que puede contener información de caracter privado. 
 
@@ -188,7 +188,7 @@ El acceso a la carpeta raíz será proporcionado "on a need to know basis" a qui
 Carpeta Raíz GuayaHack en GoogleDrive
 ```
 
-### Carpeta Pública
+#### Carpeta Pública
 
 Todo moderador y tutor que lo desee podrá recibir acceso de edición a ésta carpeta a fin de poder compartir sus materiales con autonomía. 
 
@@ -203,6 +203,10 @@ Miembros que deseen compartir sus materiales con la comunidad pueden contactar a
 ---
 Carpeta Pública GuayaHack en GoogleDrive
 ```
+
+### Mega.nz
+
+Para el almacenamiento de archivos con un tamaño más considerable [tenemos Mega](https://mega.nz/) o también podemos utilizar Amazon S3.
 
 ## Gestion de Miembros y Staff
 
