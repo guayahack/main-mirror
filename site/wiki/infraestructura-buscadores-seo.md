@@ -1,6 +1,6 @@
 ```{post} 2023-08-01
 :author: "GuayaHack"
-:tags: organización, infrastructura
+:tags: organización, infrastructura, incompleto
 :category: wiki
 :language: Español
 :excerpt: 1
