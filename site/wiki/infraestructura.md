@@ -206,7 +206,7 @@ Carpeta Pública GuayaHack en GoogleDrive
 
 ### Mega.nz
 
-Para el almacenamiento de archivos con un tamaño más considerable [tenemos Mega](https://mega.nz/) o también podemos utilizar Amazon S3.
+Para el almacenamiento de archivos con un tamaño más considerable [tenemos Mega](https://mega.nz/) o también podemos utilizar Amazon S3 y Storage Gateway.
 
 ## Gestion de Miembros y Staff
 
