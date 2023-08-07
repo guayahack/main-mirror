@@ -182,12 +182,13 @@ Aunque en GuayaHack creemos en el libre flujo de la información, no apoyamos, i
 
 Miembros que deseen compartir sus materiales con la comunidad pueden contactar a cualquier tutor o moderador para que éste coordine su adición.
 
+[Carpeta Pública GuayaHack](https://drive.google.com/drive/folders/1b5LITQmxjC3vGPg5X9ywEa8zODJjMN7r)
+
 ```{figure} infraestructura.md-data/google-drive-public.png
 ---
 ---
 Carpeta Pública GuayaHack en GoogleDrive
 ```
-[Carpeta Pública GuayaHack](https://drive.google.com/drive/folders/1b5LITQmxjC3vGPg5X9ywEa8zODJjMN7r)
 
 ## Gestion de Miembros y Staff
 
