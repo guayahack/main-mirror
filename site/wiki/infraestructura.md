@@ -104,6 +104,13 @@ youtube.com
 
 :::{grid-item-card}
 :text-align: center
+:link: https://acast.com/guayahack
+<i class="fa-solid fa-megaphone" style="font-size:2em"></i>
+acast.com
+:::
+
+:::{grid-item-card}
+:text-align: center
 :link: https://soundcloud.com/guayahack
 <i class="fa-brands fa-soundcloud" style="font-size:2em"></i>
 soundcloud.com
