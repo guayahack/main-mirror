@@ -7,6 +7,8 @@
 
 # Calendario
 
+El Calendaro en [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Z3VheWFoYWNrQGdtYWlsLmNvbQ) de GuayaHack es público y deberá contener eventos de la comunidad conforme se vayan programando.
+
 <div class="responsiveCal">
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%2385ff54&ctz=America%2FBogota&src=Z3VheWFoYWNrQGdtYWlsLmNvbQ&color=%23039BE5" style="border:solid 1px #777; filter: invert(.9) saturate(1.2) hue-rotate(145deg);"  width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
