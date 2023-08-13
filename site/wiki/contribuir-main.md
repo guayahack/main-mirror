@@ -58,6 +58,9 @@ El lenguaje de marcado que utilizamos es MyST; una extension de Markdown. Se pue
 Convenciones Markdown
 ```
 
+### Enlaces y fuentes
+
+- En cuanto sea posible se deberán utilizar fuentes abiertas en el estilo de Wikipedia, no solo porque en GuayaHack apoyamos todo proyecto que contribuya al desarrollo de Internet sino también quienes apoyan la filosofías [Open Source](https://es.wikipedia.org/wiki/Sistema_de_c%C3%B3digo_abierto) y [Código Abierto](https://es.wikipedia.org/wiki/Software_libre)
 
 ### TODOs
 
