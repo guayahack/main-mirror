@@ -106,4 +106,19 @@ Cuando usen notas al pie de página tipo `[^NOTA] ... [^NOTA]:LINK`, siempre deb
 
 ## Troubleshooting
 
+`#todo:escribir`
+
+## Revisando Merge Requests (MRs) 
+
+Las solicitudes de incorporación de cambios, del inglés _Merge Requests_, son parte de todo proceso moderno de creación y gestión de software. Si bien la revisión de código es un arte y no una ciencia y por tanto no existen reglas universales, en GuayaHack tenemos un
+par de pautas generales que todo Revisor de Código (Code Reviewer) deberá tener en cuenta:
+
+- Sea respetuoso con sus comentarios y solicitudes, recuerde revisar con el próposito del cambio en mente, no con base en su opinion y preferencias.
+
+- No existe Merge Request perfecta, a menos que sea realmente diminuta y en código irrelevante, por tanto siempre habrá comentarios que hacer. Esfúersece por encontrar el primer comentario y seguro encontrará el segundo, el tercero y el cuarto.
+
+- El objetivo de una Code Review (Revisión de Código) no es que el revisor sea "cositero" y "corchador" sino que con sus comentarios contribuya a la mejora continua de los cambios y el estado de la base de código.
+
+- No debe tener miedo de herir egos al sugerir cambios mientras sea respetuoso y no traiga el suyo y opiniones _infundadas_ al proceso de revisión. Toda MR es una conversación, trátela de ésta manera.
+
 #todo:escribir
