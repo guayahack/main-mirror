@@ -40,6 +40,16 @@ Para evitar errores y facilitar la busqueda de errores considera:
 
 - Si tu pagina cae en una categoria clara, por ejemplo un tutorial, considera nombra su archivo, y por tanto URL, `tutorial-...`.
 
+#### Imágenes
+
+- Las imágenes son una parte central de todo documento y en GuayaHack documentamos a fin de propiciar el entendimiento, un artículo con imágenes y ejemplos siempre será que uno sin ellas.
+
+- Las imágenes, al igual que los [archivos](https://guayahack.co/wiki/contribuir-main/#archivos) deberán siempre tener un nombre claro que describa su propósito y contenido.
+
+- Antes de utilizar imágenes y capturas de pantalla, verifica que éstas tienen una buena resolución y no están transformadas o distorsionadas (ensanchadas, alargadas y demás).
+
+- Recuerda siempre revisar toda imagen que uses y censurarla apropiadamente de forma que información sensible ███████ no sea visible. Usa siempre un color con 100% de opacidad para censurar ya que de lo contrario será trivial incrementar el contraste de la imagen para revelar el contenido de la sección censurada.
+
 ### Contenido
 
 El lenguaje de marcado que utilizamos es MyST; una extension de Markdown. Se pueden encontrar las siguientes convenciones:
