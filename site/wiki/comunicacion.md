@@ -30,4 +30,6 @@ Aquí consignaremos las pautas más importantes a considerar en la comunicación
 
 A fin de conocer mejor la comunidad, es recomendable realizar encuestas de manera periódica (cada un par de meses).
 
+1. [La primera](https://docs.google.com/forms/d/1dYlWn_gIW9u4bhPNLssRpqEmjoTguomA2VIe0jbmQj8/edit#responses) tuvo como fin recolectar información sobre los intereses de los participantes, sus conocimientos y motivaciones; fue realizada conforme los integrantes iniciales de GuayaHack se fueron uniendo. 
+
 

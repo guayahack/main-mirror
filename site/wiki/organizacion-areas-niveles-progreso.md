@@ -16,7 +16,7 @@ BACK (back-end), DATA (data-analysis), FRONT (front-end), INFRA (infrastructure)
 
 ## Niveles
 
-Novice, Experienced, Professional
+New, Mid, Pro
 
 
 ```{figure} template.md-data/tux.png

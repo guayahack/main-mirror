@@ -1,6 +1,6 @@
 ```{post} 2023-06-30
 :author: "GuayaHack"
-:tags: newbie, organización, incompleto
+:tags: newbie, organización
 :category: wiki
 :language: Español
 :excerpt: 1
@@ -88,12 +88,12 @@ De igual manera, los `tags` y la `category` deberán ir siempre en minúscula.
 
 Las categorías que tenemos son:
 
-| categoría | descripción |
-|-----------|-------------|
+| categoría      | descripción                             |
+| -------------- | --------------------------------------- |
 | escribir/write | para contribuir documentación que falta |
-| fix/reparar | para resolver problemas en el código |
-| ... | ... |
-| ... | ... |
+| fix/reparar    | para resolver problemas en el código    |
+| ...            | ...                                     |
+| ...            | ...                                     |
 
 #### La WIKI
 
@@ -105,6 +105,12 @@ Cuando usen notas al pie de página tipo `[^NOTA] ... [^NOTA]:LINK`, siempre deb
 
 
 ## Troubleshooting
+Cuando se enfrenta a un problema, es indispensable reconocer las formas en las que se podría brindar solución. Por eso, aquí detallamos algunos elementos que se deben considerar:
+1. <span style="color: green;">**Investigar**</span> la documentación de la tecnología a usar. 
+2. <span style="color: green;">**Leer**</span> en foros especializados sobre algunos problemas similares que otros usuarios han encontrado en el proceso de utilizar dichas herramientas. 
+3. <span style="color: green;">**Preguntar**</span> en los canales de texto de la comunidad oficial de Discord. Allí se podrá brindar apoyo sobre las dinámicas, herramientas u opciones. 
+4. <span style="color: green;">**Compartir**</span> las soluciones, posibles y exitosas, a las que se llegue a partir de procesis de documentación. Recuerda que lo que te ayudó a ti, puede ayudar a otras personas. 
+5. <span style="color: green;">**Agradecer**</span> a todo aquel que pueda ayudarte en esta travesía del conocimiento. 
 
 `#todo:escribir`
 
