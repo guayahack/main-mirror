@@ -111,7 +111,7 @@ html_theme_options = {
         #        },
         {
             "name": "Blog RSS feed",
-            "url": "https://guayahack.co/posts/atom.xml",
+            "url": "https://guayahack.co/blog/atom.xml",
             "icon": "fa-solid fa-rss",
         },
         {
@@ -157,7 +157,7 @@ html_sidebars = {
 
 blog_baseurl = "https://guayahack.co/"
 blog_feed_archives = True
-blog_path = "posts"
+blog_path = "blog"
 blog_title = "GuayaHack"
 blog_feed_subtitle = "@main"
 blog_feed_fulltext = False
