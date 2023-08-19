@@ -12,7 +12,7 @@
 
 ### Secciones 
 
-#### Notas al Pie
+#### Notas al Pie | Footnotes
 
 En caso de utilizar notas al pie en MyST o Markdown como `[^MYNOTAALPIE]`[^MYNOTAALPIE] y `[^MYNOTAALPIE]:https://es.wikipedia.org/wiki/Hacklab`
 
@@ -21,6 +21,8 @@ En caso de utilizar notas al pie en MyST o Markdown como `[^MYNOTAALPIE]`[^MYNOT
 Debes agregar una sección `## Notas al Pie` al final de tu artículo y un break MyST[^MYST] `+++` para que no te aparezca un error por `` :
 
 [^MYST]:https://jupyterbook.org/en/stable/reference/cheatsheet.html
+
+Cuando usen notas al pie de página tipo `[^NOTA] ... [^NOTA]:LINK`, siempre debemos poner un header `# Notas al Pie` al final y un break en la siguiente linea `+++` para que se vea bien.
 
 ```markdown
 ## Notas al Pie
@@ -31,6 +33,8 @@ Debes agregar una sección `## Notas al Pie` al final de tu artículo y un break
 ### Archivos
 
 Para evitar errores y facilitar la busqueda de errores considera:
+
+- Todos los archivos correspondientes a un `articulo.md`, en la medida de lo posible, deberán ir en una carpeta llamada `articulo.md-data`; ésto incluye imágenes y demás. Ésto tiene como propósito prevenir que el contenido se degrade conforme pasa el tiempo y otros sitios borran o cambian la ubicación de recursos usados por nosotros.
  
 - No utilizar `_` (guión bajo), ` `(espacios) o signos `+` (mas) en nombres de archivos y carpetas. En su lugar, se debe utilizar `-` (guión)
 
@@ -98,10 +102,6 @@ Las categorías que tenemos son:
 #### La WIKI
 
 Los artículos de la WIKI no deberan tener autor ni ubicación, pues cambian y varían demasiado con el tiempo como para poder elegir a alguien en particular y tener una lista de contribuciones se vuelve tedioso. Para ver quienes han contribuido sobre el tiempo se puede utilizar GitLab y la commit history de git.
-
-### Notas al Pie | Footnotes
-
-Cuando usen notas al pie de página tipo `[^NOTA] ... [^NOTA]:LINK`, siempre debemos poner un header `# Notas al Pie` al final para que se vea bien.
 
 
 ## Troubleshooting
