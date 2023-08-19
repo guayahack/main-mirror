@@ -10,27 +10,35 @@
 
 #todo:escribir
 
-## H21
+## Checks antes de aceptar la MR
 
-
-```{figure} template.md-data/tux.png
-Tux
-```
-
-# Checks antes del MR
-
-url
-tags
 date
+author
+tags
+category
+language
+url (filename)
 title
 
 # Checks despues del MR
 
+linking
 indexing
 
+## Contenido
 
+Éste es un ejemplo de nota al pie [^GUAYAHACK]. Úselos para que su contenido quede bien referenciado y el lector pueda indagar más si así lo quiere.
 
-## H22
+[^GUAYAHACK]:https://guayahack.co
 
-### H3
+Donec id ligula eget tellus pharetra dictum id vel est. Nullam a hendrerit est. Vestibulum aliquam facilisis tortor, sed hendrerit dolor sollicitudin in. Aenean a suscipit orci, et lobortis est. Vivamus pulvinar elementum nibh, ut tincidunt dolor consequat sit amet. Integer posuere lorem lectus, non pellentesque leo hendrerit quis. Nam nec nulla nec enim aliquet egestas at varius nibh. Cras ornare, risus quis eleifend tincidunt, dui felis vestibulum sem, ut elementum felis ex vel nulla. Sed laoreet blandit lacinia. Nulla facilisi.
+
+```{figure} template.md-data/tux.png
+Éste es un ejemplo de una imagen de Tux
+```
+
+## Notas al pie
+
++++
+
 
