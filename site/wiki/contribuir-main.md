@@ -54,6 +54,13 @@ Para evitar errores y facilitar la busqueda de errores considera:
 
 - Recuerda siempre revisar toda imagen que uses y censurarla apropiadamente de forma que información sensible ███████ no sea visible. Usa siempre un color con 100% de opacidad para censurar ya que de lo contrario será trivial incrementar el contraste de la imagen para revelar el contenido de la sección censurada.
 
+#### Videos
+
+- En lo posible, videos deberan ser embebidos en el artículo respectivo:
+
+<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/Kc6aMfwttAY">
+</iframe>
+
 ### Contenido
 
 El lenguaje de marcado que utilizamos es MyST; una extension de Markdown. Se pueden encontrar las siguientes convenciones:
