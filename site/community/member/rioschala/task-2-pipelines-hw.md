@@ -1,7 +1,7 @@
 ```{post} 2023-07-29
 :author: "@rioschala"
 :tags: reto
-:category: retos
+:category: blog
 :language: English
 :location: Colombia
 :excerpt: 1
