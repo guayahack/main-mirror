@@ -69,10 +69,10 @@ A crear un mundo más sabio y consciente.
 
 Autoría por {doc}`/community/member/mcveigth/index`[^GGPOEMAMERGE] y edición por {doc}`/community/member/jdsalaro/index`[^GGPOEMAISSUE]
 
+[^GGPOEMAMERGE]:https://gitlab.com/guayahack/main/-/merge_requests/57
+[^GGPOEMAISSUE]:https://gitlab.com/guayahack/main/-/issues/64
+
 ## Notas al Pie
 
 +++
-
-[^GGPOEMAMERGE]:https://gitlab.com/guayahack/main/-/merge_requests/57
-[^GGPOEMAISSUE]:https://gitlab.com/guayahack/main/-/issues/64
 
