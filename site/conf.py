@@ -32,8 +32,8 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**/template*"]
 language = "es"
 # sitemap_locales = ['en', 'es', 'de']
 sitemap_locales = [None]
+sitemap_url_scheme = "{link}"
 # locale_dirs = ['en', 'es', 'de']
-
 
 suppress_warnings = [
     "myst.domains",
