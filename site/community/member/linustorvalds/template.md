@@ -12,7 +12,7 @@
 %éste archivo será ignorado mientras se llame template.md
 
 ```{post} 2023-07-18
-:author: "@guayahack"
+:author: "@David Adarme"
 :tags: nota, reto, ... %REEMPLAZAR: elija el/los tag/s que sean apropiados.
 :category: blog %NOTA: ésta categoria no debe ser cambiada en las publicaciones bajo /community/member/*/
 :language: Español

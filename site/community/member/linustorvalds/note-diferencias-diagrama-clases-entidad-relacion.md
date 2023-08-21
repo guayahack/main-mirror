@@ -11,6 +11,7 @@ Bueno, me gustaría agradecer al parce {doc}`/community/member/jdsalaro/index` q
 Hace poco me salió la duda sobre la diferencia entre [Diagrama de Clases](#dc-cd-diagrama-de-clases-class-diagram) y [ Diagrama Entidad Relación](#der-erd-diagrama-entidad-relación-entity-relationship-diagram), la verdad es que son muy similares al menos en forma.
 
 ---
+
 # 1. ¿Por qué la necesidad de los de diagramas en el desarrollo?
 
 En primer término, los diagramas en el desarrollo son sumamente fundamentales al ejecutar proyectos, dado que nos sirven para simplificar y dividir procedimientos complejos en componentes mínimos debido a su formato gráfico. Una de las necesidades de los desarrolladores para realizar bosquejos y diagramas es poder encontrar problemas en una etapa inicial y no en producción, por ende éstos apoyan el mejoramiento de la calidad del software y el uso de buenas prácticas.
@@ -21,7 +22,9 @@ Bueno, UML (_Unified Language Model-Lenguaje unificado de modelado_) es un lengu
 
 Un ejemplo: 
 
-{figure} https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q2/uml-diagrams/uml-communication-diagram.png
+´´´{figure} note-diferencias-diagrama-clases-entidad-relacion.md-data/uml.png
+Ejemplo de UML
+´´´
 
 Éste tutorial es muy recomendable:
 
@@ -42,8 +45,10 @@ Es un modelo visual que muestra las entidades _(Persona, empresa, usuario, banco
 
 **Cuándo usarlo:** El MER se utiliza en la fase inicial del diseño de bases de datos para identificar y modelar las entidades, atributos y relaciones entre ellas.
 
-{figure} /uploads/d3f6fa398872c5cb77510c597c945972/imagen.png
+´´´{figure} note-diferencias-diagrama-clases-entidad-relacion.md-data/uml-example.png
+Ejemplo de Modelo Entidad Relación
 
+´´´
 ### DER-ERD (Diagrama entidad relación-Entity relationship diagram)
 
 El diagrama entidad relación es una representación gráfica del **Modelo de Entidad-Relación** que muestra  las entidades del sistema y sus relaciones internas. Su finalidad es mostrar de manera gráfica cómo las entidades se relacionan entre sí en un sistema o contexto determinado. La entidad puede considerarse como un sustantivo y la relación como un verbo.
@@ -52,7 +57,9 @@ Los DER son útiles para planificar y comunicar cómo se organizarán y relacion
 
 **Cuándo usarlo:** El DER se crea a partir del MER y se utiliza para representar gráficamente las entidades, atributos, relaciones y cardinalidades (ejemplo: 1:N) en una base de datos.
 
-{figure} \linustorvalds-contributions\site\community\member\linustorvalds\note-diferencias-diagrama-clases-entidad-relacion.md-data\der.jpg
+´´´{figure} note-diferencias-diagrama-clases-entidad-relacion.md-data/der.jpg
+Ejemplo Diagrama Entidad Relación
+´´´
 
 ### DC-CD (Diagrama de clases-Class diagram)
 
@@ -60,23 +67,26 @@ El diagrama de clase se utiliza para representar visualmente las clases, sus atr
 
 **Cuándo usarlo:** El Diagrama de Clases se utiliza en la programación orientada a objetos para representar las clases, sus atributos y relaciones en un sistema de software.
 
-{figure} \linustorvalds-contributions\site\community\member\linustorvalds\note-diferencias-diagrama-clases-entidad-relacion.md-data\diagrama-de-clases.PNG
-
+´´´{figure} note-diferencias-diagrama-clases-entidad-relacion.md-data/diagrama-de-clases.png
+Ejemplo de Diagrama de Clases
+´´´
 ---
 
 ## Notas al Pie
 
-[^1]: [Tutorial de YouTube: [UML Diagrams Full Course (Unified Modeling Language)][1].
-[^2]: Modelo entidad-relación - [Wikipedia][2].
-[^3]: ¿Qué es un Diagrama de entidad relación (DER)? [esta fuente][2].
-[^4]: ¿Qué es un diagrama entidad-relación? [Lucidchart][2].
-[^5]: Diagrama de clases - [Wikipedia][2].
+Tutorial de YouTube: [^UMLCOURSE].
+[UMLCOURSE]: https://www.youtube.com/embed/WnMQ8HlmeXc
 
-[1]: https://www.youtube.com/embed/WnMQ8HlmeXc
-[2]: https://es.wikipedia.org/wiki/Modelo_entidad-relaci%C3%B3n
-[3]: https://www.edrawsoft.com/es/what-is-entity-relationship-diagram-erd.html
-[4]: https://www.lucidchart.com/pages/es/que-es-un-diagrama-entidad-relacion
-[5]: https://es.wikipedia.org/wiki/Diagrama_de_clases
+Modelo entidad-relación [^WIKIMER]
+[WIKIMER]: https://es.wikipedia.org/wiki/Modelo_entidad-relaci%C3%B3n
+
+¿Qué es un Diagrama de entidad relación? [^EDRAW]
+[EDRAW]: https://www.edrawsoft.com/es/what-is-entity-relationship-diagram-erd.html
+
+¿Qué es un diagrama entidad-relación? [^Lucidchart]
+[Lucidchart]: https://www.lucidchart.com/pages/es/que-es-un-diagrama-entidad-relacion
+
+Diagrama de clases - [^WIKIDC]
+[WIKIDC]: https://es.wikipedia.org/wiki/Diagrama_de_clases
 
 +++
-
