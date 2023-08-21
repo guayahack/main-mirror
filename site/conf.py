@@ -23,7 +23,7 @@ extensions = [
     "sphinxext.rediraffe",
     "sphinxext.opengraph",
     "sphinx.ext.intersphinx",
-    "sphinx.ext.autosectionlabel",
+    # "sphinx.ext.autosectionlabel", #not needed, we use myst_parser's implicit anchors
 ]
 
 templates_path = ["_templates"]
@@ -170,6 +170,8 @@ blog_feed_fulltext = False
 # post_auto_image = 0
 # post_auto_excerpt = 0
 
+# https://myst-parser.readthedocs.io/en/latest/syntax/cross-referencing.html#implicit-targets
+myst_heading_anchors = 6
 
 myst_enable_extensions = [
     "amsmath",
@@ -200,6 +202,5 @@ myst_substitutions = {
     "bulletstar": '<span style="font-size: 2em;">⭐️</span>',
     "bulletkeys": '<span style="font-size: 1.5em;">⬅️➡️</span>',
 }
-
 
 autosectionlabel_prefix_document = True
