@@ -22,8 +22,6 @@ Bueno, UML (_Unified Language Model-Lenguaje unificado de modelado_) es un lengu
 Un ejemplo: 
 
 {figure} https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q2/uml-diagrams/uml-communication-diagram.png
-:alt: Ejemplo de Diagrama de Clases
-:width: 400px
 
 Éste tutorial es muy recomendable:
 
@@ -37,47 +35,41 @@ Es una representación visual en la que se muestran las clases de objetos, así 
 Es útil para diseñar la arquitectura y las interacciones entre los componentes (Clases)
 
 ## 3.1 ¿Qué diagramas hay y cuál utilizar para cada caso en concreto?
+
 ### MER-ERM (Modelo Entidad Relación o Entity Relationship Model)
+
 Es un modelo visual que muestra las entidades _(Persona, empresa, usuario, banco, etc.)_, atributos _(documento, tipo de documento, nombre, dirección, teléfono, correo, etc.)_, relación y proporción de relación _(1-1, 1-muchos, muchos-1, muchos-muchos, herencia, polimorfismo, etc.)_ entre diferentes elementos.
 
 **Cuándo usarlo:** El MER se utiliza en la fase inicial del diseño de bases de datos para identificar y modelar las entidades, atributos y relaciones entre ellas.
 
 {figure} /uploads/d3f6fa398872c5cb77510c597c945972/imagen.png
-:alt: Ejemplo de Diagrama de Clases
-:width: 400px
+
 ### DER-ERD (Diagrama entidad relación-Entity relationship diagram)
+
 El diagrama entidad relación es una representación gráfica del **Modelo de Entidad-Relación** que muestra  las entidades del sistema y sus relaciones internas. Su finalidad es mostrar de manera gráfica cómo las entidades se relacionan entre sí en un sistema o contexto determinado. La entidad puede considerarse como un sustantivo y la relación como un verbo.
 
 Los DER son útiles para planificar y comunicar cómo se organizarán y relacionarán los datos en una base de datos antes de su implementación.
 
 **Cuándo usarlo:** El DER se crea a partir del MER y se utiliza para representar gráficamente las entidades, atributos, relaciones y cardinalidades (ejemplo: 1:N) en una base de datos.
 
-{figure} https://i.stack.imgur.com/64uOK.jpg
-:alt: Ejemplo de Diagrama de Clases
-:width: 400px
+{figure} \linustorvalds-contributions\site\community\member\linustorvalds\note-diferencias-diagrama-clases-entidad-relacion.md-data\der.jpg
+
 ### DC-CD (Diagrama de clases-Class diagram)
 
 El diagrama de clase se utiliza para representar visualmente las clases, sus atributos, métodos y sus relaciones. Ayuda a entender la estructura del sistema, el comportamiento entre las clases _(entidades)_  y como se organizan los datos.
 
 **Cuándo usarlo:** El Diagrama de Clases se utiliza en la programación orientada a objetos para representar las clases, sus atributos y relaciones en un sistema de software.
 
-{figure} https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-hotel-management-system-UML/UML_class_diagram_hotel-949x683.PNG
-:alt: Ejemplo de Diagrama de Clases
-:width: 400px
+{figure} \linustorvalds-contributions\site\community\member\linustorvalds\note-diferencias-diagrama-clases-entidad-relacion.md-data\diagrama-de-clases.PNG
 
 ---
 
-```markdown
 ## Notas al Pie
 
 [^1]: [Tutorial de YouTube: [UML Diagrams Full Course (Unified Modeling Language)][1].
-
 [^2]: Modelo entidad-relación - [Wikipedia][2].
-
 [^3]: ¿Qué es un Diagrama de entidad relación (DER)? [esta fuente][2].
-
 [^4]: ¿Qué es un diagrama entidad-relación? [Lucidchart][2].
-
 [^5]: Diagrama de clases - [Wikipedia][2].
 
 [1]: https://www.youtube.com/embed/WnMQ8HlmeXc
@@ -87,6 +79,4 @@ El diagrama de clase se utiliza para representar visualmente las clases, sus atr
 [5]: https://es.wikipedia.org/wiki/Diagrama_de_clases
 
 +++
-
-```
 
