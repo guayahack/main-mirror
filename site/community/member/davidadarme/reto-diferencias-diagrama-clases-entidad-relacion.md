@@ -77,7 +77,7 @@ Ejemplo de Diagrama de Clases
 ---
 
 
-## Aviso parroquial de {doc}`/community/member/jdsalaro/index`
+## Nota para la posteridad y todas las generaciones futuras de {doc}`/community/member/jdsalaro/index`
 
 Muchach@s, por el amor de todo lo que bello, usemos referencias _absolutas con la extension respectiva_ de tipo ``{ref}`mi texto <enlace/absoluto/desde/la/raiz.md#mi-anchor-auto-generado>` ``
 
