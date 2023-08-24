@@ -170,6 +170,11 @@ blog_feed_fulltext = False
 # post_auto_image = 0
 # post_auto_excerpt = 0
 
+blog_default_author = "GuayaHack"
+blog_authors = {
+    "GuayaHack": ("GuayaHack", "https://guayahack.co"),
+}
+
 # https://myst-parser.readthedocs.io/en/latest/syntax/cross-referencing.html#implicit-targets
 myst_heading_anchors = 6
 

@@ -1,6 +1,4 @@
-
 ```{post} 2023-07-18
-:author: "GuayaHack"
 :tags: organización, documentación
 :category: wiki
 :language: Español

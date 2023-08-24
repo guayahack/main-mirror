@@ -1,5 +1,4 @@
 ```{post} 2023-08-19
-:author: "GuayaHack"
 :tags: newbie, organización
 :category: wiki
 :language: Español

@@ -1,5 +1,4 @@
 ```{post} 2023-06-30
-:author: "GuayaHack"
 :tags: newbie, organización
 :category: wiki
 :language: Español
@@ -85,7 +84,7 @@ El encabezado no puede tener lineas vacías y debe estar al inicio de tu página
 
 :::
 ```{post} 2023-06-30
-:author: "GuayaHack"
+
 :tags: newbie, organización, incompleto
 :category: wiki
 :language: Español

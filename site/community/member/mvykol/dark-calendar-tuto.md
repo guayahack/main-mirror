@@ -1,7 +1,7 @@
 ```{post} 2023-07-20
 :author: "@mvykol"
-:tags: nota, reto, blog
-:category: blog
+:tags: diseño, css
+:category: retos
 :language: Español
 :location: Colombia
 :excerpt: 1

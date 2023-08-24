@@ -1,5 +1,4 @@
 ```{post} 2023-06-30
-:author: "GuayaHack"
 :tags: newbie, linux, virtualizacion, virtual box, incompleto
 :category: wiki
 :language: Español

@@ -1,7 +1,7 @@
 ```{post} 2023-08-21
 :author: "@davidadarme"
-:tags: reto, newbie, eml, databases, erd, erm, cd
-:category: blog
+:tags: newbie, eml, databases, erd, erm, cd
+:category: retos
 :language: Español
 :excerpt: 1
 ``` 

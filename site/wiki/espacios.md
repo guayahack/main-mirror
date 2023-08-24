@@ -1,5 +1,4 @@
 ```{post} 2023-06-30
-:author: "GuayaHack"
 :tags: organización, espacios
 :category: wiki
 :language: Español

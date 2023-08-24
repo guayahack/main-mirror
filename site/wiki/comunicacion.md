@@ -1,5 +1,4 @@
 ```{post} 2023-06-30
-:author: "GuayaHack"
 :tags: organización, incompleto, comunicación
 :category: wiki
 :language: Español

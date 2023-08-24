@@ -1,9 +1,8 @@
 ```{post} 2023-07-18
 :author: "@reemplazar"
-:tags: reemplazar
+:tags: reemplazar, reemplazar
 :category: retos
 :language: Español
-:location: Alemania
 :excerpt: 1
 ```
 

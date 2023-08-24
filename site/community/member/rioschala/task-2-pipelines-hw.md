@@ -1,7 +1,7 @@
 ```{post} 2023-07-29
 :author: "@rioschala"
-:tags: reto
-:category: blog
+:tags: infrastructure, cicd
+:category: retos
 :language: English
 :location: Colombia
 :excerpt: 1

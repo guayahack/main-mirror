@@ -1,5 +1,4 @@
 ```{post} 2023-07-23
-:author: "GuayaHack"
 :tags: newbie, git
 :category: wiki
 :language: Español

@@ -20,7 +20,7 @@ Hola soy `@davidadarme` (`linustorvalds` en Discord)!
 
 ```{postlist}
 :author: "@davidadarme" 
-:category: blog
+:category: retos, blog
 :excerpts:
 :sort:
 ```

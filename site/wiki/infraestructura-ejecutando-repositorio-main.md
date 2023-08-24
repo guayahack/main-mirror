@@ -1,5 +1,4 @@
 ```{post} 2023-08-13
-:author: "davidqp"
 :tags: organización, linux, infraestructura
 :category: wiki
 :language: Español
