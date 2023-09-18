@@ -28,3 +28,12 @@ Hola soy `@guayahack`!
 :sort:
 ```
 
+## Retos
+
+```{postlist}
+:author: "@guayahack" %REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)
+:category: retos
+:excerpts:
+:sort:
+```
+

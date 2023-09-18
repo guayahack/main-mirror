@@ -22,11 +22,20 @@ name: rioschala-valorant
 Valorant
 ```
 
-## Blog
+## Blog 
 
 ```{postlist}
 :author: "@rioschala"
 :category: blog
+:excerpts:
+:sort:
+```
+
+## Retos
+
+```{postlist}
+:author: "@rioschala"
+:category: retos
 :excerpts:
 :sort:
 ```

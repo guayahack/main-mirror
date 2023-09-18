@@ -16,12 +16,22 @@ Hola soy `@davidadarme` (`linustorvalds` en Discord)!
 
 [Aquí](https://myst-parser.readthedocs.io/en/latest/syntax/typography.html) pueden encontrar un breve resumen de la sintaxis MyST, una extensión de Markdown, que pueden utilizar para incluir otro tipo de contenido en ésta y las demás páginas de `main @ guayahack`. 
 
-## Blog
+## Blog 
 
 ```{postlist}
-:author: "@davidadarme" 
-:category: retos, blog
+:author: "@davidadarme"
+:category: blog
 :excerpts:
 :sort:
 ```
+
+## Retos
+
+```{postlist}
+:author: "@davidadarme"
+:category: retos
+:excerpts:
+:sort:
+```
+
 
