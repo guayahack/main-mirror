@@ -39,7 +39,7 @@ El sistema operativo _(OS, por sus siglas en inglés, que significa Operating Sy
 
 > En una analogía, el chef es el servidor de aplicaciones y los platos de comida son los recursos o servicios que solicita a un cliente.
 
-<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/watch?v=QSEDr2e1gSQ"></iframe>
+<iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/QSEDr2e1gSQ"></iframe>
 
 ## ¿Cómo se comunican el servidor y el cliente?
 
