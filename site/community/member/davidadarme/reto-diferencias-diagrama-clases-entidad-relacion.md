@@ -8,7 +8,9 @@
 
 # ¿Cúal es la diferencia entre un Diagrama de Clases y un Diagrama de Entidad Relación?
 
-## GuayaHack
+## Contexto e Introducción
+
+### Guayahack
 
 Bueno, me gustaría agradecer al parce {doc}`/community/member/jdsalaro/index` que ha creado esta [comunidad](https://guayahack.co) y por permitir compartir el conocimiento de él y otros usuarios más experimentados para apoyarnos a mejorar nuestras habilidades a nosotros, los amateurs/aficionados de la industria :)
 
