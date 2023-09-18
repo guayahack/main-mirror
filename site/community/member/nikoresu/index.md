@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@nikoresu"
-:tags: moderador, participante
+:tags: participante
 :category: miembros
 :language: Español
 :location: Colombia
