@@ -27,7 +27,7 @@ Puedes leer más sobre GuayaHack y sus miembros en nuestro {doc}`/community/memo
 %TODO:write las descripciones de los niveles y añadir ésta linea
 %{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional`
 
-Únete usando [éste link de invitación](https://discord.gg/trzuezGrZd) para entrar a nuestro Discord y sigue los pasos en `#rules`.
+Únete usando [éste link de invitación](https://discord.gg/RHePucN4e9) para entrar a nuestro Discord y sigue los pasos en `#rules`.
 
 Sin importar si eres principiante, tienes experiencia o eres profesional, comenzarás resolviendo {doc}`/reto/on-boarding-git-gitlab` y luego decidirás que camino quieres tomar.
 
