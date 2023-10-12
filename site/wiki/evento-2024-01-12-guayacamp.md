@@ -13,7 +13,7 @@
 %### Agradecimientos 
 %Se logró una asistencia de 40 personas por Zoom, algunas miembros y otras curiosas, interesadas en contribuir de manera activa GuayaHack. Allí, durante cerca de una hora, se realizaron intervenciones y preguntas sobre el desarrollo del GuayaHack. En un primer momento, {doc}`/community/member/jdsalaro/index` dio la bienvenida a todos en el grupo y brindó una pequeña presentación. Él mencionó rangos distintivos de su identidad Colombiana, Latina y su pasión por el conocimiento y el Internet. Asimismo, detalló sobre su perfil profesional y su labor en Alemania.
 
-Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) concluimos que todos los moderadores y algun@s participantes de la comunidad gran tienen interés en que organicemos y llevemos a cabo nuestro primer GuayaCamp de integración.
+Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) concluimos que todos los moderadores y algun@s participantes de la comunidad tienen gran interés en que organicemos y llevemos a cabo nuestro primer GuayaCamp de integración.
 
 Ésta página contendrá toda la información relevante sobre el evento conforme vayamos concretando la logísitca y el cronograma, los detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117).
 
