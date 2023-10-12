@@ -6,7 +6,7 @@
 :location: Colombia
 :excerpt: 1
 ```
-[English](/community/memorial-en.md) | [Español](/community/memorial.md) | <!-- l10n:select -->
+[English](/community/memorial-en.md) | [Español](/community/memorial.md) <!-- l10n:select -->
 
 # Memorial
 
@@ -26,9 +26,7 @@ The identity of GuayaHack and its members is _*not*_ based on superficial charac
 
 On the contrary, the _*only*_ requirement for participation is a total commitment to the empowerment of others, before one's own, through education as well as the mastery and use of technologies of common interest and relevance.
 
-¡
-
-## IV - Final considerations
+## IV - Final Considerations
 
 `#todo:write`
 

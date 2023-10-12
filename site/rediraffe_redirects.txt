@@ -1,0 +1,3 @@
+
+"wiki"                           "posts/category/wiki"
+"guayacamp"                      "wiki/evento-2024-01-12-guayacamp"

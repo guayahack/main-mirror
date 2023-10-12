@@ -9,6 +9,10 @@
 
 Éste artículo contiene las pautas generales con base en las cuales mantenemos nuestra [WIKI](https://guayahack.co/posts/category/wiki/).
 
+## Propósito
+
+`#todo:write`
+
 ## Estructura
 
 `#todo:write`

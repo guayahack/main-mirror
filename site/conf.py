@@ -209,3 +209,10 @@ myst_substitutions = {
 }
 
 autosectionlabel_prefix_document = True
+
+###############################################################################
+# extension sphinxext.rediraffe
+###############################################################################
+
+rediraffe_branch = "master"
+rediraffe_redirects = "rediraffe_redirects.txt"
