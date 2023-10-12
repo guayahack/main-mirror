@@ -7,17 +7,31 @@
 
 [English](/wiki/evento-2024-01-12-guayacamp-en.md) | [Español](/wiki/evento-2024-01-12-guayacamp.md) <!-- l10n:select -->
 
-# GuayaCamp [En Planeación]
-%# GuayaCamp [En Proceso]
-%## GuayaCamp [Concluido]
+# GuayaCamp 2024 [En Planeación]
+%# GuayaCamp 2024 [En Proceso]
+%## GuayaCamp 2024 [Concluido]
 %### Agradecimientos 
 %Se logró una asistencia de 40 personas por Zoom, algunas miembros y otras curiosas, interesadas en contribuir de manera activa GuayaHack. Allí, durante cerca de una hora, se realizaron intervenciones y preguntas sobre el desarrollo del GuayaHack. En un primer momento, {doc}`/community/member/jdsalaro/index` dio la bienvenida a todos en el grupo y brindó una pequeña presentación. Él mencionó rangos distintivos de su identidad Colombiana, Latina y su pasión por el conocimiento y el Internet. Asimismo, detalló sobre su perfil profesional y su labor en Alemania.
 
-Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) concluimos que todos los moderadores y algun@s participantes de la comunidad tienen gran interés en que organicemos y llevemos a cabo nuestro primer GuayaCamp de integración.
+```{image} ./evento-2024-01-12-guayacamp.md-data/kite.png
+:alt: futuristic kite
+:class: bg-transparent
+:align: center
+```
+
+
+Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) decidimos organizar y llevar a cabo nuestro primer GuayaCamp de integración.
 
 Ésta página contendrá toda la información relevante sobre el evento conforme vayamos concretando la logísitca y el cronograma, los detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117).
 
 ## ¿Cúando y Dónde?
+
+```{image} ./evento-2024-01-12-guayacamp.md-data/treehouse.png
+:alt: treehouse
+:class: bg-transparent
+:width: 300px
+:align: left
+```
 
 GuayaCamp 2024 tendrá lugar de forma híbrida durante el segundo fin de semana de 2024, entre el `2024-01‐12` y el `2024-01-14` en Medellín y El Retiro, Colombia.
 

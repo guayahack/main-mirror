@@ -1,7 +1,7 @@
 ```{post} 2023-10-12
 :tags: noticia, organización, evento
 :category: wiki
-:language: Español
+:language: English
 :excerpt: 2
 ```
 
