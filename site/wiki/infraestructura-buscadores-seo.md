@@ -1,5 +1,5 @@
 ```{post} 2023-08-01
-:tags: organización, infrastructura, incompleto
+:tags: organización, infraestructura, incompleto
 :category: wiki
 :language: Español
 :excerpt: 1
