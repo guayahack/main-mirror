@@ -44,7 +44,7 @@ suppress_warnings = [
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_baseurl = "https://guayahack.co/"  # el backslash al final es muy importante! sphinx-sitemap genera links dañado
-html_title = "Grupo de estudio y HackerSpace"
+html_title = "HackerSpace y Grupo de estudio"
 html_logo = "_static/logo.png"
 html_favicon = "_static/favicon.png"
 html_theme = "sphinx_book_theme"
