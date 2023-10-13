@@ -53,19 +53,15 @@ Las transmisiones de video del evento, cuando las haya, estarán disponibles atr
 `#todo:write`
 
 
-## Calendario
+## Agenda
 
 Éste evento ha sido agregado a nuestro calendario principal 👉 {doc}`/calendario` 
 
-Sin embargo, el [calendario](https://calendar.google.com/calendar/embed?src=cc1058b39f9c45d8031a5e5aa56e617ade17d58445a6667af420612f54007f16%40group.calendar.google.com&ctz=America%2FBogota) propio del evento también está embebido directamente aquí 👇
+Sin embargo, la agenda correspondiente al [calendario](https://calendar.google.com/calendar/embed?src=cc1058b39f9c45d8031a5e5aa56e617ade17d58445a6667af420612f54007f16%40group.calendar.google.com&ctz=America%2FBogota) propio del evento también está embebido directamente aquí 👇
 
 <div class="responsiveCal">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%2385ff54&ctz=America%2FBogota&src=cc1058b39f9c45d8031a5e5aa56e617ade17d58445a6667af420612f54007f16%40group.calendar.google.com&ctz=America%2FBogota" style="border:solid 1px #777; filter: invert(.9) saturate(1.2) hue-rotate(145deg);" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&dates=20240112%2F20240114&bgcolor=%2385ff54&ctz=America%2FBogota&mode=AGENDA&showPrint=1&showNav=0&showTitle=0&showDate=0&showTabs=0&showCalendars=0&src=Y2MxMDU4YjM5ZjljNDVkODAzMWE1ZTVhYTU2ZTYxN2FkZTE3ZDU4NDQ1YTY2NjdhZjQyMDYxMmY1NDAwN2YxNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777; filter: invert(.9) saturate(1.2) hue-rotate(145deg);" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
-
-
-
 
 
 ## Logística
