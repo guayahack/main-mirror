@@ -98,7 +98,7 @@ Sin embargo, la agenda correspondiente al [calendario](https://calendar.google.c
 
 ## Organizadores 
 
-{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@camilo.java </community/member/camilo.java/index>`.
+{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@harold </community/member/harold/index>`, {doc}`@davidadarme </community/member/davidadarme/index>`, {doc}`@camilo.java </community/member/camilo.java/index>`.
 
 ## Agradecimientos
 

@@ -100,7 +100,7 @@ However, the agenda corresponding to the [calendar](https://calendar.google.com/
 
 ## Organizers
 
-{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@camilo.java </community/member/camilo.java/index>`.
+{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@harold </community/member/harold/index>`, {doc}`@davidadarme </community/member/davidadarme/index>`, {doc}`@camilo.java </community/member/camilo.java/index>`.
 
 ## Thanks
 
