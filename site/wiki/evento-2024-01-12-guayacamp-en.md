@@ -22,7 +22,7 @@ Please refer to the [Spanish version](/wiki/evento-2024-01-12-guayacamp.md) of o
 :align: center
 ```
 
-Through the [Interest Survey](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) and its [Related Issue](https://gitlab.com/guayahack/main/-/117) we decided to organize and carry out our first GuayaCamp Meetup.
+Through the [Interest Survey](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) and its [Related Issue](https://gitlab.com/guayahack/main/-/117) we decided to organize and carry out our first GuayaCamp Meetup. For other questions, do not hesitate to reach out via [Discord](https://discord.gg/RHePucN4e9).
 
 This page will contain all the relevant information about the event as we finalize the logistics and schedule, the details will be discussed in the [Planning Issue](https://gitlab.com/guayahack/main/-/issues/117).
 
