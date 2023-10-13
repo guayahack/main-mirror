@@ -63,9 +63,20 @@ html_theme_options = {
         #            "icon": "fa-brands fa-linkedin",
         #        },
         {
-            "name": "GitHub",
-            "url": "https://github.com/guayahack",
-            "icon": "fa-brands fa-github",
+            "name": "GitLab",
+            "url": "https://gitlab.com/guayahack",
+            "icon": "fa-brands fa-gitlab",
+        },
+        {
+            "name": "Mastodon",
+            "url": "https://mastodon.social/@guayahack",
+            "icon": "fa-brands fa-mastodon",
+            "attributes": {"rel": "me"},
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/guayahack",
+            "icon": "fa-brands fa-twitter",
         },
         {
             "name": "Facebook",
@@ -83,25 +94,14 @@ html_theme_options = {
             "icon": "fa-brands fa-youtube",
         },
         {
-            "name": "GitLab",
-            "url": "https://gitlab.com/guayahack",
-            "icon": "fa-brands fa-gitlab",
-        },
-        {
-            "name": "Mastodon",
-            "url": "https://mastodon.social/@guayahack",
-            "icon": "fa-brands fa-mastodon",
-            "attributes": {"rel": "me"},
-        },
-        {
             "name": "Twitch",
             "url": "https://twitch.com/guayahack",
             "icon": "fa-brands fa-twitch",
         },
         {
-            "name": "Twitter",
-            "url": "https://twitter.com/guayahack",
-            "icon": "fa-brands fa-twitter",
+            "name": "GitHub",
+            "url": "https://github.com/guayahack",
+            "icon": "fa-brands fa-github",
         },
         {
             "name": "Flickr",
