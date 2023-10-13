@@ -216,3 +216,20 @@ autosectionlabel_prefix_document = True
 
 rediraffe_branch = "master"
 rediraffe_redirects = "rediraffe_redirects.txt"
+
+###############################################################################
+# extension sphinxext.opengraph
+###############################################################################
+
+ogp_site_url = "https://guayahack.co"
+ogp_site_name = "GuayaHack — HackerSpace y grupo de estudio"
+ogp_image = "_static/logo-black.png"
+ogp_use_first_image = True
+ogp_description_length = 50
+ogp_enable_meta_description = True
+ogp_custom_meta_tags = [
+]
+ogp_social_cards = {
+    "image": "_static/logo-black.png",
+}
+
