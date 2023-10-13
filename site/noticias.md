@@ -13,7 +13,11 @@
 
 %## 2023-07-17 
 
-%## 2023-07-17 
+## 2023-010-12 
+
+Comenzamos con la planeación de nuestro meetup en Medellín!
+
+### https://guayahack.co/guayacamp
 
 ## 2023-07-22
 
