@@ -227,9 +227,7 @@ ogp_image = "_static/logo-black.png"
 ogp_use_first_image = True
 ogp_description_length = 50
 ogp_enable_meta_description = True
-ogp_custom_meta_tags = [
-]
+ogp_custom_meta_tags = []
 ogp_social_cards = {
     "image": "_static/logo-black.png",
 }
-

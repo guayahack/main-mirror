@@ -25,6 +25,8 @@ Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8l
 
 Ésta página contendrá toda la información relevante sobre el evento conforme vayamos concretando la logística y el cronograma, los detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117).
 
+## 👉 [Registro](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw/edit#responses) 👈
+
 ## ¿Cúando y Dónde?
 
 ```{image} ./evento-2024-01-12-guayacamp.md-data/treehouse.png
