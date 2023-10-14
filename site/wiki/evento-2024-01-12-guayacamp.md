@@ -21,7 +21,7 @@
 ```
 
 
-Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) decidimos organizar y llevar a cabo nuestro primer GuayaCamp de integración.
+Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) decidimos organizar y llevar a cabo nuestro primer GuayaCamp; un espacio y ciclo de conferencias para socializar y aprender entre miembros e interesados.
 
 Ésta página contendrá toda la información relevante sobre el evento conforme vayamos concretando la logística y el cronograma, los detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). Para más preguntas, no duden en escribirnos por [Discord](https://discord.gg/RHePucN4e9).
 
