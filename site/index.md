@@ -97,27 +97,19 @@ twitch.com
 youtube.com
 :::
 
-%:::{grid-item-card}
-%:text-align: center
-%:link: https://soundcloud.com/guayahack
-%<i class="fa-brands fa-soundcloud" style="font-size:2em"></i>
-%soundcloud.com
-%:::
+:::{grid-item-card}
+:text-align: center
+:link: https://soundcloud.com/guayahack
+<i class="fa-brands fa-soundcloud" style="font-size:2em"></i>
+soundcloud.com
+:::
 
-%:::{grid-item-card}
-%:text-align: center
-%:link: https://open.spotify.com/show/3kOyt5SllRStz6uSuoX3HZ
-%<i class="fa-brands fa-spotify" style="font-size:2em"></i>
-%spotify.com
-%:::
-
-
-%:::{grid-item-card}
-%:text-align: center
-%:link: https://reddit.com/guayahack
-%<i class="fa-brands fa-reddit" style="font-size:2em"></i>
-%reddit.com
-%:::
+:::{grid-item-card}
+:text-align: center
+:link: https://open.spotify.com/show/3kOyt5SllRStz6uSuoX3HZ
+<i class="fa-brands fa-spotify" style="font-size:2em"></i>
+spotify.com
+:::
 
 :::{grid-item-card}
 :text-align: center
@@ -126,26 +118,12 @@ youtube.com
 linkedin.com
 :::
 
-%:::{grid-item-card}
-%:text-align: center
-%:link: https://tiktok.com/guayahack
-%<i class="fa-brands fa-tiktok" style="font-size:2em"></i>
-%tiktok.com
-%:::
-
 :::{grid-item-card}
 :text-align: center
 :link: https://patreon.com/GuayaHack
 <i class="fa-brands fa-patreon" style="font-size:2em"></i>
 patreon.com
 :::
-
-%:::{grid-item-card}
-%:text-align: center
-%:link: https://snapchat.com/guayahack
-%<i class="fa-brands fa-snapchat" style="font-size:2em"></i>
-%snapchat.com
-%:::
 
 ::::
 
