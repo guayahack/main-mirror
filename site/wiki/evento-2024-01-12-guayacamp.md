@@ -21,11 +21,13 @@
 ```
 
 
-Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) decidimos organizar y llevar a cabo nuestro primer GuayaCamp; un espacio y ciclo de conferencias para socializar y aprender entre miembros e interesados.
+Con la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw) y el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) decidimos organizar y llevar a cabo nuestro primer GuayaCamp; un espacio y ciclo de conferencias para socializar y aprender entre miembros e interesados de la comunidad.
 
-Ésta página contendrá toda la información relevante sobre el evento conforme vayamos concretando la logística y el cronograma, los detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). Para más preguntas, no duden en escribirnos por [Discord](https://discord.gg/RHePucN4e9).
+Ésta página contiene toda la información relevante sobre el evento, los detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). Para más preguntas, no duden en escribirnos por [Discord](https://discord.gg/RHePucN4e9).
 
 ## 👉 [Registro](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw/edit#responses) 👈
+
+A fin de poder planear con exactitud y garantizar un espacio agradable es te suma importancia que todos los asistentes se registren oportunamente.
 
 ## ¿Cúando y Dónde?
 
@@ -36,23 +38,23 @@ Por medio de la [Encuesta de Interés](https://docs.google.com/forms/d/1JjcP6s8l
 :align: left
 ```
 
-GuayaCamp 2024 tendrá lugar de forma híbrida durante el segundo fin de semana de 2024, entre el `2024-01‐12` y el `2024-01-14` en Medellín y El Retiro, Colombia.
+El ciclo de conferencias de GuayaCamp 2024 tendrá lugar de forma híbrida durante el `2024-01‐13` en Medellín y la integración de los moderadores voluntarios en El Retiro, Colombia el `2024-01-14`.
 
 El ciclo de [desconferencias](https://es.wikipedia.org/wiki/Desconferencia) será llevado a cabo en 📍[todo:define](https://maps.app.goo.gl/4YTXGcRULUHSLJw78) y la integración de los moderadores, tentativamente y sujeto a cambios, en 📍 [Finca Las Cordilleras](https://www.instagram.com/lascordilleras/)
 
-Las transmisiones de video del evento, cuando las haya, estarán disponibles através de 🔗 [Zoom](`#todo:define`), y 🔗 [Youtube](https://www.youtube.com/@guayahack)
+Las transmisiones de video del evento, cuando las haya, estarán disponibles através de 🔗 [Zoom](`#todo:define`) y 🔗 [Youtube](https://www.youtube.com/@guayahack)
 
-## Objetivo
-
-`#todo:write`
-
-## Evento Principal
-
-`#todo:write`
-
-### Estructura
-
-`#todo:write`
+%## Objetivo
+%
+%`#todo:write`
+%
+%## Evento Principal
+%
+%`#todo:write`
+%
+%### Estructura
+%
+%`#todo:write`
 
 
 ## Agenda
