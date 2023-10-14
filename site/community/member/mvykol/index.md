@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-20
 :author: "@mvykol"
-:tags: moderador, tutor
+:tags: moderador, participante, tutor
 :category: miembros
 :language: Español, English, Portuguese
 :location: Colombia

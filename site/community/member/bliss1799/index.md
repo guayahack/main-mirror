@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-22
 :author: "@bliss1799"
-:tags: moderador
+:tags: moderador, participante, tutor
 :category: miembros
 :language: Español
 :location: Colombia

@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@jdsalaro"
-:tags: fundador, participante, moderador
+:tags: fundador, participante, moderador, tutor
 :category: miembros
 :language: Español, English, Deutsch
 :location: Colombia

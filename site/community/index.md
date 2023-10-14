@@ -7,7 +7,9 @@ Aunque GuayaHack es una iniciativa iniciada por {doc}`/community/member/jdsalaro
 
 ## Voluntarios
 
-### Moderadores
+### Moderadores - S.A.P.O.S
+
+Los Moderadores, también conocidos como S.A.P.O.S, desempeñan un papel esencial en nuestra comunidad. El acrónimo S.A.P.O.S representa "Special, Advanced, People Orchestration Squad," que refleja su compromiso con la excelencia y la coordinación de actividades.
 
 Todos los moderadores son tutores.
 

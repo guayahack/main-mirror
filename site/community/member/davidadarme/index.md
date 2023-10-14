@@ -1,7 +1,7 @@
 
 ```{post} 2023-08-21
 :author: "@davidadarme"
-:tags: participante
+:tags: moderador, participante, tutor
 :category: miembros
 :language: Español
 :location: Colombia
