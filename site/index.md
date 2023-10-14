@@ -11,61 +11,48 @@ $ date=`date -d @1689530400`; echo -e "\nGuayaHack, fundado: $date"
 GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 ```
 
-```{div} discord-widget
-<iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-```
 
-::::{grid} 4 4 4 4
+
+::::{grid} 2 2 2 6
 :class-container: landing-grid
 :gutter: 1
+:padding: 0 0 0 3
 
-:::{grid-item-card}
-:text-align: center
-:link: https://guayahack.co
-<i class="fa-solid fa-globe" style="font-size:2em"></i>
-guayahack.co
-:::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://mastodon.social/@guayahack
 <i class="fa-brands fa-mastodon" style="font-size:2em"></i>
-mastodon.social
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://matrix.to/#/!AkltWBgMvNJHuBhogU:matrix.org?via=matrix.org
 <i class="fa-solid fa-m" style="font-size:2em"></i>
-matrix.org
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://twitter.com/guayahack
 <i class="fa-brands fa-twitter" style="font-size:2em"></i>
-twitter.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://www.flickr.com/photos/guayahack/
 <i class="fa-brands fa-flickr" style="font-size:2em"></i>
-flickr.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://linktree.com/guayahack
 <i class="fa-solid fa-link" style="font-size:2em"></i>
-linktree.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://instagram.com/guayahack
 <i class="fa-brands fa-instagram" style="font-size:2em"></i>
-instagram.com
 :::
 
 
@@ -73,62 +60,56 @@ instagram.com
 :text-align: center
 :link: https://gitlab.com/guayahack
 <i class="fa-brands fa-gitlab" style="font-size:2em"></i>
-gitlab.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://github.com/guayahack
 <i class="fa-brands fa-github" style="font-size:2em"></i>
-github.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://twitch.com/guayahack
 <i class="fa-brands fa-twitch" style="font-size:2em"></i>
-twitch.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://youtube.com/guayahack
 <i class="fa-brands fa-youtube" style="font-size:2em"></i>
-youtube.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://soundcloud.com/guayahack
 <i class="fa-brands fa-soundcloud" style="font-size:2em"></i>
-soundcloud.com
 :::
 
 :::{grid-item-card}
 :text-align: center
 :link: https://open.spotify.com/show/3kOyt5SllRStz6uSuoX3HZ
 <i class="fa-brands fa-spotify" style="font-size:2em"></i>
-spotify.com
 :::
 
-:::{grid-item-card}
-:text-align: center
-:link: https://linkedin.com/company/guayahack
-<i class="fa-brands fa-linkedin" style="font-size:2em"></i>
-linkedin.com
-:::
 
-:::{grid-item-card}
-:text-align: center
-:link: https://patreon.com/GuayaHack
-<i class="fa-brands fa-patreon" style="font-size:2em"></i>
-patreon.com
-:::
+%:::{grid-item-card}
+%:text-align: center
+%:link: https://linkedin.com/company/guayahack
+%<i class="fa-brands fa-linkedin" style="font-size:2em"></i>
+%:::
+
+%:::{grid-item-card}
+%:text-align: center
+%:link: https://patreon.com/GuayaHack
+%<i class="fa-brands fa-patreon" style="font-size:2em"></i>
+%:::
 
 ::::
 
-
-
+```{div} discord-widget
+<iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+```
 
 ## Sobre GuayaHack
 
