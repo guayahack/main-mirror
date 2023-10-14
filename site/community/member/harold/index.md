@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-24
 :author: "@harold"
-:tags: participante
+:tags: moderador, participante, tutor
 :category: miembros
 :language: Español
 :location: Colombia

@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-18
 :author: "@diosito"
-:tags: participante
+:tags: moderador, participante, tutor
 :category: miembros
 :language: Español, English
 :location: Colombia

@@ -1,6 +1,6 @@
 ```{post} 2023-08-14
 :author: "@camilo.java"
-:tags: participante
+:tags: moderador, participante, tutor
 :category: miembros
 :language: Español
 :location: Colombia

@@ -1,7 +1,7 @@
 
 ```{post} 2023-07-23
 :author: "@davidqp"
-:tags: moderador
+:tags: moderador, participante, tutor
 :category: miembros
 :language: Español
 :location: Colombia
