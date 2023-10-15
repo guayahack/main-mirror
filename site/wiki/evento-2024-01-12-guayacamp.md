@@ -30,22 +30,22 @@ En nuestro pequeño HackerSpace y Comunidad de Aprendizaje GuayaHack celebraremo
 ```{image} /_static/guayhackito-pirate.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 200px
+:width: 13em
 :align: right
 ```
 
 
-```{image} /_static/guayhackito-sombrero-flying.png
+```{image} /_static/guayhackito-sombrero-flying-yellow.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 250px
+:width: 13em
 :align: center
 ```
 
 %```{image} /_static/guayhackito-sombrero.png
 %:alt: GuayHackito
 %:class: bg-transparent
-%:width: 200px
+%:width: 13em
 %:align: right
 %```
 
