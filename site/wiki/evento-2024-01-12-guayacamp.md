@@ -16,24 +16,40 @@ En nuestro pequeño HackerSpace y Comunidad de Aprendizaje GuayaHack celebraremo
 
 ## Beep Bop !^$% GuayaHack 
 
+Ésta página contendrá toda la información relevante sobre GuayaCamp; otros detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). En caso de dudas o sugerencias, no duden en escribirnos por [Discord](https://discord.gg/RHePucN4e9) o a `info@guayahack.co`.
+
 ### ¡ [Regístrate](https://forms.gle/YLkTwczr4zgpbVUr8) y conecta con la comunidad !
 
 ```{image} /_static/guayhackito-pink.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 300px
-:align: center
+:width: 150px
+:align: left
 ```
 
-```{image} /_static/guayhackito.png
+```{image} /_static/guayhackito-pirate.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 300px
-:align: center
+:width: 200px
+:align: right
 ```
 
 
-Ésta página contendrá toda la información relevante sobre GuayaCamp; otros detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). En caso de dudas o sugerencias, no duden en escribirnos por [Discord](https://discord.gg/RHePucN4e9) o a `info@guayahack.co`.
+```{image} /_static/guayhackito-sombrero.png
+:alt: GuayHackito
+:class: bg-transparent
+:width: 250px
+:align: center
+```
+
+%```{image} /_static/guayhackito-sombrero.png
+%:alt: GuayHackito
+%:class: bg-transparent
+%:width: 200px
+%:align: right
+%```
+
+
 
 ## 👉 [Registro](https://forms.gle/YLkTwczr4zgpbVUr8) 👈
 
