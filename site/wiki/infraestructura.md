@@ -153,6 +153,14 @@ patreon.com
 
 :::{grid-item-card}
 :text-align: center
+:link: https://tenor.com/users/guayahack
+<i class="fa-solid fa-gif" style="font-size:2em"></i>
+tenor.com
+:::
+
+
+:::{grid-item-card}
+:text-align: center
 :link: https://snapchat.com/guayahack
 <i class="fa-brands fa-snapchat" style="font-size:2em"></i>
 snapchat.com
