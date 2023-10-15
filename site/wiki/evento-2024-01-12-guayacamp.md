@@ -18,12 +18,20 @@ En nuestro pequeño HackerSpace y Comunidad de Aprendizaje GuayaHack celebraremo
 
 ### ¡ [Regístrate](https://forms.gle/YLkTwczr4zgpbVUr8) y conecta con la comunidad !
 
-```{image} /_static/guahackito.png
+```{image} /_static/guayhackito-pink-bright.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 300px
 :align: center
 ```
+
+```{image} /_static/guayhackito-bright.png
+:alt: GuayHackito
+:class: bg-transparent
+:width: 300px
+:align: center
+```
+
 
 Ésta página contendrá toda la información relevante sobre GuayaCamp; otros detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). En caso de dudas o sugerencias, no duden en escribirnos por [Discord](https://discord.gg/RHePucN4e9) o a `info@guayahack.co`.
 
