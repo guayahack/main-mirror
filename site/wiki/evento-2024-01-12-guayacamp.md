@@ -35,7 +35,7 @@ En nuestro pequeño HackerSpace y Comunidad de Aprendizaje GuayaHack celebraremo
 ```
 
 
-```{image} /_static/guayhackito-sombrero.png
+```{image} /_static/guayhackito-sombrero-flying.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 250px
