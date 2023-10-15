@@ -18,14 +18,14 @@ En nuestro pequeño HackerSpace y Comunidad de Aprendizaje GuayaHack celebraremo
 
 ### ¡ [Regístrate](https://forms.gle/YLkTwczr4zgpbVUr8) y conecta con la comunidad !
 
-```{image} /_static/guayhackito-pink-bright.png
+```{image} /_static/guayhackito-pink.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 300px
 :align: center
 ```
 
-```{image} /_static/guayhackito-bright.png
+```{image} /_static/guayhackito.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 300px
