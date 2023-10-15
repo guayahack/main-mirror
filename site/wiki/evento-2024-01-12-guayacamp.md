@@ -29,7 +29,7 @@ En nuestro pequeño HackerSpace y Comunidad de Aprendizaje GuayaHack celebraremo
 
 ## 👉 [Registro](https://forms.gle/YLkTwczr4zgpbVUr8) 👈
 
-A fin de poder planear con exactitud y garantizar un espacio agradable es te suma importancia que todos los asistentes se registren oportunamente.
+A fin de poder planear con exactitud y garantizar un espacio agradable es de suma importancia que todos los asistentes se registren oportunamente.
 
 La fecha límite de registro, y aportes monetarios para los amantes de la pizza, es `Diciembre 1, 2023`. El registro y aportes el día de el evento serán posibles toda vez que haya espacio para más participantes.
 
