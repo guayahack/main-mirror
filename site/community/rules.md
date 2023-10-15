@@ -61,7 +61,7 @@ Discusiones centradas en la política, la religión y el sexo, si bien son temas
 ## 0x08 00 00 00
 
 
-Los {doc}`/wiki/organizacion-rol-moderator` podrán marcar, remover y filtrar contenido que se aleje de la temática principal de la comunidad en _*todas sus formas y en todos los espacios*_.
+Los {doc}`/wiki/organizacion-rol-moderador` podrán marcar, remover y filtrar contenido que se aleje de la temática principal de la comunidad en _*todas sus formas y en todos los espacios*_.
 
 ## 0x09 00 00 00
 
