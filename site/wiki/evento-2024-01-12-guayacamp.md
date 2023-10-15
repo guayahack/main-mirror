@@ -12,7 +12,7 @@
 
 ## 👋 Saludos internauta!
 
-En nuestro pequeño HackerSpace y Comunidad de Aprendizaje GuayaHack celebraremos nuestra primera integración: GuayaCamp! GuayaCamp es un día de {ref}`conferencias <wiki/evento-2024-01-12-guayacamp.md#agenda>` sobre tecnología, aprendizaje, la vida profesional y mucho más el cual tendrá lugar el `13 de enero de 2024` cerca a Parques del Rio en Medellín. 
+En GuayaHack celebraremos nuestra primera integración: GuayaCamp! GuayaCamp será un día de {ref}`conferencias <wiki/evento-2024-01-12-guayacamp.md#agenda>` sobre tecnología, aprendizaje, la vida profesional y más; éste tendrá lugar el `13 de enero de 2024` cerca a [Cuidad del Rio en Medellín](https://maps.app.goo.gl/dhQeyBgsQPeg5oVm6). 
 
 ## Beep Bop !^$% GuayaHack 
 
