@@ -71,7 +71,7 @@ La agenda correspondiente al [calendario propio del evento ](https://calendar.go
 :height: 300px
 ```
 
-## Detalles para los {doc}`/wiki/organizacion-rol-moderador`
+## Detalles para los {doc}`Moderadores </wiki/organizacion-rol-moderador>`
 
 ### Logística y otros
 
