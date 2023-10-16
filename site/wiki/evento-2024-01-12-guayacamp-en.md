@@ -26,7 +26,9 @@ Through the [Interest Survey](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXb
 
 This page will contain all the relevant information about the event as we finalize the logistics and schedule, the details will be discussed in the [Planning Issue](https://gitlab.com/guayahack/main/-/issues/117).
 
-## 👉 [Registration](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXbnbgsk9Xk15iuC_clavsjp5LCkw/edit#responses) 👈
+<p align="center" style="font-size: 2rem;">
+  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Registrate 👈</a>
+</p>
 
 ## When and where?
 
