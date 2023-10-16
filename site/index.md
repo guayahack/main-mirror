@@ -1,7 +1,7 @@
 
 # GuayaHack
 
-## 🚀 {doc}`/wiki/evento-2024-01-12-guayacamp`
+## 🚀 {doc}`/wiki/evento-2024-01-12-guayacamp` ⛺ 🎉
 
 ## [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) y grupo de estudio
 
