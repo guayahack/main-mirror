@@ -7,7 +7,15 @@
 
 [English](/wiki/evento-2024-01-12-guayacamp-en.md) | [Español](/wiki/evento-2024-01-12-guayacamp.md) <!-- l10n:select -->
 
-# 🚀 GuayaCamp 2024 [En Planeación] ⛺ 🎉
+
+#  GuayaCamp 2024 🚀
+
+```{image} ./evento-2024-01-12-guayacamp.md-data/banner.png
+:alt: banner
+:class: bg-transparent
+:align: center
+```
+
 
 
 ## 👋 Saludos internauta!
@@ -16,29 +24,36 @@ En GuayaHack celebraremos nuestra primera integración: GuayaCamp! GuayaCamp ser
 
 ## Beep Bop !^$% GuayaHack 
 
-Ésta página contendrá toda la información relevante sobre GuayaCamp; otros detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). En caso de dudas o sugerencias, no duden en escribirnos por [Discord](https://discord.gg/RHePucN4e9) o a `info@guayahack.co`.
+Ésta página contiene toda la información esencial sobre GuayaCamp; otros detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). En caso de dudas o sugerencias, escríbenos por [Discord](https://discord.gg/RHePucN4e9) o a `info@guayahack.co`.
 
 ### ¡ [Regístrate](https://forms.gle/YLkTwczr4zgpbVUr8) y conecta con la comunidad !
+
+A fin de poder planear con exactitud y garantizar un espacio agradable es de suma importancia que todos los asistentes se registren oportunamente.
+
+La fecha límite de registro, y aportes monetarios para los amantes de la pizza, es `Diciembre 1, 2023`. El registro y aportes el día de el evento serán posibles toda vez que haya espacio para más participantes.
 
 ```{image} /_static/guayhackito-pink.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 15em
+:width: 14em
 :align: left
 ```
 
 ```{image} /_static/guayhackito-pirate.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 13em
+:width: 12em
 :align: right
 ```
 
+<p align="center" style="font-size: 2rem;">
+  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Registro 👈</a>
+</p>
 
 ```{image} /_static/guayhackito-sombrero-flying-yellow.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 13em
+:width: 12em
 :align: center
 ```
 
@@ -51,15 +66,10 @@ En GuayaHack celebraremos nuestra primera integración: GuayaCamp! GuayaCamp ser
 
 
 
-<p align="center" style="font-size: 2rem;">
-  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Registro 👈</a>
-</p>
 
-A fin de poder planear con exactitud y garantizar un espacio agradable es de suma importancia que todos los asistentes se registren oportunamente.
 
-La fecha límite de registro, y aportes monetarios para los amantes de la pizza, es `Diciembre 1, 2023`. El registro y aportes el día de el evento serán posibles toda vez que haya espacio para más participantes.
 
-## ¿Cúando y Dónde?
+## ¿Cúando, Dónde y Cuánto?
 
 ```{image} ./evento-2024-01-12-guayacamp.md-data/treehouse.png
 :alt: treehouse
@@ -70,9 +80,11 @@ La fecha límite de registro, y aportes monetarios para los amantes de la pizza,
 
 📅 `GuayaCamp 2024` tendrá lugar de forma híbrida durante el Sábado `2024-01‐13` en Medellín y la integración de los moderadores voluntarios en El Retiro, Colombia el Domingo `2024-01-14`.
 
-📍 El ciclo de [desconferencias](https://es.wikipedia.org/wiki/Desconferencia) será llevado a cabo en [POR DEFINIR](https://maps.app.goo.gl/4YTXGcRULUHSLJw78) y la integración de los moderadores, tentativamente y sujeto a cambios, en [Finca Las Cordilleras](https://www.instagram.com/lascordilleras/).
+📍 El ciclo de [desconferencias](https://es.wikipedia.org/wiki/Desconferencia) se llevará a cabo en [POR DEFINIR](https://maps.app.goo.gl/4YTXGcRULUHSLJw78) y la integración de los moderadores en [Finca Las Cordilleras](https://www.instagram.com/lascordilleras/).
 
-Las transmision del evento, cuando la haya, estará disponible através de 🔗 [Zoom](https://zoom.us) y 🔗 [Youtube](https://www.youtube.com/@guayahack)
+📹 Grabaciones del evento, cuando las haya, estarán disponibles através de 🔗 [Zoom](https://zoom.us) y 🔗 [Youtube](https://www.youtube.com/@guayahack)
+
+💰 El acceso no tiene `ningún costo` pero requiere [registrarse](https://forms.gle/YLkTwczr4zgpbVUr8). Sin embargo, a fin de organizar un evento del agrado de todos, contribuciones voluntarias de `50,000 | 100,000 | 200,000` COP son bienvenidas e incluyen pizza 🍕 y una bebida 🍹.
 
 ## Agenda
 
@@ -124,11 +136,6 @@ La mayoría de los moderadores y voluntarios partirán de Medellín durante el 1
 #### Transporte
 
 El transporte de los moderadores y voluntarios desde Medellín y hasta 📍 [Finca Las Cordilleras](https://www.instagram.com/lascordilleras/) será llevado a cabo por GuayaHack.
-
-#### Finanzas
-
-El acceso el día del evento requiere [registro](https://forms.gle/YLkTwczr4zgpbVUr8) pero no tendrá costo alguno. Sin embargo, a fin de organizar un evento del agrado de todos, contribuciones voluntarias de 50,000/100,000/200,000 COP son bienvenidas.
-
 
 %## Agradecimientos
 %
