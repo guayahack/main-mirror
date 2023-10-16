@@ -7,7 +7,7 @@
 
 [English](/wiki/evento-2024-01-12-guayacamp-en.md) | [Español](/wiki/evento-2024-01-12-guayacamp.md) <!-- l10n:select -->
 
-# GuayaCamp 2024 [En Planeación]
+# 🚀 GuayaCamp 2024 [En Planeación] ⛺ 🎉
 
 
 ## 👋 Saludos internauta!
