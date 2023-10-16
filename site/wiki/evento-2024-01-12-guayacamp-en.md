@@ -8,8 +8,7 @@
 [English](/wiki/evento-2024-01-12-guayacamp-en.md) | [Español](/wiki/evento-2024-01-12-guayacamp.md) <!-- l10n:select -->
 
 
-# GuayaCamp 2024
-## [In Planning]
+# GuayaCamp 2024 [In Planning]
 
 ```{warning} This is an example
 This page is a direct translation of its Spanish equivalent and might be out-of-date or out-of-sync until the day of the event. 
@@ -27,7 +26,7 @@ Through the [Interest Survey](https://docs.google.com/forms/d/1JjcP6s8lYX-oGFBXb
 This page will contain all the relevant information about the event as we finalize the logistics and schedule, the details will be discussed in the [Planning Issue](https://gitlab.com/guayahack/main/-/issues/117).
 
 <p align="center" style="font-size: 2rem;">
-  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Registrate 👈</a>
+  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Register 👈</a>
 </p>
 
 ## When and where?
