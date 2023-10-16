@@ -51,7 +51,9 @@ En GuayaHack celebraremos nuestra primera integración: GuayaCamp! GuayaCamp ser
 
 
 
-## 👉 [Registro](https://forms.gle/YLkTwczr4zgpbVUr8) 👈
+<p align="center" style="font-size: 2rem;">
+  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Registro 👈</a>
+</p>
 
 A fin de poder planear con exactitud y garantizar un espacio agradable es de suma importancia que todos los asistentes se registren oportunamente.
 
