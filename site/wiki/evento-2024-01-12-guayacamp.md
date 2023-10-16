@@ -23,7 +23,7 @@ En GuayaHack celebraremos nuestra primera integración: GuayaCamp! GuayaCamp ser
 ```{image} /_static/guayhackito-pink.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 150px
+:width: 15em
 :align: left
 ```
 
@@ -94,7 +94,7 @@ La agenda correspondiente al [calendario propio del evento ](https://calendar.go
 :alt: futuristic kite
 :class: bg-transparent
 :align: center
-:height: 300px
+:height: 15em
 ```
 
 ## Detalles para los {doc}`Moderadores </wiki/organizacion-rol-moderador>`
