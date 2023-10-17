@@ -20,7 +20,7 @@
 
 ## 👋 Saludos internauta!
 
-El `13 de enero de 2024` celebraremos en GuayaHack nuestra primera integración: GuayaCamp! GuayaCamp será un día de {ref}`conferencias <wiki/evento-2024-01-12-guayacamp.md#agenda>` sobre tecnología, programación, aprendizaje, la vida profesional y más; éste tendrá lugar en [Medellín](https://maps.app.goo.gl/dhQeyBgsQPeg5oVm6), Colombia. 
+El `13 de enero de 2024` celebraremos en GuayaHack nuestra primera integración! GuayaCamp será un día de {ref}`conferencias <wiki/evento-2024-01-12-guayacamp.md#agenda>` sobre tecnología, programación, aprendizaje, la vida profesional y más; éste tendrá lugar en [Medellín](https://maps.app.goo.gl/dhQeyBgsQPeg5oVm6), Colombia. 
 
 ## Beep Bop !^$% GuayaHack 
 
