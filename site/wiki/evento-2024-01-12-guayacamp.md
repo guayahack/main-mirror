@@ -78,7 +78,7 @@ La fecha límite de registro, y aportes monetarios para los amantes de la pizza,
 :align: left
 ```
 
-📅 `GuayaCamp 2024` tendrá lugar de forma híbrida durante el Sábado `2024-01‐13` en Medellín y la integración de los moderadores voluntarios en El Retiro, Colombia el Domingo `2024-01-14`.
+📅 `GuayaCamp 2024` tendrá lugar de forma híbrida durante el Sábado `2024-01‐13` en Medellín y la integración de los moderadores voluntarios será en El Retiro, Colombia el Domingo `2024-01-14`.
 
 📍 El ciclo de [desconferencias](https://es.wikipedia.org/wiki/Desconferencia) se llevará a cabo en [POR DEFINIR](https://maps.app.goo.gl/4YTXGcRULUHSLJw78) y la integración de los moderadores en [Finca Las Cordilleras](https://www.instagram.com/lascordilleras/).
 
