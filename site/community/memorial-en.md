@@ -6,7 +6,7 @@
 :location: Colombia
 :excerpt: 1
 ```
-[English](/community/memorial-en.md) | [Español](/community/memorial.md) <!-- l10n:select -->
+[English](/community/memorial-en.md) | [Español](/community/memorial.md) 
 
 # Memorial
 

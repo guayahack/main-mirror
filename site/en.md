@@ -5,17 +5,16 @@
 
 ## {doc}`/wiki/evento-2024-01-12-guayacamp` 
 
-## [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) y grupo de estudio
+## [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) and Study Group
 
-Aquí a tod@s, sin importar el nivel, nos gusta aprender sobre programación, informática, idiomas, y posiblemente todo tema relevante en el mundo moderno. GuayaHack es un espacio creado por y para la {doc}`/community/index`, fundado por {doc}`/community/member/jdsalaro/index`, el cual surgió como idea en [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` nació el `16 de julio de 2023` a las `20:00:00 CEST`, marcando el inicio de ésta aventura, [únete en Discord](https://discord.gg/RHePucN4e9).
+Here we all, regardless of the level, like to learn about technology, programming as well as human languages, and possibly every other relevant topic in the modern world. GuayaHack is a space created by and for the {doc}`/community/index`, founded by {doc}`/community/member/jdsalaro/index`, which arose as an idea in [/r/Colombia](https: //www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` was born on `July 16, 2023` at `20:00:00 CEST`, marking the beginning of this adventure, [join us on Discord](https://discord.gg/RHePucN4e9).
+
 
 ```console
-$ date=`date -d @1689530400`; echo -e "\nGuayaHack, fundado: $date"
+$ date=`date -d @1689530400`; echo -e "\nGuayaHack, founded: $date"
 
-GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
+GuayaHack, founded: So 16. Jul 20:00:00 CEST 2023
 ```
-
-
 
 ::::{grid} 2 2 2 6
 :class-container: landing-grid
@@ -115,49 +114,48 @@ GuayaHack, fundado: So 16. Jul 20:00:00 CEST 2023
 <iframe src="https://discord.com/widget?id=1130256195345727560&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ```
 
-## Sobre GuayaHack
 
-*GuayaHack* es un juego de palabras entre *Guayacán*, el nombre coloquial del árbol [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), y el término [Hacker](https://es.wikipedia.org/wiki/Hacker), utilizado para referirse a entusiastas de la tecnología. Inclusive tenemos un poema inspirado en ésta curiosa combinación titulado {doc}`/community/poema-cronicas-guayahack`.
+## About GuayaHack
 
-Puedes leer más sobre GuayaHack y sus miembros en nuestro {doc}`/community/memorial`, echándole un vistazo las [Reglas](community/rules.md) o en la página de la {doc}`/community/index`. 
+*GuayaHack* is a play on words between *Guayacán*, the colloquial name of the tree [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), and the term [Hacker](https://es .wikipedia.org/wiki/Hacker), used to refer to technology enthusiasts. We even have a poem inspired by this curious combination titled {doc}`/community/poema-chronicas-guayahack`.
+
+You can learn more about GuayaHack and its members in our {doc}`/community/memorial`, checking out the [Rules](community/rules.md) or on the {doc}`/community/index` page.
 
 
-## ¿Quién puede Participar?
+## Who can participate?
 
-%TODO:write las descripciones de los niveles y añadir ésta linea
-%{doc}`/wiki/organizacion-nivel-novato`, {doc}`/wiki/organizacion-nivel-experimentado` y {doc}`/wiki/organizacion-nivel-profesional`
+%TODO:write the level descriptions and add this line
+%{doc}`/wiki/organization-level-novice`, {doc}`/wiki/organization-level-experienced` and {doc}`/wiki/organization-level-professional`
 
-Únete usando [éste link de invitación](https://discord.gg/RHePucN4e9) para entrar a nuestro Discord y sigue los pasos en `#rules`.
+Join using [this invitation link](https://discord.gg/RHePucN4e9) to enter our Discord and follow the steps in `#rules`.
 
-Sin importar si eres principiante, tienes experiencia o eres profesional, comenzarás resolviendo {doc}`/reto/on-boarding-git-gitlab` y luego decidirás que camino quieres tomar.
+Whether you're a beginner, experienced, or professional, you'll start by solving {doc}`/challenge/on-boarding-git-gitlab` and then decide which path you want to take.
 
 ```{toctree}
 :maxdepth: 1
 :hidden:
 :caption: "# GuayaHack"
-# Memorial <community/memorial.md>
-# Noticias <noticias.md>
-# Calendario <calendario.md>
+# Memorial <community/memorial-en.md>
+# News <noticias.md>
+# Calendar <calendario.md>
 # Posts <posts/index.md>
-# Reglas <community/rules.md>
-# Comunidad <community/index.md>
+# Rules <community/rules.md>
+# Community <community/index.md>
 # WIKI <https://guayahack.co/posts/category/wiki/>
-# ¿Cómo Ayudo? <https://gitlab.com/guayahack/main/-/issues/>
+# ¿How do I Help? <https://gitlab.com/guayahack/main/-/issues/>
 ```
 
-## Guías, Materiales y Otros
+## Guides, Materials and Others
 
-Todo en la [#WIKI](https://guayahack.co/posts/category/wiki/), siempre en la [#WIKI](https://guayahack.co/posts/category/wiki/) :D
+Everything in the [#WIKI](https://guayahack.co/posts/category/wiki/), always in the [#WIKI](https://guayahack.co/posts/category/wiki/) :D
 
-## Destacado
+## Featured
 
 ```{postlist}
-:tags: destacado
+:tags: featured
 ```
 
-## Lo Último en GuayaHack
+## Latest on GuayaHack
 
 ```{postlist} 10
-```
-
 
