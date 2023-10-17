@@ -41,32 +41,32 @@ The deadline for registration, and monetary contributions for pizza lovers, is `
 ```{image} /_static/guayhackito-pink.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 14em
+:width: 11em
 :align: left
 ```
 
 ```{image} /_static/guayhackito-pirate.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 12em
+:width: 10em
 :align: right
 ```
 
 <p align="center" style="font-size: 2rem;">
-  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Register here! 👈</a>
+  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem; white-space: nowrap;">👉 Registro 👈</a>
 </p>
 
 ```{image} /_static/guayhackito-sombrero-flying-yellow.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 12em
+:width: 10em
 :align: center
 ```
 
 %```{image} /_static/guayhackito-sombrero.png
 %:alt: GuayHackito
 %:class: bg-transparent
-%:width: 13em
+%:width: 10em
 %:align: right
 %```
 
