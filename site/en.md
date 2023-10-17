@@ -7,7 +7,7 @@
 
 ## [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) and Study Group
 
-Here we all, regardless of the level, like to learn about technology, programming as well as human languages, and possibly every other relevant topic in the modern world. GuayaHack is a space created by and for the {doc}`/community/index`, founded by {doc}`/community/member/jdsalaro/index`, which arose as an idea in [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` was born on `July 16, 2023` at `20:00:00 CEST`, marking the beginning of this adventure, [join us on Discord](https://discord.gg/RHePucN4e9).
+Here everyone, no matter the level, likes to learn about technology, programming, computing, human languages, and possibly any relevant topic to the modern world. GuayaHack is a space created by and for the {doc}`/community/index`, founded by {doc}`/community/member/jdsalaro/index`, which emerged as an idea in [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` was born on `July 16, 2023` at `20:00:00 CEST`, marking the beginning of this adventure, [join us on Discord](https://discord.gg/RHePucN4e9).
 
 
 ```console
@@ -119,7 +119,7 @@ GuayaHack, founded: So 16. Jul 20:00:00 CEST 2023
 
 *GuayaHack* is a play on words between *Guayacán*, the colloquial name of the tree [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), and the term [Hacker](https://es.wikipedia.org/wiki/Hacker), used to refer to technology enthusiasts. We even have a poem inspired by this curious combination titled {doc}`/community/poema-chronicas-guayahack`.
 
-You can learn more about GuayaHack and its members in our {doc}`/community/memorial`, checking out the [Rules](community/rules.md) or on the {doc}`/community/index` page.
+You can learn more about GuayaHack and its members in our {doc}`/community/memorial`, by taking a look at the [Rules](community/rules.md) or on the {doc}`/community/index` page.
 
 
 ## Who can participate?
@@ -129,7 +129,7 @@ You can learn more about GuayaHack and its members in our {doc}`/community/memor
 
 Join using [this invitation link](https://discord.gg/RHePucN4e9) to enter our Discord and follow the steps in `#rules`.
 
-Whether you're a beginner, experienced, or professional, you'll start by solving {doc}`/challenge/on-boarding-git-gitlab` and then decide which path you want to take.
+No matter if you are a beginner, experienced or professional, you will start by solving {doc}`/challenge/on-boarding-git-gitlab` and then decide which path you want to take.
 
 %this TOC is here only for reference
 %```{toctree}
