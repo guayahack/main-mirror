@@ -80,7 +80,7 @@ The deadline for registration, and monetary contributions for pizza lovers, is `
 ```{image} ./evento-2024-01-12-guayacamp.md-data/treehouse.png
 :alt: treehouse
 :class: bg-transparent
-:width: 300px
+:width: 14em
 :align: left
 ```
 

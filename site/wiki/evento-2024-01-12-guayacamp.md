@@ -74,7 +74,7 @@ La fecha límite de registro y aportes monetarios para los amantes de la pizza e
 ```{image} ./evento-2024-01-12-guayacamp.md-data/treehouse.png
 :alt: treehouse
 :class: bg-transparent
-:width: 12em
+:width: 14em
 :align: left
 ```
 
