@@ -53,7 +53,7 @@ The deadline for registration, and monetary contributions for pizza lovers, is `
 ```
 
 <p align="center" style="font-size: 2rem;">
-  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Registro 👈</a>
+  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Register here! 👈</a>
 </p>
 
 ```{image} /_static/guayhackito-sombrero-flying-yellow.png
