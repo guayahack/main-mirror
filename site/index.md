@@ -136,13 +136,13 @@ Sin importar si eres principiante, tienes experiencia o eres profesional, comenz
 :hidden:
 :caption: "# GuayaHack"
 # Memorial <community/memorial.md>
-# Noticias <noticias.md>
-# Calendario <calendario.md>
+# Noticias | News <noticias.md>
+# Calendario | Calendar <calendario.md>
 # Posts <posts/index.md>
-# Reglas <community/rules.md>
-# Comunidad <community/index.md>
+# Reglas | Rules <community/rules.md>
+# Comunidad | Community <community/index.md>
 # WIKI <https://guayahack.co/posts/category/wiki/>
-# ¿Cómo Ayudo? <https://gitlab.com/guayahack/main/-/issues/>
+# Proyectos | Projects <https://gitlab.com/guayahack/main/-/issues/>
 ```
 
 ## Guías, Materiales y Otros

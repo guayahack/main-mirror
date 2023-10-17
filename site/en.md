@@ -131,19 +131,20 @@ Join using [this invitation link](https://discord.gg/RHePucN4e9) to enter our Di
 
 Whether you're a beginner, experienced, or professional, you'll start by solving {doc}`/challenge/on-boarding-git-gitlab` and then decide which path you want to take.
 
-```{toctree}
-:maxdepth: 1
-:hidden:
-:caption: "# GuayaHack"
-# Memorial <community/memorial-en.md>
-# News <noticias.md>
-# Calendar <calendario.md>
-# Posts <posts/index.md>
-# Rules <community/rules.md>
-# Community <community/index.md>
-# WIKI <https://guayahack.co/posts/category/wiki/>
-# ¿How do I Help? <https://gitlab.com/guayahack/main/-/issues/>
-```
+%this TOC is here only for reference
+%```{toctree}
+%:maxdepth: 1
+%:hidden:
+%:caption: "# GuayaHack"
+%# Memorial <community/memorial-en.md>
+%# News <noticias.md>
+%# Calendar <calendario.md>
+%# Posts <posts/index.md>
+%# Rules <community/rules.md>
+%# Community <community/index.md>
+%# WIKI <https://guayahack.co/posts/category/wiki/>
+%# ¿How do I Help? <https://gitlab.com/guayahack/main/-/issues/>
+%```
 
 ## Guides, Materials and Others
 
