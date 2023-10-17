@@ -1,13 +1,13 @@
 
 [English](/en.md) | [Español](/index.md) 
 
-# GuayaHack
+# GuayaHack EN
 
 ## {doc}`/wiki/evento-2024-01-12-guayacamp` 
 
 ## [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) and Study Group
 
-Here we all, regardless of the level, like to learn about technology, programming as well as human languages, and possibly every other relevant topic in the modern world. GuayaHack is a space created by and for the {doc}`/community/index`, founded by {doc}`/community/member/jdsalaro/index`, which arose as an idea in [/r/Colombia](https: //www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` was born on `July 16, 2023` at `20:00:00 CEST`, marking the beginning of this adventure, [join us on Discord](https://discord.gg/RHePucN4e9).
+Here we all, regardless of the level, like to learn about technology, programming as well as human languages, and possibly every other relevant topic in the modern world. GuayaHack is a space created by and for the {doc}`/community/index`, founded by {doc}`/community/member/jdsalaro/index`, which arose as an idea in [/r/Colombia](https://www.reddit.com/r/Colombia/comments/151fkiz/con_una_prima_y_un_amigo_armaremos_un_grupo_de). `GuayaHack` was born on `July 16, 2023` at `20:00:00 CEST`, marking the beginning of this adventure, [join us on Discord](https://discord.gg/RHePucN4e9).
 
 
 ```console
@@ -117,7 +117,7 @@ GuayaHack, founded: So 16. Jul 20:00:00 CEST 2023
 
 ## About GuayaHack
 
-*GuayaHack* is a play on words between *Guayacán*, the colloquial name of the tree [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), and the term [Hacker](https://es .wikipedia.org/wiki/Hacker), used to refer to technology enthusiasts. We even have a poem inspired by this curious combination titled {doc}`/community/poema-chronicas-guayahack`.
+*GuayaHack* is a play on words between *Guayacán*, the colloquial name of the tree [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), and the term [Hacker](https://es.wikipedia.org/wiki/Hacker), used to refer to technology enthusiasts. We even have a poem inspired by this curious combination titled {doc}`/community/poema-chronicas-guayahack`.
 
 You can learn more about GuayaHack and its members in our {doc}`/community/memorial`, checking out the [Rules](community/rules.md) or on the {doc}`/community/index` page.
 
@@ -153,7 +153,7 @@ Everything in the [#WIKI](https://guayahack.co/posts/category/wiki/), always in 
 ## Featured
 
 ```{postlist}
-:tags: featured
+:tags: destacado
 ```
 
 ## Latest on GuayaHack

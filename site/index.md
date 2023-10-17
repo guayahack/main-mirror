@@ -1,7 +1,7 @@
 
 [English](/en.md) | [Español](/index.md) 
 
-# GuayaHack
+# GuayaHack ES
 
 ## {doc}`/wiki/evento-2024-01-12-guayacamp` 
 
