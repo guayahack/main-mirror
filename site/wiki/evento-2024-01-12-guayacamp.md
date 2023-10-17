@@ -35,32 +35,32 @@ La fecha límite de registro y aportes monetarios para los amantes de la pizza e
 ```{image} /_static/guayhackito-pink.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 14em
+:width: 11em
 :align: left
 ```
 
 ```{image} /_static/guayhackito-pirate.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 12em
+:width: 10em
 :align: right
 ```
 
 <p align="center" style="font-size: 2rem;">
-  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem;">👉 Registro 👈</a>
+  <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem; white-space: nowrap;">👉 Registro 👈</a>
 </p>
 
 ```{image} /_static/guayhackito-sombrero-flying-yellow.png
 :alt: GuayHackito
 :class: bg-transparent
-:width: 12em
+:width: 10em
 :align: center
 ```
 
 %```{image} /_static/guayhackito-sombrero.png
 %:alt: GuayHackito
 %:class: bg-transparent
-%:width: 13em
+%:width: 11em
 %:align: right
 %```
 
@@ -74,7 +74,7 @@ La fecha límite de registro y aportes monetarios para los amantes de la pizza e
 ```{image} ./evento-2024-01-12-guayacamp.md-data/treehouse.png
 :alt: treehouse
 :class: bg-transparent
-:width: 300px
+:width: 12em
 :align: left
 ```
 
@@ -106,7 +106,7 @@ La agenda correspondiente al [calendario propio del evento ](https://calendar.go
 :alt: futuristic kite
 :class: bg-transparent
 :align: center
-:height: 15em
+:height: 12em
 ```
 
 ## Detalles para los {doc}`Moderadores </wiki/organizacion-rol-moderador>`
