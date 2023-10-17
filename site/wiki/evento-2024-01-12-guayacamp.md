@@ -24,13 +24,13 @@ El `13 de enero de 2024` celebraremos en GuayaHack nuestra primera integración!
 
 ## Beep Bop !^$% GuayaHack 
 
-Ésta página contiene toda la información esencial sobre GuayaCamp; otros detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117). En caso de dudas o sugerencias, escríbenos por [Discord](https://discord.gg/RHePucN4e9) o a `info@guayahack.co`.
+Esta página contiene toda la información esencial sobre GuayaCamp;(otros detalles se discutirán en el [Issue de Planeación](https://gitlab.com/guayahack/main/-/issues/117)). En caso de dudas o sugerencias, escríbenos por [Discord](https://discord.gg/RHePucN4e9) o a `info@guayahack.co`.
 
 ### ¡ [Regístrate](https://forms.gle/YLkTwczr4zgpbVUr8) y conecta con la comunidad !
 
-A fin de poder planear con exactitud y garantizar un espacio agradable es de suma importancia que todos los asistentes se registren oportunamente.
+A fin de poder planear con exactitud y garantizar un espacio agradable, es de suma importancia que todos los asistentes se registren oportunamente.
 
-La fecha límite de registro, y aportes monetarios para los amantes de la pizza, es `Diciembre 1, 2023`. El registro y aportes el día de el evento serán posibles toda vez que haya espacio para más participantes.
+La fecha límite de registro y aportes monetarios para los amantes de la pizza es `Diciembre 1, 2023`. Igualmenente será posible registrarse y aportar el día del eveneto toda vez que haya espacio para más participantes.
 
 ```{image} /_static/guayhackito-pink.png
 :alt: GuayHackito
@@ -84,11 +84,11 @@ La fecha límite de registro, y aportes monetarios para los amantes de la pizza,
 
 📹 Grabaciones del evento, cuando las haya, estarán disponibles através de 🔗 [Zoom](https://zoom.us) y 🔗 [Youtube](https://www.youtube.com/@guayahack)
 
-💰 El acceso `no tiene costo` pero requiere [registrarse](https://forms.gle/YLkTwczr4zgpbVUr8). A fin de organizar un evento del agrado de todos, contribuciones voluntarias de `50,000 | 100,000 | 200,000` COP son bienvenidas e incluyen, pizza 🍕 y una bebida 🍹.
+💰 El acceso al evento `no tiene costo`, pero requiere [registrarse](https://forms.gle/YLkTwczr4zgpbVUr8). Para organizar un evento del agrado de todos, contribuciones voluntarias de `50,000 | 100,000 | 200,000` COP son bienvenidas e incluyen stickers 🖼️, pizza 🍕 y una bebida 🍹.
 
 ## Agenda
 
-Éste evento ha sido agregado a nuestro {doc}`/calendario` principal 
+Este evento ha sido agregado a nuestro {doc}`/calendario` principal 
 
 La agenda correspondiente al [calendario propio del evento ](https://calendar.google.com/calendar/u/0/embed?src=cc1058b39f9c45d8031a5e5aa56e617ade17d58445a6667af420612f54007f16@group.calendar.google.com&ctz=America/Bogota&dates=20240112%2F20240114) también está embebido directamente aquí 👇
 
@@ -113,11 +113,11 @@ La agenda correspondiente al [calendario propio del evento ](https://calendar.go
 
 ### Logística y otros
 
-Éste es el [Issue de Sondeo](https://gitlab.com/guayahack/main/-/issues/84) anterior donde decidimos organizar y llevar a cabo GuayaCamp; nuestro espacio y ciclo de conferencias para socializar y aprender entre miembros e interesados de la comunidad.
+Este es el [issue de sondeo](https://gitlab.com/guayahack/main/-/issues/84) anterior en donde decidimos organizar y llevar a cabo GuayaCamp: nuestro espacio y ciclo de conferencias para socializar y aprender entre miembros e interesados de la comunidad.
 
 #### Llegada
 
-Los moderadores y voluntarios llegarán a Medellín durante el 11 o 12 de Enero.
+Los moderadores y voluntarios llegarán a Medellín entre el 11 o 12 de enero de 2024.
 
 ##### Hospedaje
 
@@ -127,7 +127,7 @@ Los moderadores y voluntarios se hospedaran en 📍 [Finca Las Cordilleras](http
 
 ###### Participantes
 
-Participantes y miembros de la comunidad pueden solicitar unirse para pasar la noche de Enero 13 y la mañana de Enero 14 con los moderadores en el campo 🌳
+Participantes y miembros de la comunidad podrán solicitar unirse para pasar la noche de Enero 13 y la mañana de Enero 14 con los moderadores en el campo 🌳
 
 #### Partida
 
