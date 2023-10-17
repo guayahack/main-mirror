@@ -84,7 +84,7 @@ La fecha límite de registro y aportes monetarios para los amantes de la pizza e
 
 📹 Grabaciones del evento, cuando las haya, estarán disponibles através de 🔗 [Zoom](https://zoom.us) y 🔗 [Youtube](https://www.youtube.com/@guayahack)
 
-💰 El acceso al evento `no tiene costo`, pero requiere [registrarse](https://forms.gle/YLkTwczr4zgpbVUr8). Para organizar un evento del agrado de todos, contribuciones voluntarias de `50,000 | 100,000 | 200,000` COP son bienvenidas e incluyen stickers 🖼️, pizza 🍕 y una bebida 🍹.
+💰 El acceso al evento `no tiene costo`, pero requiere [registrarse](https://forms.gle/YLkTwczr4zgpbVUr8). Para organizar un evento del agrado de todos, contribuciones voluntarias de `50,000 | 100,000 | 200,000` COP son bienvenidas e incluyen pizza 🍕 y una bebida 🍹.
 
 ## Agenda
 
