@@ -117,7 +117,7 @@ GuayaHack, founded: So 16. Jul 20:00:00 CEST 2023
 
 ## About GuayaHack
 
-*GuayaHack* is a play on words between *Guayacán*, the colloquial name of the tree [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), and the term [Hacker](https://es.wikipedia.org/wiki/Hacker), used to refer to technology enthusiasts. We even have a poem inspired by this curious combination titled {doc}`/community/poema-chronicas-guayahack`.
+*GuayaHack* is a play on words between *Guayacán*, the colloquial name of the tree [Handroanthus chrysanthus](https://en.wikipedia.org/wiki/Handroanthus_chrysanthus), and the term [Hacker](https://es.wikipedia.org/wiki/Hacker), used to refer to technology enthusiasts. We even have a poem inspired by this curious combination titled {doc}`/community/poema-cronicas-guayahack`.
 
 You can learn more about GuayaHack and its members in our {doc}`/community/memorial`, by taking a look at the [Rules](community/rules.md) or on the {doc}`/community/index` page.
 
@@ -129,7 +129,7 @@ You can learn more about GuayaHack and its members in our {doc}`/community/memor
 
 Join using [this invitation link](https://discord.gg/RHePucN4e9) to enter our Discord and follow the steps in `#rules`.
 
-No matter if you are a beginner, experienced or professional, you will start by solving {doc}`/challenge/on-boarding-git-gitlab` and then decide which path you want to take.
+No matter if you are a beginner, experienced or professional, you will start by solving {doc}`/reto/on-boarding-git-gitlab` and then decide which path you want to take.
 
 %this TOC is here only for reference
 %```{toctree}

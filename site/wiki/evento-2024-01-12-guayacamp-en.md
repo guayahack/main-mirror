@@ -95,7 +95,7 @@ The deadline for registration, and monetary contributions for pizza lovers, is `
 
 ## Agenda
 
-This event has been added to our main {doc}`/calendar`
+This event has been added to our main {doc}`/calendario`
 
 The agenda corresponding to the [event's own calendar](https://calendar.google.com/calendar/u/0/embed?src=cc1058b39f9c45d8031a5e5aa56e617ade17d58445a6667af420612f54007f16@group.calendar.google.com&ctz=America/Bogota&dates=20240112%2F20240114) also It is embedded directly here 👇
 
@@ -116,7 +116,7 @@ The agenda corresponding to the [event's own calendar](https://calendar.google.c
 :height: 15em
 ```
 
-# Details for {doc}`Moderators </wiki/organizacion-role-moderador>`
+## Details for {doc}`Moderators </wiki/organizacion-rol-moderador>`
 
 ### Logistics and others
 
