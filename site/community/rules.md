@@ -6,6 +6,8 @@
 :excerpt: 1
 ```
 
+[English](/community/rules-en.md) | [Español](/community/rules.md)
+
 # Reglas (Big Endian[^BIGENDIAN])
 
 [^BIGENDIAN]:https://es.wikipedia.org/wiki/Endianness
