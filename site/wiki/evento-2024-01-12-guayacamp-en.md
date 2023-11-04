@@ -38,7 +38,7 @@ In order to ensure accurate planning and a pleasant space, it is of utmost impor
 
 The deadline for registration, and monetary contributions for pizza lovers, is `December 1, 2023`. Registration and contributions on the day of the event will be possible as long as there is space for more participants.
 
-```{image} /_static/guayhackito-pink.png
+```{image} /_static/guayhackito-pink-right.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 11em
@@ -56,7 +56,7 @@ The deadline for registration, and monetary contributions for pizza lovers, is `
   <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem; white-space: nowrap;">👉 Registro 👈</a>
 </p>
 
-```{image} /_static/guayhackito-sombrero-flying-yellow.png
+```{image} /_static/guayhackito-sombrero-flying-yellow-smile.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 10em
@@ -106,7 +106,7 @@ The agenda corresponding to the [event's own calendar](https://calendar.google.c
 
 ## Organizers 
 
-{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@harold </community/member/harold/index>`, {doc}`@davidadarme </community/member/davidadarme/index>`, {doc}`@camilo.java </community/member/camilo.java/index>`.
+{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@Mcveigth </community/member/mcveigth/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@davidadarme </community/member/davidadarme/index>`.
 
 
 ```{image} ./evento-2024-01-12-guayacamp.md-data/kite.png

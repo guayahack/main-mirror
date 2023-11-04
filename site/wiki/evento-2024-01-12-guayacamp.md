@@ -30,9 +30,9 @@ Esta página contiene toda la información esencial sobre GuayaCamp;(otros detal
 
 A fin de poder planear con exactitud y garantizar un espacio agradable, es de suma importancia que todos los asistentes se registren oportunamente.
 
-La fecha límite de registro y aportes monetarios para los amantes de la pizza es `Diciembre 1, 2023`. Igualmenente será posible registrarse y aportar el día del eveneto toda vez que haya espacio para más participantes.
+La fecha límite de registro y aportes monetarios para los amantes de la pizza es `Diciembre 1, 2023`. Igualmenente será posible registrarse y aportar el día del evento toda vez que haya espacio para más participantes.
 
-```{image} /_static/guayhackito-pink.png
+```{image} /_static/guayhackito-pink-right.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 11em
@@ -50,7 +50,7 @@ La fecha límite de registro y aportes monetarios para los amantes de la pizza e
   <a href="https://forms.gle/YLkTwczr4zgpbVUr8" style="font-size: 2rem; white-space: nowrap;">👉 Registro 👈</a>
 </p>
 
-```{image} /_static/guayhackito-sombrero-flying-yellow.png
+```{image} /_static/guayhackito-sombrero-flying-yellow-smile.png
 :alt: GuayHackito
 :class: bg-transparent
 :width: 10em
@@ -99,7 +99,7 @@ La agenda correspondiente al [calendario propio del evento ](https://calendar.go
 
 ## Organizadores 
 
-{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@harold </community/member/harold/index>`, {doc}`@davidadarme </community/member/davidadarme/index>`, {doc}`@camilo.java </community/member/camilo.java/index>`.
+{doc}`@jdsalaro </community/member/jdsalaro/index>`, {doc}`@Mcveigth </community/member/mcveigth/index>`, {doc}`@DavidQP </community/member/davidqp/index>`, {doc}`@davidadarme </community/member/davidadarme/index>`.
 
 
 ```{image} ./evento-2024-01-12-guayacamp.md-data/kite.png
