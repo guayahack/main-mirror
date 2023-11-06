@@ -1,4 +1,3 @@
-
 ```{post} 2023-08-21
 :author: "@davidadarme"
 :tags: moderador, participante, tutor
@@ -8,9 +7,8 @@
 :excerpt: 1
 ```
 
-# @davidadarme 
-
-Hola soy `@davidadarme` (`linustorvalds` en Discord)! 
+# @davidadarme
+Hola soy David, `@linustorvalds` en Discord! Actualmente cursando el tecnólogo de ADSO (Analisís y desarrollo de software) en el SENA de Bucaramanga.avidadarme 
 
 Éste es mi espacio en GuayaHack.
 
