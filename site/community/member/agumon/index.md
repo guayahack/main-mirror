@@ -1,4 +1,4 @@
-```{post} 2023-10-17
+```{post} 2023-11-6
 :author: "@agumon0241"
 :tags: participante
 :category: miembros

@@ -1,5 +1,5 @@
 ```{post} 2023-07-18
-:author: "@agumon"
+:author: "@agumon0241"
 :tags: nota, reto
 :category: blog 
 :language: English, Español, Français
