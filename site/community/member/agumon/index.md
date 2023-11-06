@@ -24,3 +24,9 @@ This is my space on Guayahack.
 :excerpts:
 :sort:
 ```
+```{figure} index.md-data/tux.png
+---
+alt: tux
+---
+```
+
