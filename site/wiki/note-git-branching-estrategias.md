@@ -5,7 +5,7 @@
 :excerpt: 1
 ```
 
-# Estrategias de Branching
+# Git para principiantes: estrategias de branching
 
 En el mundo de Git y GitLab existen muchas estrategias para realizar cambios a una base de código. En general, se puede decir que existen dos escenarios. 
 
