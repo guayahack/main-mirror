@@ -23,7 +23,6 @@ extensions = [
     "sphinxext.rediraffe",
     "sphinxext.opengraph",
     "sphinx.ext.intersphinx",
-    "sphinx_new_tab_link",
     # "sphinx.ext.autosectionlabel", #not needed, we use myst_parser's implicit anchors
 ]
 
