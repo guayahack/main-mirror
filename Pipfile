@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 tox = "*"
+sphinx-new-tab-link = "*"
 
 [dev-packages]
 
