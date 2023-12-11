@@ -8,7 +8,9 @@
 ```
 
 # @davidadarme
-Hola soy David, `@linustorvalds` en Discord! Actualmente cursando el tecnólogo de ADSO (Analisís y desarrollo de software) en el SENA de Bucaramanga.avidadarme 
+Hola soy David, `@linustorvalds` en Discord! Actualmente cursando el tecnólogo de ADSO (Analisís y desarrollo de software) en el SENA de Bucaramanga.
+
+![Metrics](https://metrics.lecoq.io/davidadarme?template=classic&isocalendar=1&base=header%2C%20activity%2C%20communit%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FBogota)
 
 Éste es mi espacio en GuayaHack.
 
