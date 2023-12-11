@@ -14,7 +14,7 @@ Hola, soy `@velo35`. Me interesa los algoritmos y programar aplicaciones para mo
 ## Blog
 
 ```{postlist}
-:author: "@guayahack" %REEMPLAZAR: debe ser igual al handle en discord y el título de éste espacio (todo en minúsculas)
+:author: "@velo35"
 :category: blog
 :excerpts:
 :sort:
