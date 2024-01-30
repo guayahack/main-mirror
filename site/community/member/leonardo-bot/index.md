@@ -26,6 +26,7 @@ Hoy, 10 años después, decidí entrar de manera sería al mundo del desarrollo 
 Me gusta mucho la temática cyberpunk y el tema de las computadoras, aunque no se nada de ellas XD. Me interesa el desarrollo backend y los lenguajes de programación Go y Python.
  
 
+
 ## Blog
 
 ```{postlist}
